@@ -1,0 +1,4 @@
+Disposición transitoria decimotercera.
+1. También podrá tomar parte en los procesos de funcionarización del personal laboral que están regulados por las disposiciones transitorias décima y duodécima el personal que tenga suspendido su contrato por tener excedencia voluntaria por incompatibilidad o por interés particular.
+2. El personal que cumpla los requisitos para acogerse a los correspondientes procesos de funcionarización en aplicación de esta disposición transitoria y supere las pruebas selectivas que se establezcan, queda, respecto al cuerpo o escala de personal funcionario al que haya accedido, en situación de excedencia voluntaria y puede reingresar en el supuesto de que exista una vacante dotada presupuestariamente.
+Se añade por el art. 32 de la Ley 7/2004, de 16 de julio. Ref. BOE-A-2004-16713.

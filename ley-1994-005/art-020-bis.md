@@ -1,3 +1,4 @@
 Artículo 20 bis.
-Los miembros del Cuerpo de Bomberos de la Generalidad que tengan un mínimo de dos años de antigüedad de servicio en activo en la categoría inmediatamente inferior, que tengan la titulación del grupo C y que hayan superado o superen un curso de capacitación de carácter selectivo impartido por la Escuela de Bomberos y Seguridad Civil de Cataluña pueden acceder a la categoría de oficial por promoción interna, mediante concurso.
+El personal del Cuerpo de Bomberos de la Generalidad que tenga un mínimo de dos años de antigüedad de servicio activo en la categoría inmediatamente inferior y que haya superado o supere un curso de capacitación de carácter selectivo impartido por la Escuela de Bomberos y Seguridad Civil de Cataluña puede acceder a la categoría de oficial por promoción interna, mediante concurso oposición.
+Se modifica por el art. 35.4 de la Ley 7/2004, de 16 de julio. Ref. BOE-A-2004-16713.
 Se añade por el art. 74.4 de la Ley 31/2002, de 30 de diciembre. Ref. BOE-A-2003-1056.
