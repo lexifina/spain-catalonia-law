@@ -1,0 +1,3 @@
+Artículo 12.bis.
+En el supuesto de que las fianzas se depositen fuera del plazo establecido sin requerimiento previo de la Inspección, se aplica un recargo del 10 % del importe de la fianza, con exclusión de las sanciones que de otro modo se puedan exigir y de los intereses de demora. Si el depósito de la fianza se efectúa fuera del plazo establecido, después del requerimiento de la Inspección, el recargo es del 20 % del importe de la fianza con exclusión de las sanciones que, de otro modo, se puedan exigir y de los intereses de demora. En ambos supuestos, el importe máximo del recargo es de 300 euros.
+Se añade por el art. 61.3 de la Ley 21/2001, de 28 de diciembre. Ref. BOE-A-2002-1485.

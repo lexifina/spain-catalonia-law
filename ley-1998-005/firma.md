@@ -201,10 +201,10 @@ b) Tarifa de mercancías:
 Las cuantías de la tarifa a aplicar a cada partida de mercancías son por tonelada métrica de peso bruto o fracción y en función del grupo de bonificación al que pertenecen, de acuerdo con el repertorio de clasificación de mercancías vigente.
 Grupo de mercancías | Precio en pesetas por tonelada métrica
 Primero | 138
-Segundo | 192
-Tercero | 300
-Cuarto | 432
-Quinto | 600
+Segundo | 1,09 €
+Tercero | 1,69 €
+Cuarto | 2,45 €
+Quinto | 3,42 €
 Régimen general:
 a) Las mercancías que exclusivamente se embarquen tienen una bonificación del 40 por 100. Las que son transbordadas, tanto si realizan tránsito marítimo como terrestre, no tienen ninguna variación en la cuantía básica.
 b) 1. Para partidas con un peso total inferior a una tonelada métrica, la cuantía es, por cada 200 kilogramos o fracción en exceso, la quinta parte de la que correspondería pagar por una tonelada. A efectos de lo establecido en este apartado, se entiende como partida las mercancías incluidas en cada línea de un mismo conocimiento de embarque.
@@ -336,8 +336,9 @@ La base para la liquidación de esta tarifa es el tiempo de disponibilidad de la
 1. Grúas:
 Hora de grúa de menos de 6 toneladas: 8.500 pesetas.
 Hora de grúa de más de 6 toneladas: 11.000 pesetas.
+Hora de grúa de más de 12 toneladas: 90,15 euros.
 2. Báscula:
-Pesaje (personal incluido): 400 pesetas.
+Pesaje (personal incluido): 3,31 €.
 3. Carretones: 2.830 pesetas.
 4.1.5 Reducciones o bonificaciones:
 1. Puertos de la Generalidad puede establecer conciertos para determinar los precios con los usuarios que se comprometan a realizar una utilización intensa de una determinada maquinaria o un determinado utillaje.
@@ -369,7 +370,6 @@ Días 4 al 10 | 3,2 | 8
 Días 11 al 17 | 4,8 | 16
 Días 18 en adelante | 13 | 32
 Zonas de almacenaje | 3 | 6,4
-Utensilios de pesca | 3,5 | 7
 Otros usos: |  | 
 Temporada alta (del 1 de junio al 30 de septiembre) | 40 | 
 Temporada baja | 20 | 
@@ -415,7 +415,7 @@ Están obligados a abonar esta tarifa los usuarios del servicio.
 La base para la liquidación de esta tarifa es la operación efectuada, el tiempo de utilización de la instalación y la eslora y manga de la embarcación.
 4.4.4 Cuantía de la tarifa.
 La cuantía de la tarifa a aplicar es la siguiente:
-a) Rampa de botadura: 160 pesetas por día de utilización y por metros de eslora, y no incluye el vehículo ni el remolque.
+a) Rampa de botadura: 6 euros por operación, por día de utilización y por metros de eslora, y no incluye el vehículo ni el remolque.
 b) Carros de botadura:
 Izada o botadura: 92 pesetas por metro lineal de eslora por manga.
 Estancia en la zona de reparación: 46 pesetas por día y por metro lineal de eslora por manga.
@@ -487,6 +487,7 @@ Esta tarifa comprende cualquier otro servicio portuario prestado en régimen de 
 Están obligados al pago de esta tarifa los usuarios de los correspondientes servicios.
 4.6.3 Base y cuantía de la tarifa:
 La base para la liquidación de esta tarifa es el número de unidades del servicio prestado en cada caso. La cuantía de esta tarifa se fija de acuerdo con la naturaleza y peculiaridad del servicio, teniendo en cuenta el valor real de mercado de los servicios prestados y actividades realizadas.
+Se modifican las tarifas G-3, establecidas por la letra b del apartado 3.3.4, tarifa E-1, establecida por el punto 2 del apartado 4.1.4, la tarifa E-4, establecida en la letra a del apartado 4.4.4, tarifa E-1 del punto 1 del apartado 4.1.4, y la tarifa E-2 del punto 1 del apartado 4.2.4; y se incrementan en un 3 % las tarifas establecidas por los apartados 3.1.4 de la tarifa G-1, apartado 3.2.4 de la tarifa G-2, letra a del apartado 3.3.4 de la tarifa G-3, apartado 3.5.4 de la tarifa G-5, punto 1 del apartado 4.1.4 de la tarifa E-1, punto 3 del apartado 4.1.4 de la tarifa E-1, punto 1 del apartado 4.2.4 de la tarifa E-2, apartado 4.4.4 de la tarifa E-4, apartado 4.5.4 de la tarifa E-5, todas ellas por el art. 42 de la Ley 21/2001, de 28 de diciembre. Ref. BOE-A-2002-1485.
 Se modifica por los arts. 27, y disposiciones adicionales 3 y 11 de la Ley 15/2000, de 29 de diciembre. Ref. BOE-A-2001-1616.
 Se añade por el art. 31.2 de la Ley 4/2000, de 26 de mayo. Ref. BOE-A-1998-12320.
 ANEXO II
