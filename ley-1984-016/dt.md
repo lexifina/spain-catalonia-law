@@ -1,0 +1,2 @@
+Disposición transitoria
+Los funcionarios adscritos o traspasados que hayan sido nombrados Interventores de la Generalidad por disposición publicada en el «Diari Oficial de la Generalitat de Catalunya» y pertenezcan a los Cuerpos de Interventores enumerados en el artículo 9, 1, quedarán integrados en el Cuerpo de Interventores de la Generalidad con la antigüedad de su nombramiento en la Administración de la Generalidad, y ejercerán las funciones con la diversificación Prevista en el mencionado artículo.
