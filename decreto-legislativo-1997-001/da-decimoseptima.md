@@ -1,4 +1,3 @@
 Disposición adicional decimoséptima. Del registro de organizaciones sindicales de la policía autonómica.
-1. De acuerdo con el artículo 20 de la Ley Orgánica 2/1986, de 13 de marzo, de fuerzas y cuerpos de seguridad, se establece en la Dirección General de Seguridad Ciudadana del Departamento de Gobernación el Registro especial de organizaciones sindicales de la Policía Autonómica de Cataluña, cuyos estatutos deben cumplir los requisitos que determina el citado artículo.
-2. Se aplica al cuerpo de mozos de escuadra la especificidad del derecho de sindicación establecido en el artículo 18.2 de la Ley orgánica 2/1986, de 13 de marzo.
-3. Se aplica a las organizaciones sindicales legalmente constituidas e inscritas en el registro a que se refiere el apartado 1 lo establecido en los artículos 21 y 22 de la Ley orgánica 2/1986, de 13 de marzo.
+(Derogada).
+Se deroga por la disposición derogatoria de la Ley 26/2002, de 28 de noviembre. Ref. BOE-A-2002-25142.
