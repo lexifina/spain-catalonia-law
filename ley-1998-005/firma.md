@@ -121,7 +121,7 @@ Puertos de la Generalidad puede conceder una reducción en esta tarifa de hasta 
 5. Reducción por compromiso de calidad:
 A los buques que hayan obtenido el certificado de distintivo verde (Green Award) otorgado por la Fundación Distintivo Verde (Green Award Foundation), de Rotterdam, se les aplica un descuento del 10 por 100 de esta tarifa.
 6. Reducción por larga estancia:
-a) Los buques o artefactos flotantes que estén inactivos o se encuentren dedicados al tráfico interior o estén en construcción, en reparación o en proceso de desguace, que estén destinados al almacenaje de líquidos o mercancías de cualquier tipo, a acuicultura o a constituir viveros flotantes, deben pagar mensualmente, por adelantado, 15 veces el importe diario que por aplicación les corresponda.
+a) Los barcos o artefactos flotantes inactivos, dedicados al tráfico interior, o en construcción, reparación o proceso de desguace, que están destinados al almacenaje de líquidos o mercancías de cualquier clase o a construir viveros flotantes, deben pagar mensualmente, por adelantado, quince veces el importe diario que, por aplicación, les corresponda.
 7. Reducción por utilizar instalaciones en régimen de concesión administrativa construidas por particulares:
 A los puertos industriales o instalaciones objeto de concesión la tarifa a aplicar es el 60 por 100 de la cuantía, según la clase de navegación.
 8. Reducción por arribada forzosa:
@@ -269,6 +269,7 @@ c) La ocultación o inexactitud de los nombres de los compradores.
 1. El abono de esta tarifa exime al buque pesquero del abono de las tarifas G-1 y G-2 por un plazo máximo de un mes en el puerto en el que haya abonado la G-4, a partir de la fecha de inicio de las operaciones de descarga o transbordo. Una vez transcurrido este plazo, que debe considerarse terminado cuando en el transcurso de un mes el mencionado buque pesquero no haya dado origen a movimientos comerciales en la lonja o centro de control del peso correspondiente, ni desembarcado en cualquier puerto de Puertos de la Generalidad, se abonarán las tarifas G-1 y G-2. Puertos de la Generalidad podrá ampliarlo en los casos de inactividad forzosa por temporales, vedas costeras o falta de licencias referidas a sus actividades habituales, expresamente e individualmente acreditados por certificación de la autoridad competente ; en caso contrario, deben acreditarse a partir del mencionado plazo las tarifas G-1 y G-2.
 2. En los casos de inactividad forzosa prolongada mencionados en el apartado 1, la autoridad portuaria debe fijar los puestos en los que los mencionados buques deban permanecer fondeados o atracados, atendiendo a las disponibilidades de atraque y las exigencias de la explotación portuaria.
 3. Las embarcaciones pesqueras, mientras abonen esta tarifa de la forma definida en la condición anterior, están exentas del abono de la tarifa G-3, por el combustible, el avituallamiento, los efectos navales y de pesca, el hielo y la sal que embarquen para su propio consumo.
+4. Las embarcaciones de apoyo en las instalaciones dedicadas a la acuicultura mientras dure la instalación inicial quedan exentas de abonar las tarifas G-1, G-2 y G-3.
 3.4.8 Normas singulares de aplicación:
 1. El usuario obligado al pago debe presentar, cuando el pescado no se subaste en lonja y antes de comenzar la descarga, la carga o el transbordo, una declaración o manifiesto de pesca, en que se indique el peso aproximado de cada una de las especies que deben manipularse, de acuerdo con el formato elaborado por la autoridad portuaria.
 2. A efectos de la determinación del peso de la pesca, es obligación del armador pasar dicha pesca por la lonja portuaria o las instalaciones que Puertos de la Generalidad disponga en el puerto, de la forma y en las condiciones que Puertos de la Generalidad establezca.
@@ -337,11 +338,12 @@ Hora de grúa de menos de 6 toneladas: 8.500 pesetas.
 Hora de grúa de más de 6 toneladas: 11.000 pesetas.
 2. Báscula:
 Pesaje (personal incluido): 400 pesetas.
+3. Carretones: 2.830 pesetas.
 4.1.5 Reducciones o bonificaciones:
 1. Puertos de la Generalidad puede establecer conciertos para determinar los precios con los usuarios que se comprometan a realizar una utilización intensa de una determinada maquinaria o un determinado utillaje.
 2. Las paralizaciones superiores a quince minutos debidas a averías de la maquinaria, a falta de fluido eléctrico o a vientos huracanados que aconsejen la paralización por razones de seguridad, o a lluvia que obligue a suspenderlas, de las operaciones de carga o descarga por las condiciones de la mercancía, comunicadas oportunamente por el usuario a Puertos de la Generalidad, deben descontarse del tiempo de utilización.
 4.1.6 Recargos:
-Los servicios de báscula prestados fuera de la jornada laboral ordinaria se facturan con un recargo del 25 por 100, siempre y cuando no sean en días festivos u horarios nocturnos, en cuyo supuesto el recargo será del 50 por 100.
+Los servicios de báscula, grúas móviles y fijas, y carretones, prestados fuera de la jornada laboral ordinaria, se facturan con un recargo del 25 por 100, siempre que no sean en días festivos u horarios nocturnos, supuesto en el que el recargo es del 50 por 100.
 4.1.7 Exenciones:
 No se prevén exenciones en la aplicación de esta tarifa.
 4.1.8 Normas singulares de aplicación:
@@ -371,7 +373,7 @@ Utensilios de pesca | 3,5 | 7
 Otros usos: |  | 
 Temporada alta (del 1 de junio al 30 de septiembre) | 40 | 
 Temporada baja | 20 | 
-2. La definición y extensión de cada una de estas zonas en los diferentes muelles y partes de la zona de servicio son las que se fijan en cada puerto.
+2. La definición y extensión de cada una de estas zonas en los diversos muelles y partes de la zona de servicio son las que se fijan en cada puerto.
 4.2.5 Reducciones o bonificaciones:
 Por razones de optimización de la gestión portuaria, Puertos de la Generalidad puede establecer conciertos.
 4.2.6 Recargos:
@@ -394,7 +396,7 @@ La base para la liquidación de esta tarifa se determina por el número de unida
 La cuantía queda fijada en el 1,5 de su precio de suministro.
 4.3.5 Reducciones o bonificaciones:
 1. Por consumos de energía eléctrica destinados a la actividad pesquera, se aplica el 1,2 de las unidades suministradas.
-2. Previa solicitud y con la justificación de los consumos necesarios, por consumos eléctricos superiores a 30.000 kilovatios/hora por año y por consumos de agua superiores a 2.000 metros cúbicos por año, se aplica hasta el 50 por 100 de los incrementos fijados sobre el precio de suministro.
+2. Previa solicitud y justificación de los consumos necesarios, para consumos eléctricos superiores a 30.000 kilovatios por año y para consumos de agua superiores a 2.000 metros cúbicos por año, se aplica hasta el 50 por 100 de los incrementos fijados sobre el precio de suministro.
 4.3.6 Recargos:
 Si por circunstancias ajenas a Puertos de la Generalidad no se efectuara la operación solicitada, el usuario está obligado a satisfacer el 50 por 100 del importe que le habría correspondido si se hubiera efectuado el suministro.
 4.3.7 Exenciones:
@@ -404,47 +406,47 @@ No se prevén exenciones en la aplicación de esta tarifa.
 2. Los instrumentos particulares de contaje y su conservación correrán a cargo del usuario del servicio.
 3. En caso de avería y en tanto no se proceda a la reparación de la instalación de suministro debe facturarse por estimación.
 4. En los suministros que se establezcan a través de un sistema de prepago por tarjetas a pie de muelle, el suministro requiere la adquisición previa del apoyo previsto por Puertos de la Generalidad.
-4.4 Tarifa E-4. Servicio de elevación, reparación y conservación:
-4.4.1 Definición y aplicación:
+4.4 Tarifa E-4: Servicio de elevación, reparación y conservación.
+4.4.1 Definición y aplicación.
 Esta tarifa es exigible por la utilización de las instalaciones destinadas a la elevación, reparación y conservación de embarcaciones.
-4.4.2 Sujetos obligados:
-Están obligados al abono de esta tarifa los usuarios del servicio.
-4.4.3 Base de la tarifa:
+4.4.2 Sujetos obligados.
+Están obligados a abonar esta tarifa los usuarios del servicio.
+4.4.3 Base de la tarifa.
 La base para la liquidación de esta tarifa es la operación efectuada, el tiempo de utilización de la instalación y la eslora y manga de la embarcación.
-4.4.4 Cuantía de la tarifa:
+4.4.4 Cuantía de la tarifa.
 La cuantía de la tarifa a aplicar es la siguiente:
-a) Rampa de botadura: 160 pesetas por día de utilización y por metros de eslora, que no incluye ni el vehículo ni el remolque.
+a) Rampa de botadura: 160 pesetas por día de utilización y por metros de eslora, y no incluye el vehículo ni el remolque.
 b) Carros de botadura:
-Izada o botadura: 92 pesetas por metro cuadrado de eslora por manga.
-Estancia en la zona de reparación: 46 pesetas por día y por metro cuadrado de eslora por manga.
+Izada o botadura: 92 pesetas por metro lineal de eslora por manga.
+Estancia en la zona de reparación: 46 pesetas por día y por metro lineal de eslora por manga.
 c) Pórticos elevadores:
 Izada o botadura: 2.300 pesetas por metro de eslora.
-Inmovilización: 3.000 pesetas por hora. La prestación de este servicio queda condicionada a la disponibilidad del mismo.
-Estancia en la zona de reparación: 345 pesetas por día y por metro cuadrado de eslora.
-En los servicios de pórticos elevadores se aplican, en función de la eslora de las embarcaciones, los siguientes coeficientes:
+Inmovilización: 3.000 pesetas por hora. La prestación de este servicio queda condicionada a la disponibilidad del servicio.
+Estancia en la zona de reparación: 345 pesetas por día y por metro lineal de eslora.
+En los servicios de pórticos elevadores se aplican, en función de la eslora de las embarcaciones, los coeficientes siguientes:
 1. Embarcaciones de menos de 14 metros de eslora: 0,9.
 2. Embarcaciones de más de 20 metros y hasta 22 metros: 1,1.
 3. Embarcaciones de más de 22 metros: 1,2.
 d) Grúas fijas:
 Subida o bajada: 3.000 pesetas por operación.
-1. Es de aplicación en las operaciones de menos de treinta minutos. Para operaciones de más de treinta minutos, la cuantía será de 1.500 pesetas cada media hora o parcial de exceso.
-2. Estancias: 32 pesetas por metro cuadrado y día. Las embarcaciones pesqueras disfrutarán de un día de carencia.
-3. Hibernaje: En zonas de botadura cerradas pueden establecerse conciertos por razones de optimización en la operatividad de la gestión portuaria.
-4. Cuando, por cualquier causa, Puertos de la Generalidad no disponga de maquinistas de grúas para atender a las peticiones de alquiler de estos equipos, puede autorizar su utilización, siendo el maquinista a cargo del peticionario; en este caso, la tarifa es el 75 por 100 de la cuantía que corresponda. El maquinista y, subsidiariamente, la empresa que lo contrate son responsables de todas las lesiones, daños y averías que se ocasionen al personal o a los bienes de Puertos de la Generalidad o a terceros, como consecuencia de la manipulación de la grúa, debiendo demostrar ante Puertos de la Generalidad su aptitud para este cometido, si Puertos de la Generalidad así lo solicita.
+1. Es de aplicación en las operaciones de menos de treinta minutos. Para operaciones de más de treinta minutos, la cuantía es de 1.500 pesetas cada media hora o fracción de exceso.
+2. Estancias: 32 pesetas por metro cuadrado y día. Las embarcaciones pesqueras disfrutan de un día de carencia.
+3. Invernaje: en zonas de botadura cerradas se pueden establecer conciertos por razones de optimización en la operatividad de la gestión portuaria.
+4. Si, por cualquier causa, Puertos de la Generalidad no dispone de maquinistas de grúas para atender las peticiones de alquiler de estos equipos, puede autorizar su utilización, y el maquinista va a cargo del peticionario; en este caso, la tarifa es el 75 por 100 de la cuantía que corresponde. Dicho maquinista y, subsidiariamente, la empresa que lo contrata son responsables de todas las lesiones, daños y averías ocasionados al personal o los bienes de Puertos de la Generalidad o a terceros, como consecuencia de la manipulación de la grúa, y deben demostrar ante Puertos de la Generalidad su aptitud para dicho cometido, si Puertos de la Generalidad lo solicita.
 e) Otros servicios:
-Servicios varios en zonas cerradas de reparación:
-Recogida de desechos: 230 pesetas por metro de eslora y por semana o fracción.
+Servicios diversos en zonas de reparación cerradas.
+Recogida de desperdicios: 230 pesetas por metro de eslora y por semana o fracción.
 Suministro de energía y agua: 53 pesetas por metro de eslora por día.
 Alquiler de máquina de limpieza a presión: 4.040 pesetas por hora.
 4.4.5 Reducciones o bonificaciones:
-1. En la estancia en la zona de reparación, a partir del cuarto día se reduce un 50 por 100 la cuantía, quedando la prestación del servicio condicionada a la disponibilidad de la zona.
+1. En la estancia en la zona de reparación, a partir del cuarto día, existe una reducción de un 50 por 100 de la cuantía, y la prestación del servicio queda condicionada a la disponibilidad de la zona.
 2. En la subida o bajada de grúas fijas, el sector pesquero tiene un descuento de un 25 por 100 de la cuantía.
-4.4.6 Exenciones:
-No se prevé ningún tipo de exención en la aplicación de esta tarifa.
+4.4.6 Exenciones.
+No está previsto ningún tipo de exención en la aplicación de esta tarifa.
 4.4.7 Normas singulares de aplicación:
-1. Los servicios se prestan previa petición por escrito de los usuarios, con la explícita aceptación de las normas del servicio.
-2. Estos servicios son exclusivamente aplicables a los servicios prestados en días laborables, dentro de la jornada ordinaria establecida por Puertos de la Generalidad.
-3. Los usuarios deben asumir la responsabilidad de las operaciones complementarias a las del propio servicio.
+1. Los servicios se prestan con la petición previa por escrito de los usuarios, con la aceptación explícita de las normas del servicio.
+2. Estos servicios son exclusivamente aplicables a los servicios prestados en días laborables, dentro la jornada ordinaria establecida por Puertos de la Generalidad.
+3. Los usuarios deben asumir la responsabilidad de las operaciones complementarias a las del mismo servicio.
 4.5 Tarifa E-5. Aparcamiento de vehículos:
 4.5.1 Definición y aplicación:
 Esta tarifa es exigible por la utilización de las zonas de aparcamiento de vehículos establecidas en los puertos y explotadas directamente por Puertos de la Generalidad.
@@ -485,6 +487,7 @@ Esta tarifa comprende cualquier otro servicio portuario prestado en régimen de 
 Están obligados al pago de esta tarifa los usuarios de los correspondientes servicios.
 4.6.3 Base y cuantía de la tarifa:
 La base para la liquidación de esta tarifa es el número de unidades del servicio prestado en cada caso. La cuantía de esta tarifa se fija de acuerdo con la naturaleza y peculiaridad del servicio, teniendo en cuenta el valor real de mercado de los servicios prestados y actividades realizadas.
+Se modifica por los arts. 27, y disposiciones adicionales 3 y 11 de la Ley 15/2000, de 29 de diciembre. Ref. BOE-A-2001-1616.
 Se añade por el art. 31.2 de la Ley 4/2000, de 26 de mayo. Ref. BOE-A-1998-12320.
 ANEXO II
 Integran el dominio público portuario adscrito a Puertos de la Generalidad los puertos, las dársenas y las instalaciones marítimas que se enumeran a continuación:
