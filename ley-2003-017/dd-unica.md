@@ -1,0 +1,2 @@
+Disposición derogatoria única. Derogaciones.
+Quedan derogados el artículo 7 de la Ley 9/1986, de 10 de noviembre, de cuerpos de funcionarios de la Generalidad de Cataluña; el artículo 18 de la Ley 4/2000, de 26 de mayo, de medidas fiscales y administrativas; el Decreto 252/1988, de 12 de septiembre, por el cual se aprueba el Reglamento del Cuerpo de Agentes Rurales de la Generalidad de Cataluña, y los decretos 381/1988, 174/1989, 342/1995 y 191/2000, que los modifican.
