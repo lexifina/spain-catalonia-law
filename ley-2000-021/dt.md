@@ -1,0 +1,2 @@
+Disposición transitoria.
+Los centros sanitarios disponen de un plazo de un año, a contar desde la entrada en vigor de la presente Ley, para adoptar las medidas técnicas y organizativas necesarias para adaptar el tratamiento de las historias clínicas a las previsiones contenidas en las mismas, y elaborar los modelos normalizados de historia clínica a que se refiere el artículo 10.3. Los procesos asistenciales que se lleven a cabo transcurrido este plazo deben reflejarse documentalmente de acuerdo con los modelos normalizados aprobados.
