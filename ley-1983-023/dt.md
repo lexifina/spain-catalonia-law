@@ -1,0 +1,2 @@
+Disposición Transitoria
+En lo que respecta al ámbito comarcal a que se refiere la presente Ley, se entenderá que el espacio geográfico ocupado por cada comarca es el establecido en la división comarcal decretada el 23 de diciembre de 1936, mientras no dispongan otra cosa la Ley de división territorial de Cataluña prevista en el artículo 5.3 del Estatuto y la legislación que en materia de régimen local elabore el Parlamento en uso de la competencia que le atribuye el artículo 9.8 del Estatuto.
