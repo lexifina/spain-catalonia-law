@@ -1,0 +1,2 @@
+Disposición final.
+No serán de aplicación en el ámbito territorial de la Generalidad, para estos servicios de su competencia, las Leyes de 27 de diciembre de 1947, de Ordenación de Transportes Mecánicos por Carretera y de Coordinación de Transportes Mecánicos Terrestres de la misma fecha, y las disposiciones dictadas por el Estado que las desarrollen y complementen en todo aquello que se oponga a la presente Ley o la contradiga.
