@@ -1,0 +1,3 @@
+La disposición final 3 de la Ley 3/1992, de 28 de diciembre, de presupuestos de la Generalitat de Catalunya para 1993, establece que el Gobierno puede hacer uso dentro de los seis meses primeros de 1993 de la autorización establecida en la disposición final 1 de la Ley 23/1991, de 29 de diciembre, de comercio interior, para refundir dicha Ley y la Ley 1/1983, de 18 de febrero, de regulación administrativa de determinadas estructuras comerciales y ventas especiales.
+Por lo tanto, en ejercicio de dicha autorización, a propuesta del conseller de Comerç, Consum i Turisme, de conformidad con la Comisión Jurídica Asesora y de acuerdo con el Gobierno,
+DECRETO:
