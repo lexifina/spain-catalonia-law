@@ -1,0 +1,6 @@
+Disposición transitoria.
+1. Los planes de protección civil aprobados antes de la entrada en vigor de la presente Ley deben adecuarse a lo establecido en la misma en el plazo de un año a partir de la fecha de entrada en vigor.
+2. El Reglamento a que se refiere el artículo 20.2 debe aprobarse en el plazo de un año a partir de la fecha de entrada en vigor de la presente Ley.
+3. El Gobierno ha de aprobar el Mapa de protección civil a que se refiere el artículo 12, previo informe de la Comisión de Protección Civil de Cataluña, en el plazo máximo de un año desde la entrada en vigor de la presente Ley.
+4. Los planes de protección civil establecidos en la presente Ley y los programas de actividades para los centros escolares deben elaborarse dentro del plazo de dos años a partir de la fecha de entrada en vigor de la presente Ley.
+5. En el plazo de dos años a partir de la fecha de entrada en vigor de la presente Ley, el Gobierno ha de promover la unificación de las distintas organizaciones de voluntarios y voluntarias que existen en Cataluña relacionadas con temas de seguridad y protección con las asociaciones de voluntarios y voluntarias de protección civil previstas en la presente Ley, a efectos de coordinar y optimizar las inquietudes sociales en la materia.
