@@ -1,0 +1,2 @@
+Disposición adicional.
+En el ámbito de competencias de la Generalidad, las entidades públicas de Cataluña y entidades privadas que disfruten o quieran disfrutar de cualquier ayudas financiera de la Generalidad, deberán adecuar sus acciones informativas y sanitarias sobre la dependencia de drogas no institucionalizadas al marco de referencia que definirá el Departamento de Sanidad y Seguridad Social.
