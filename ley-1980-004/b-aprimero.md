@@ -1,0 +1,3 @@
+Artículo primero.
+Se constituye en el ámbito de la Generalidad de Cataluña el Instituto Catalán del Suelo como organismo autónomo adscrito al Departamento de Política Territorial y Obras Públicas, con el objeto de llevar a término las tareas técnicas y económicas requeridas para el desarrollo de la gestión urbanística y patrimonial y el fomento de la edificación y como instrumento de política del suelo destinado a atender necesidades colectivas y remodelaciones urbanas, gestión de espacios naturales y zonas libres y dotación de equipamientos.
+El Instituto Catalán del Suelo promoverá las actuaciones necesarias tanto en el aspecto organizativo como en el funcional, para garantizar una utilización del suelo de acuerdo con el interés general y para impedir la especulación.
