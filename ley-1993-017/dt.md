@@ -1,0 +1,2 @@
+Disposición transitoria. Régimen provisional de las cámaras agrarias.
+Se faculta al Departamento de Agricultura, Ganadería y Pesca para regular provisionalmente, por lo que respecta a las cámaras agrarias existentes a la entrada en vigor de la presente Ley, la situación de sus juntas en el período comprendido entre dicha entrada en vigor y la constitución oficial de los órganos de gobierno de las nuevas cámaras.
