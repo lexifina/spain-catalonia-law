@@ -1,0 +1,2 @@
+Disposición transitoria.
+A efectos de la presente Ley, los regímenes contenidos en las disposiciones transitorias tercera, cuarta, quinta, sexta y séptima de la Ley 53/1984, de 26 de diciembre, y las demás disposiciones que la desarrollan en el ámbito de Cataluña, seguirán aplicándose durante el tiempo previsto en las mismas para el personal que se encuentre en alguna de las situaciones establecidas en dichas normas.
