@@ -1,0 +1,2 @@
+Disposición adicional decimotercera. De la adaptación de la Ley al personal de las entidades locales.
+A efectos de lo dispuesto en el artículo 2.2.c), las referencias de la presente Ley al personal al servicio de la Administración de la Generalidad se entenderán hechas, también, al personal al servicio de las entidades locales situadas en el territorio de Cataluña, exceptuados los funcionarios con habilitación de carácter estatal.

@@ -1,0 +1,3 @@
+Disposición adicional decimoquinta. De las delegaciones territoriales de los departamentos.
+En el ámbito de cada delegación territorial del Gobierno puede haber un delegado para cada uno de los departamentos.
+Los delegados de cada departamento son cargos de nivel orgánico inferior al de los delegados territoriales del Gobierno y su nombramiento es acordado libremente por el consejero de cada departamento mediante convocatoria pública y por el sistema de libre designación entre funcionarios de carrera; su cese también es libre. Excepcionalmente, por razones técnicas, funcionales o territoriales, el Gobierno puede determinar que los citados cargos tengan carácter de autoridad, con el susodicho rango.
