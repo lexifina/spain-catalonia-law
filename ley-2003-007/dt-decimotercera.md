@@ -1,0 +1,3 @@
+Disposición transitoria decimotercera.
+1. En tanto la Agencia de Protección de la Salud no haya suscrito los correspondientes convenios con las entidades locales establecidos por la presente Ley, el Gobierno debe garantizar que el contrato de relaciones entre la Agencia de Protección de la Salud y el Servicio Catalán de la Salud incorpore los servicios y actividades que la Agencia debe prestar por cuenta de las entidades locales, para atender a los servicios mínimos de competencia local.
+2. En tanto no se hayan suscrito los correspondientes convenios entre los entes locales y la Agencia de Protección de la Salud, las entidades locales pueden solicitar la prestación de los servicios mínimos obligatorios a los servicios regionales de la Agencia.
