@@ -1,0 +1,2 @@
+Artículo único.
+De acuerdo con lo establecido en el artículo 13 del Estatuto de Autonomía de Cataluña, se crea la Policía Autonómica de la Generalidad, que ejercerá primordialmente las funciones de protección de las personas y los bienes, mantenimiento del orden público y vigilancia y protección de los edificios e instalaciones de la Generalidad, sin perjuicio de las otras funciones que, en su momento, le puedan ser asignadas según lo que determine la Ley Orgánica prevista en el artículo 149.1.29 de la Constitución.
