@@ -1,0 +1,1 @@
+Téngase en cuenta que se suspende la vigencia y aplicación de esta norma, desde el 28 de marzo de 2001 para las partes y desde el 8 de mayo de 2001 para los terceros, por providencia del TC de 24 de abril de 2001, que admite a trámite el recurso de inconstitucionalidad 1772/2001. Ref. BOE-A-2001-8791.
