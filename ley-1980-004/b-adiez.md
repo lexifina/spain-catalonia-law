@@ -1,2 +1,3 @@
 Artículo diez.
-El Gerente del Instituto será nombrado por el Consejo Ejecutivo de la Generalidad, a propuesta del Consejero de Política Territorial y Obras Públicas y previa audiencia del Consejo de Administración. En esta función exclusiva ostentará la representación plena de su Presidente. Ejercerá, además, la dirección del personal.
+La Dirección es el órgano ejecutivo que dirige el funcionamiento del Instituto, ostenta su representación y ejerce las funciones específicas que determine el estatuto de régimen interior del Instituto.
+Se modifica por el art. 27.6 de la Ley 4/2000, de 26 de mayo. Ref. BOE-A-2000-11470.

@@ -1,13 +1,7 @@
 Artículo séptimo.
-1. El Consejo de Administración estará formado por el Presidente, el Vicepresidente, los Vocales y el Secretario.
-2. Será Presidente el Consejero de Política Territorial y Obras Públicas. La Vicepresidencia corresponderá al Director general de Urbanismo, que auxiliará al Presidente en sus funciones y le sustituirá en los casos de ausencia o de imposibilidad.
-3. Los Vocales del Consejo serán los siguientes:
-a) El Director general de Política Territorial.
-b) El Director general de la Vivienda.
-c) El Director general del Tesoro y del Patrimonio.
-d) Un representante del Departamento de Gobernación.
-e) Un representante del Departamento de Industria y Energía.
-f) Un representante del Departamento de Agricultura, Ganadería y Pesca.
-g) Un representante del Departamento de Comercio y Turismo.
-h) El Gerente.
-4. El Secretario será designado por el Consejo, a propuesta de su Presidente.
+1. El Consejo de Administración tiene atribuidas las más amplias facultades en la actuación y gestión del Instituto Catalán del Suelo.
+2. El Consejo de Administración está integrado, en todo caso, por los representantes de la Generalidad que señale el Gobierno, y por el director o directora. Es su presidente o presidenta el consejero o consejera del Departamento de Política Territorial y Obras Públicas. El vicepresidente o vicepresidenta es nombrado por el titular de dicho Departamento.
+3. El secretario o secretaria del Consejo de Administración, con voz y sin voto, es designado por el Consejo de Administración, a propuesta del presidente o presidenta.
+4. Si se incluyen en el orden del día asuntos que afecten a uno o varios municipios, o comarca, el presidente o presidenta puede convocar al alcalde o alcaldes correspondientes o al presidente o presidenta del Consejo Comarcal, en su caso, quienes pueden asistir, acompañados de la persona que designen, a la deliberación del asunto para el que han sido invitados, y tomar parte en la misma con voz y sin voto.
+5. El Estatuto del régimen interior del Instituto Catalán del Suelo debe desarrollar por reglamento la composición y funcionamiento del Consejo de Administración y debe concretar sus funciones específicas, así como la estructura organizativa y el régimen de funcionamiento de la entidad. El estatuto puede crear otros órganos de gestión para el impulso de políticas concretas.
+Se modifica por el art. 27.4 de la Ley 4/2000, de 26 de mayo. Ref. BOE-A-2000-11470.
