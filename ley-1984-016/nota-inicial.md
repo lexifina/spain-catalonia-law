@@ -1,1 +1,1 @@
-Incluye la corrección de errores publicada en el DOGC núm. 495, de 19 de diciembre de 1984.
+Téngase en cuenta que el Cuerpo de Interventores pasa a denominarse Cuerpo de Intervención, según establece la disposición adicional 8.1.a) de la Ley 31/2002, de 30 de diciembre. Ref. BOE-A-2003-1056.
