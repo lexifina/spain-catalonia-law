@@ -1,1 +1,1 @@
-Incluye la corrección de erratas publicada en el DOGC núm. 368, de 30 de septiembre de 1983.
+Norma derogada, con excepción de los artículos 8, 9, 10, 11, 27, 28, 29, 30, 31 y 32, por la disposición derogatoria de la Ley 7/2003, de 25 de abril. Ref. BOE-A-2003-10531#dd, que mantienen su vigencia en tanto no se efectúe el desarrollo reglamentario de la citada Ley.
