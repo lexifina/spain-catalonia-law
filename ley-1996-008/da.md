@@ -1,0 +1,2 @@
+Disposición adicional.
+Los artículos 3, 6, 7, 8 y 9 se aplican a los canales de televisión gestionados directamente por la Generalidad y a los canales cuyo título habilitante corresponde otorgar a la Generalidad, sea cual sea el medio técnico de difusión. Los artículos 3 y 8 también se aplican a todas las concesiones de la gestión indirecta del servicio de radiodifusión sonora en ondas métricas con modulación de frecuencia.
