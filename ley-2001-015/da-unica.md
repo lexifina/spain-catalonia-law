@@ -1,0 +1,2 @@
+Disposición adicional única. Transferencia de servicios dependientes de organismos de ámbito estatal.
+En virtud de lo que establece el artículo 150.2 de la Constitución, el Gobierno ha de presentar al Parlamento, en el plazo de seis meses desde la promulgación de la presente Ley, un proyecto de proposición de Ley a presentar ante la Mesa del Congreso de los Diputados para obtener, de conformidad con el artículo 87.2 de la Constitución, la transferencia de todos los servicios de meteorología situados en Cataluña que aún dependan del Estado.
