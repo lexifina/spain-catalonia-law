@@ -1,0 +1,2 @@
+Disposición transitoria.
+Todas las entidades, las corporaciones, las asociaciones y las formaciones políticas con representación en las instituciones que tienen representantes en el Consejo Rector y en el Consejo Asesor del Instituto para el Desarrollo de las Comarcas del Ebro, mientras no se apruebe el Reglamento de régimen interior, en las designaciones que propongan para constituir los consejos deben garantizar la presencia plural y diversa de las fuerzas políticas y sociales de forma análoga a la surgida de las últimas elecciones respectivas.
