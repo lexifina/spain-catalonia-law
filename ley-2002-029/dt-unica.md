@@ -1,0 +1,5 @@
+Disposición transitoria única.
+Las normas del libro primero del Código civil de Cataluña que regulan la prescripción y la caducidad se aplican a las pretensiones, las acciones y los poderes de configuración jurídica nacidos y aún no ejercidos con anterioridad al 1 de enero de 2004, con las excepciones que resultan de las normas siguientes:
+a) El inicio, la interrupción y el reinicio del cómputo de la prescripción producidos antes del 1 de enero de 2004 se regulan por las normas vigentes hasta aquel momento.
+b) Si el plazo de prescripción establecido por la presente Ley es más largo, la prescripción se consuma cuando ha transcurrido el plazo establecido por la regulación anterior.
+c) Si el plazo de prescripción establecido por la presente Ley es más corto que el que establecía la regulación anterior, se aplica el establecido por la presente Ley, el cual empieza a contar desde el 1 de enero de 2004. Sin embargo, si el plazo establecido por la regulación anterior, aun siendo más largo, se agota antes que el plazo establecido por la presente Ley, la prescripción se consuma cuando ha transcurrido el plazo establecido por la regulación anterior.
