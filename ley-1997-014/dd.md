@@ -1,0 +1,2 @@
+Disposición derogatoria.
+Se derogan la Ley 21/1991, de 25 de noviembre, de creación del Instituto Catalán de Seguridad Vial, y el artículo 8 del Decreto legislativo 13/1994, de 26 de julio, por el que se aprueba la adecuación a la Ley de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común de las leyes que afectan al Departamento de Gobernación en materia de régimen local, juego, espectáculos, actividades recreativas y régimen de recursos de sus organismos autónomos.
