@@ -1,0 +1,13 @@
+Artículo 13 bis.
+1. Para establecer los niveles de emisión, a nivel general o bien en la licencia municipal de actividades o autorización equivalente, deben tenerse en cuenta los siguientes principios y criterios:
+a) Garantizar que no se infringen las normas de calidad ambiental, de acuerdo con lo dispuesto en la legislación vigente en materia de medio ambiente.
+b) Tomar como referencia el nivel de la tecnología disponible más adecuada, si es que puede ser aplicada por el sector industrial correspondiente en condiciones económicas viables.
+d) Tener en cuenta la información resultante de los mapas de vulnerabilidad y capacidad del territorio.
+2. El sistema de control de los niveles de emisión de las actividades potencialmente contaminantes de la atmósfera, a establecer por vía reglamentaria, debe comprender:
+a) La clasificación de las actividades en grupos o categorías, con la determinación del período máximo en el que deben someterse a un control de emisiones por entidades colaboradoras de la Administración y a cargo de la propia empresa.
+b) Los grupos o categorías de actividades que deben disponer de sistemas automáticos de medición y control incorporados en las instalaciones de las distintas fases del proceso y en los focos emisores. Debe establecerse por reglamento el sistema de transmisión a la Administración competente de los datos obtenidos.
+c) El sistema de acondicionamiento de las instalaciones que permita la toma de muestras de gases y humos, la medición de la temperatura y demás actuaciones de control.
+3. La licencia municipal de actividades o autorización equivalente deben establecer los requisitos de control adecuados, en los que debe especificarse la metodología de medición, frecuencia y procedimiento de evaluación, además de la obligación de comunicar a la autoridad competente los datos necesarios para comprobar el cumplimiento de lo que dispone la autorización.
+4. Se establece para las empresas el sistema voluntario de autodeclaración del grado de cumplimiento de la normativa sobre la protección del ambiente atmosférico, basada en una diagnosis ambiental acreditada según la normativa vigente y la presentación de un programa gradual de reducción de las emisiones que tenga en cuenta los objetivos de calidad que se propone conseguir, los medios a emplear y el calendario de ejecución. El correcto cumplimiento del programa aprobado por el Departamento de Medio Ambiente puede suponer que no se aplique el régimen sancionador establecido por la presente Ley.
+5. Las Administraciones públicas deben aplicar periódicamente políticas y estrategias que faciliten la renovación de la tecnología en uso por otras tecnologías más limpias.
+Se añade por el art. 2.7 de la Ley 6/1996, de 18 de junio. Ref. BOE-A-1996-18131.
