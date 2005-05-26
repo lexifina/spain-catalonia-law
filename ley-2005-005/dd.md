@@ -1,0 +1,2 @@
+Disposición derogatoria.
+Quedan derogados el Decreto legislativo 1/1991, de 25 de marzo, por el que se aprueba el texto refundido de las Leyes 3/1985, de 15 de marzo, y 21/1990, de 28 de diciembre, de la Comisión Jurídica Asesora, modificado por las Leyes 1/2000, de 30 de marzo, y 31/2002, de 30 de diciembre, de medidas fiscales y administrativas, y todas las disposiciones que se opongan a lo establecido por la presente ley o que lo contradigan.
