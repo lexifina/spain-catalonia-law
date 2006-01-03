@@ -1,0 +1,2 @@
+Disposición transitoria. Renovación de las declaraciones de los altos cargos nombrados antes de la entrada en vigor de la presente Ley.
+Los altos cargos que hayan sido nombrados antes de la entrada en vigor de la presente ley tienen un plazo de tres meses para formular las nuevas declaraciones de actividades y patrimonial y de intereses de acuerdo con las prescripciones de la presente ley. Las autorizaciones de compatibilidad concedidas antes de la entrada en vigor de la presente ley quedan sin efecto una vez finalizado dicho plazo.
