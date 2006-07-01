@@ -1,0 +1,3 @@
+Disposición transitoria decimoquinta. Plazos de usucapión y de prescripción de censos, laudemios y pensiones.
+1. Las normas del capítulo quinto del título sexto que regulan los plazos para la usucapión y prescripción de censos, pensiones y laudemios se aplican a todos los censos, sean de la clase que sean y sean cuales sean la fecha de constitución y la normativa aplicable.
+2. El plazo para la prescripción o usucapión establecido por el presente código comienza a contar desde el momento en que entra en vigor el presente libro. Sin embargo, si el plazo que establecía la regulación anterior, a pesar de ser más largo, vence antes que el plazo establecido por el presente código, la prescripción se consuma cuando vence el plazo que establecía la regulación anterior.
