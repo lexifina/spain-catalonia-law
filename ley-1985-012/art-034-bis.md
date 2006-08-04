@@ -1,0 +1,8 @@
+CAPÍTULO IV BIS
+Zonas especiales de conservación y zonas deprotección especial para las aves
+Se añade por el art. 11 de la Ley 12/2006, de 27 de julio. Ref. BOE-A-2006-15005.
+Artículo 34 bis. Zonas especiales de conservación.
+1. Son zonas especiales de conservación (ZEC) los espacios donde se encuentra hábitats naturales de interés comunitario y hábitats de especies de interés comunitario en los cuales debe garantizarse el mantenimiento o el restablecimiento, en un estado de conservación favorable, de los hábitats naturales y de las poblaciones de las especies para las cuales se ha designado el lugar.
+2. Las zonas especiales de conservación (ZEC) son declaradas por el Gobierno, con la selección previa como lugares de importancia comunitaria por la Comisión Europea, de acuerdo con lo establecido por la Directiva 92/43/CEE del Consejo, del 21 de mayo de 1992, relativa a la conservación de los hábitats naturales y de la fauna y la flora salvajes.
+3. La elaboración y tramitación de la propuesta de espacios para que sean seleccionados por la Comisión Europea como lugares de importancia comunitaria corresponde al departamento competente en materia de medio ambiente. En la tramitación hay que solicitar un informe del departamento competente en materia de agricultura, ganadería y pesca y de los otros departamentos y organismos afectados por la propuesta y hay que dar audiencia a las corporaciones locales interesadas y a los propietarios afectados. Instruido el expediente, debe ser elevado al Gobierno para que apruebe la propuesta.
+Se añade por el art. 11 de la Ley 12/2006, de 27 de julio. Ref. BOE-A-2006-15005.
