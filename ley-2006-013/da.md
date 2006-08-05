@@ -1,0 +1,2 @@
+Disposición adicional.
+Las prestaciones económicas asistenciales establecidas por esta ley, dada su naturaleza, no forman parte del sistema de la Seguridad Social y no están incluidas en el ámbito de aplicación del Reglamento (CEE), núm. 1408/1971, del Consejo, del 14 de junio, relativo a la aplicación de los regímenes de seguridad social a los trabajadores por cuenta ajena y a sus familias que se desplacen dentro de la Comunidad.
