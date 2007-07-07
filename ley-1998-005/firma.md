@@ -97,10 +97,12 @@ Deben abonar esta tarifa los armadores o consignatarios de los buques que utilic
 3.1.3 Base de la tarifa:
 La base de la tarifa es el volumen del buque, medido por su arqueo bruto (GT), determinado de acuerdo con el Convenio internacional sobre arqueo de buques, de 23 de junio de 1969, los períodos completos de veinticuatro horas o fracciones superiores a seis horas y el tipo de navegación.
 3.1.4 Cuantía de la tarifa:
-La cuantía básica de la tarifa es de 10,99 euros por cada 100 toneladas de registro bruto (o por cada 100 unidades de arqueo) o fracción, en función del tiempo de estancia, con los siguientes coeficientes:
-a) Para buques de hasta 4.000 GT, 0,95.
-b) Para buques de 4.001 a 6.000 GT, 1,00.
-c) Para buques de más de 6.000 GT, 1,10.
+La cuantía básica de la tarifa es de 12,09 euros por cada 100 toneladas de registro bruto (o por cada 100 unidades de arqueo) o fracción, en función del tiempo de estancia, con los siguientes coeficientes:
+a) Para barcos de 0 a 10 GT: 0,80.
+b) Para barcos de 11 a 20 GT: 0,85.
+c) Para barcos de 21 a 4.000 GT: 0,95.
+d) Para barcos de 4.001 a 6.000 GT: 1,00.
+e) Para barcos de más de 6.000 GT: 1,10.
 3.1.5 Reducciones o bonificaciones:
 1. Reducción por estancias cortas:
 Por períodos de tiempo con fracciones inferiores a seis horas se aplica una reducción del 50 por 100 de la cuantía de la tarifa.
@@ -144,7 +146,7 @@ Deben abonar esta tarifa los armadores o consignatarios de los buques que utilic
 1. Las bases para la liquidación de esta tarifa son la eslora máxima del buque por metros lineales y los tiempos por días de permanencia en el puesto de atraque o amarre.
 2. En los supuestos de que un buque transporte cualquier tipo de mercancía peligrosa y sea necesario disponer de unas zonas de seguridad en proa o en popa o ambas a la vez, se considera como base tarifaria la eslora máxima del buque incrementada en la longitud de las mencionadas zonas.
 3.2.4 Cuantía de la tarifa:
-La cuantía básica de esta tarifa es de 1,42 euros, con los siguientes coeficientes:
+La cuantía básica de esta tarifa es de 1,56 euros, con los siguientes coeficientes:
 a) Buques de calado máximo menor de 7 m: 0,50.
 b) Buques de calado máximo superior a 7 m e inferior a 12 m: 1.
 c) Buques de calado superior a 12 m: 2.
@@ -187,24 +189,24 @@ a) La cuantía de la tarifa de pasajeros, en pesetas, es la siguiente:
 Concepto | Navegación y cruceros turísticos
 Interior en la UE | Exterior en la UE
 A) Pasajeros: |  | 
-Bloque I | 2,20 euros | 5,05 euros
-Bloque II | 0,79 euros | 2,53 euros
+Bloque I | 2,27 euros | 5,20 euros
+Bloque II | 0,81 euros | 2,61 euros
 Buque turístico local | 0,05 euros | –
 B) Vehículos: |  | 
-Motocicletas y vehículos o remolques de dos ruedas | 1,26 euros | 1,90 euros
-Coches, turismos y demás vehículos automóviles | 3,47 euros | 4,42 euros
-Autocares y demás vehículos de tr. colectivo | 15,79 euros | 25,26 euros
+Motocicletas y vehículos o remolques de dos ruedas | 1,30 euros | 1,96 euros
+Coches, turismos y demás vehículos automóviles | 3,57 euros | 4,55 euros
+Autocares y demás vehículos de tr. colectivo | 16,26 euros | 26,02 euros
 1. Se aplica la tarifa del bloque I a los pasajeros de las cabinas y la del bloque II a los que ocupan butacas de salón y a los pasajeros de cubierta.
 2. Los pasajeros que realizan un crucero turístico con escala intermedia en puerto y que no desembarquen no están sujetos a la tarifa, pero se entiende, salvo prueba en contrario, que los mencionados pasajeros bajan del buque al muelle al menos una vez al día. No obstante, cuando el número de pasajeros que bajen sea superior al 50 por 100 en relación con el total de plazas ocupadas de cada bloque, pueden establecerse conciertos, previamente a la llegada del buque, entre los armadores o sus representantes y Puertos de la Generalidad, en los que debe cobrarse, como mínimo, una operación de embarque o desembarque y un período de veinticuatro horas o fracción de estancia del buque en el puerto, aplicada a la mitad de las plazas ocupadas de cada buque. El abono de la tarifa correspondiente a pasajeros da derecho a embarcar o desembarcar el equipaje de cabina. El abono de la correspondiente a vehículos da derecho a embarcar o desembarcar el equipaje que se transporte en los mismos.
 3. A los buques turísticos locales se les aplica sólo la tarifa del embarque.
 b) Tarifa de mercancías:
 Las cuantías de la tarifa a aplicar a cada partida de mercancías son por tonelada métrica de peso bruto o fracción y en función del grupo de bonificación al que pertenecen, de acuerdo con el repertorio de clasificación de mercancías vigente.
-Grupo de mercancías | Precio en pesetas por tonelada métrica
+Grupo de mercancías | Precio en euros por tonelada métrica
 Primero | 0,85 euros
-Segundo | 1,11 euros
-Tercero | 1,72 euros
-Cuarto | 2,50 euros
-Quinto | 3,49 euros
+Segundo | 1,05 euros
+Tercero | 1,63 euros
+Cuarto | 2,38 euros
+Quinto | 3,32 euros
 Régimen general:
 a) Las mercancías que exclusivamente se embarquen tienen una bonificación del 40 por 100. Las que son transbordadas, tanto si realizan tránsito marítimo como terrestre, no tienen ninguna variación en la cuantía básica.
 b) 1. Para partidas con un peso total inferior a una tonelada métrica, la cuantía es, por cada 200 kilogramos o fracción en exceso, la quinta parte de la que correspondería pagar por una tonelada. A efectos de lo establecido en este apartado, se entiende como partida las mercancías incluidas en cada línea de un mismo conocimiento de embarque.
@@ -288,20 +290,20 @@ Están obligados al pago de esta tarifa el propietario de la embarcación o su r
 1. La cuantía de esta tarifa (por cada 10 metros cuadrados y por períodos de 24 horas), contados a partir de las doce del mediodía, es la siguiente:
 a) Instalaciones gestionadas directamente por Puertos de la Generalidad:
 Concepto | Valor en pesetas
-1. Utilización de las aguas del puerto | 0,52 euros
-2. Anclaje a muerto | 1,05 euros
-3. Atraque en punta | 1,26 euros
-4. Atraque de costado | 3,45 euros
-5. Botadura en zona de tierra | 0,52 euros
+1. Utilización de las aguas del puerto | 0,54 euros
+2. Anclaje a muerto | 1,08 euros
+3. Atraque en punta | 1,30 euros
+4. Atraque de costado | 3,55 euros
+5. Botadura en zona de tierra | 0,54 euros
 Servicios adicionales: | 
-a) Atraque con amarra a muerto | 0,31 euros
-b) Acometidas de agua | 0,31 euros
-c) Recogida de basura | 0,21 euros
-d) Vigilancia general de la zona | 0,21 euros
-e) Atraque o fondeo en instalaciones exclusivamente de temporada | 0,42 euros
-f) Acometidas de energía eléctrica | 0,21 euros
-g) Cabrestantes y escalas en zonas de botadura | 0,21 euros
-h) Personal de ayuda en zonas de botadura | 0,42 euros
+a) Atraque con amarra a muerto | 0,32 euros
+b) Acometidas de agua | 0,32 euros
+c) Recogida de basura | 0,22 euros
+d) Vigilancia general de la zona | 0,22 euros
+e) Atraque o fondeo en instalaciones exclusivamente de temporada | 0,43 euros
+f) Acometidas de energía eléctrica | 0,22 euros
+g) Cabrestantes y escalas en zonas de botadura | 0,22 euros
+h) Personal de ayuda en zonas de botadura | 0,43 euros
 Todos los servicios adicionales son de obligada facturación si las instalaciones disponen de los mismos. El importe de los servicios adicionales debe sumarse a los números 1, 2, 3, 4 y 5 que correspondan.
 b) Instalaciones o dársenas deportivas en régimen de concesión dentro de los puertos gestionados directamente por Puertos de la Generalidad.
 Por la utilización de las aguas del puerto: 9 pesetas, siempre y cuando el titular concesionario efectúe la gestión del cobro y abone a Puertos de la Generalidad, mensualmente, el importe de la aplicación de las tarifas correspondientes al mencionado período, y con la presentación de un comunicado prefijado, con los datos adecuados para que Puertos de la Generalidad pueda emitir los correspondientes recibos individualizados. De lo contrario, son de aplicación las tarifas del apartado a).
@@ -334,12 +336,12 @@ Deben abonar esta tarifa los usuarios de los correspondientes servicios, siendo 
 La base para la liquidación de esta tarifa es el tiempo de disponibilidad de la correspondiente grúa, maquinaria o utillaje y su capacidad o potencia de elevación, salvo la báscula, que debe calcularse por unidad de pesaje.
 4.1.4 Cuantía de la tarifa: La cuantía de esta tarifa por hora de utilización es la siguiente:
 1. Grúas:
-Hora de grúa de menos de 6 toneladas: 53,67 euros.
-Hora de grúa de más de 6 toneladas: 69,45 euros.
-Hora de grúa de más de 12 toneladas: 103,00 euros.
+Hora de grúa de menos de 6 toneladas: 55,28 euros.
+Hora de grúa de más de 6 toneladas: 71,53 euros.
+Hora de grúa de más de 12 toneladas: 106,09 euros.
 2. Báscula:
-Pesaje (personal incluido): 3,38 €.
-3. Carretillas, 17,87 euros.
+Pesaje (personal incluido): 3,48 €.
+3. Carretillas, 18,41 euros.
 4.1.5 Reducciones o bonificaciones:
 1. Puertos de la Generalidad puede establecer conciertos para determinar los precios con los usuarios que se comprometan a realizar una utilización intensa de una determinada maquinaria o un determinado utillaje.
 2. Las paralizaciones superiores a quince minutos debidas a averías de la maquinaria, a falta de fluido eléctrico o a vientos huracanados que aconsejen la paralización por razones de seguridad, o a lluvia que obligue a suspenderlas, de las operaciones de carga o descarga por las condiciones de la mercancía, comunicadas oportunamente por el usuario a Puertos de la Generalidad, deben descontarse del tiempo de utilización.
@@ -365,14 +367,14 @@ La base para la liquidación de esta tarifa es la superficie ocupada, el tiempo 
 1. La cuantía de esta tarifa a aplicar (por cada 10 metros cuadrados y por día natural o fracción) es la que figura en la siguiente tabla baremo:
 Mercancías | Sup. cubierta | Sup. descubierta
 Zonas de tránsito: |  | 
-Días 1 al 3 | 0,31 euros | 
-Días 4 al 10 | 0,52 euros | 0,21 euros
-Días 11 al 17 | 1,05 euros | 0,31 euros
-Días 18 en adelante | 2,09 euros | 0,84 euros
-Zonas de almacenaje | 0,42 euros | 0,21 euros
+Días 1 al 3 | 0,32 euros | 
+Días 4 al 10 | 0,54 euros | 0,22 euros
+Días 11 al 17 | 1,08 euros | 0,32 euros
+Días 18 en adelante | 2,15 euros | 0,87 euros
+Zonas de almacenaje | 0,43 euros | 0,22 euros
 Otros usos: |  | 
-Temporada alta (del 1 de junio al 30 de septiembre) | 2,62 euros | 
-Temporada baja | 1,26 euros | 
+Temporada alta (del 1 de junio al 30 de septiembre) | 2,70 euros | 
+Temporada baja | 1,30 euros | 
 2. La definición y extensión de cada una de estas zonas en los diversos muelles y partes de la zona de servicio son las que se fijan en cada puerto.
 4.2.5 Reducciones o bonificaciones:
 Por razones de optimización de la gestión portuaria, Puertos de la Generalidad puede establecer conciertos.
@@ -415,29 +417,29 @@ Están obligados a abonar esta tarifa los usuarios del servicio.
 La base para la liquidación de esta tarifa es la operación efectuada, el tiempo de utilización de la instalación y la eslora y manga de la embarcación.
 4.4.4 Cuantía de la tarifa.
 La cuantía de la tarifa a aplicar es la siguiente:
-a) Rampa de botadura: 6,30 euros por operación, por día de utilización y por metros de eslora, y no incluye el vehículo ni el remolque.
+a) Rampa de botadura: 6,49 euros por operación, por día de utilización y por metros de eslora, y no incluye el vehículo ni el remolque.
 b) Carros de botadura:
-Izada o botadura: 0,63 euros por metro lineal de eslora por manga.
-Estancia en la zona de reparación: 0,31 euros por día y por metro lineal de eslora por manga.
+Izada o botadura: 0,65 euros por metro lineal de eslora por manga.
+Estancia en la zona de reparación: 0,32 euros por día y por metro lineal de eslora por manga.
 c) Pórticos elevadores:
-Izada o botadura: 14,55 por metro de eslora.
-Inmovilización: 19,43 euros por hora. La prestación de este servicio queda condicionada a la disponibilidad del servicio.
-Estancia en la zona de reparación: 2,19 euros por día y por metro lineal de eslora.
+Izada o botadura: 14,99 por metro de eslora.
+Inmovilización: 20,01 euros por hora. La prestación de este servicio queda condicionada a la disponibilidad del servicio.
+Estancia en la zona de reparación: 2,26 euros por día y por metro lineal de eslora.
 En los servicios de pórticos elevadores se aplican, en función de la eslora de las embarcaciones, los coeficientes siguientes:
 1. Embarcaciones de menos de 14 metros de eslora: 0,9.
 2. Embarcaciones de más de 20 metros y hasta 22 metros: 1,1.
 3. Embarcaciones de más de 22 metros: 1,2.
 d) Grúas fijas:
-Subida o bajada: 18,87 euros por operación.
-1. Es de aplicación en las operaciones de menos de treinta minutos. Para operaciones de más de treinta minutos, la cuantía es de 9,44 euros cada media hora o fracción de exceso.
-2. Estancias: 0,21 euros por metro cuadrado y día. Las embarcaciones pesqueras disfrutan de un día de carencia.
+Subida o bajada: 19,44 euros por operación.
+1. Es de aplicación en las operaciones de menos de treinta minutos. Para operaciones de más de treinta minutos, la cuantía es de 9,72 euros cada media hora o fracción de exceso.
+2. Estancias: 0,22 euros por metro cuadrado y día. Las embarcaciones pesqueras disfrutan de un día de carencia.
 3. Invernaje: en zonas de botadura cerradas se pueden establecer conciertos por razones de optimización en la operatividad de la gestión portuaria.
 4. Si, por cualquier causa, Puertos de la Generalidad no dispone de maquinistas de grúas para atender las peticiones de alquiler de estos equipos, puede autorizar su utilización, y el maquinista va a cargo del peticionario; en este caso, la tarifa es el 75 por 100 de la cuantía que corresponde. Dicho maquinista y, subsidiariamente, la empresa que lo contrata son responsables de todas las lesiones, daños y averías ocasionados al personal o los bienes de Puertos de la Generalidad o a terceros, como consecuencia de la manipulación de la grúa, y deben demostrar ante Puertos de la Generalidad su aptitud para dicho cometido, si Puertos de la Generalidad lo solicita.
 e) Otros servicios:
 Servicios diversos en zonas de reparación cerradas.
-Recogida de desperdicios: 1,49 euros por metro de eslora y por semana o fracción.
-Suministro de energía y agua: 0,35 euros por metro de eslora por día.
-Alquiler de máquina de limpieza a presión: 25,41 euros por hora.
+Recogida de desperdicios: 1,53 euros por metro de eslora y por semana o fracción.
+Suministro de energía y agua: 0,36 euros por metro de eslora por día.
+Alquiler de máquina de limpieza a presión: 26,17 euros por hora.
 4.4.5 Reducciones o bonificaciones:
 1. En la estancia en la zona de reparación, a partir del cuarto día, existe una reducción de un 50 por 100 de la cuantía, y la prestación del servicio queda condicionada a la disponibilidad de la zona.
 2. En la subida o bajada de grúas fijas, el sector pesquero tiene un descuento de un 25 por 100 de la cuantía.
@@ -455,6 +457,8 @@ Esta tarifa comprende cualquier otro servicio portuario prestado en régimen de 
 Están obligados al pago de esta tarifa los usuarios de los correspondientes servicios.
 4.6.3 Base y cuantía de la tarifa:
 La base para la liquidación de esta tarifa es el número de unidades del servicio prestado en cada caso. La cuantía de esta tarifa se fija de acuerdo con la naturaleza y peculiaridad del servicio, teniendo en cuenta el valor real de mercado de los servicios prestados y actividades realizadas.
+Se incrementan en un 2 % las cuantías de las tarifas por los servicios generales G-1, G-2, G-3 y G-5 y también por los servicios específicos E-1, E-2 y E-4, por el art. 28 de la Ley 5/2007, de 4 de julio. Ref. BOE-A-2007-14803.
+Se modifican varias tarifas de los apartados 3 y 4 por el art. 21 de la Ley 12/2004, de 27 de diciembre. Ref. BOE-A-2015-2647.
 Se modifican varias tarifas de los apartados 3 y 4 por el art. 28 de la Ley 7/2004, de 16 de julio. Ref. BOE-A-2004-16713.
 Se modifican varias tarifas de los apartados 3 y 4 por el art. 65 de la Ley 31/2002, de 30 de diciembre. Ref. BOE-A-2003-1056.
 Se modifican las tarifas G-3, establecidas por la letra b del apartado 3.3.4, tarifa E-1, establecida por el punto 2 del apartado 4.1.4, la tarifa E-4, establecida en la letra a del apartado 4.4.4, tarifa E-1 del punto 1 del apartado 4.1.4, y la tarifa E-2 del punto 1 del apartado 4.2.4; y se incrementan en un 3 % las tarifas establecidas por los apartados 3.1.4 de la tarifa G-1, apartado 3.2.4 de la tarifa G-2, letra a del apartado 3.3.4 de la tarifa G-3, apartado 3.5.4 de la tarifa G-5, punto 1 del apartado 4.1.4 de la tarifa E-1, punto 3 del apartado 4.1.4 de la tarifa E-1, punto 1 del apartado 4.2.4 de la tarifa E-2, apartado 4.4.4 de la tarifa E-4, apartado 4.5.4 de la tarifa E-5, todas ellas por el art. 42 de la Ley 21/2001, de 28 de diciembre. Ref. BOE-A-2002-1485.
