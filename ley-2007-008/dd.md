@@ -1,0 +1,8 @@
+Disposición derogatoria.
+1. Quedan derogados los artículos relativos al Instituto Catalán de la Salud de la Ley 12/1983, de 14 de julio, de administración institucional de la sanidad, y de la asistencia y los servicios sociales de Cataluña, y las disposiciones transitorias segunda, tercera, cuarta, sexta y octava y el apartado 2 de la disposición final primera de la Ley 15/1990, de 9 de julio, de ordenación sanitaria de Cataluña, en todo aquello que afecta directamente el Instituto Catalán de la Salud.
+2. Quedan derogadas cuantas normas se opongan a lo establecido por la presente ley, sin perjuicio de la vigencia de las disposiciones siguientes, cuya relación se efectúa a título enunciativo, o de las que las modifican o sustituyen, siempre y cuando no contradigan la presente ley y mientras no se aprueben sus normas de desarrollo y de aplicación:
+a) Decreto 380/1983, de 8 de septiembre, de estructuración de los consejos generales del Instituto Catalán de la Salud y del Instituto Catalán de Asistencia y Servicios Sociales, en la parte que afecta al Instituto Catalán de la Salud.
+b) Decreto 276/2001, de 23 de octubre, de reestructuración del Instituto Catalán de la Salud.
+c) Decreto 277/2001, de 23 de octubre, por el que se regulan las estructuras de dirección, gestión y administración de las instituciones sanitarias en el ámbito de la atención primaria del Instituto Catalán de la Salud.
+d) Decreto 202/2005, de 27 de septiembre, por el que se establecen las normas reguladoras de los órganos de participación de los centros hospitalarios gestionados por el Instituto Catalán de la Salud.
+e) Decreto 53/2006, de 28 de marzo, de medidas de reforma del Instituto Catalán de la Salud.
