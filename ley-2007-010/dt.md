@@ -1,0 +1,2 @@
+Disposición transitoria. Prórroga del régimen orgánico.
+Los órganos de gobierno y administración de la Escuela de Policía de Cataluña y de la Escuela de Bomberos y Seguridad Civil de Cataluña deben continuar ejerciendo sus funciones hasta que sean sustituidos por los órganos de gobierno y administración del Instituto de Seguridad Pública de Cataluña, con el fin de garantizar que sus actividades se realicen normalmente.
