@@ -457,6 +457,7 @@ Esta tarifa comprende cualquier otro servicio portuario prestado en régimen de 
 Están obligados al pago de esta tarifa los usuarios de los correspondientes servicios.
 4.6.3 Base y cuantía de la tarifa:
 La base para la liquidación de esta tarifa es el número de unidades del servicio prestado en cada caso. La cuantía de esta tarifa se fija de acuerdo con la naturaleza y peculiaridad del servicio, teniendo en cuenta el valor real de mercado de los servicios prestados y actividades realizadas.
+Se incrementan en un 2 % las cuantías de las tarifas por los servicios generales G-1, G-2, G-3 y G-5 y por los servicios específicos E-1, E-2, E-4, por el art. 26 de la Ley 17/2007, de 21 de diciembre. Ref. BOE-A-2008-3656.
 Se incrementan en un 2 % las cuantías de las tarifas por los servicios generales G-1, G-2, G-3 y G-5 y también por los servicios específicos E-1, E-2 y E-4, por el art. 28 de la Ley 5/2007, de 4 de julio. Ref. BOE-A-2007-14803.
 Se modifican varias tarifas de los apartados 3 y 4 por el art. 21 de la Ley 12/2004, de 27 de diciembre. Ref. BOE-A-2015-2647.
 Se modifican varias tarifas de los apartados 3 y 4 por el art. 28 de la Ley 7/2004, de 16 de julio. Ref. BOE-A-2004-16713.
