@@ -1,0 +1,4 @@
+Disposición transitoria.
+1. Los estudios informativos o anteproyectos y los proyectos en tramitación en el momento de entrada en vigor de la presente ley deben adaptarse a la misma en cuanto a los trámites posteriores a su entrada en vigor.
+2. Las disposiciones complementarias al régimen de contratación que la presente ley contiene no son de aplicación a los expedientes de contratación ya iniciados en el momento de su entrada en vigor. Son expedientes de contratación iniciados los que ya tienen publicada la convocatoria del procedimiento de adjudicación del contrato. En caso de los procedimientos negociados, se entienden iniciados los que ya tienen aprobados los pliegos de cláusulas administrativas particulares o documento equivalente.
+3. Los preceptos relativos a la ejecución de la obra son de aplicación a los trámites posteriores a la fecha de entrada en vigor de la presente ley.
