@@ -1,0 +1,4 @@
+Disposición adicional decimotercera. Registros de agentes inmobiliarios y de constructores.
+1. El Gobierno debe crear el registro de agentes inmobiliarios, establecido por el artículo 55.4, en el plazo de tres meses desde la fecha de publicación de la presente ley en el «Diari Oficial de la Generalitat de Catalunya».
+2. El Gobierno debe regular por reglamento las condiciones por las que se debe regir el registro voluntario de constructores, establecido por el artículo 52.3, en el plazo de tres meses desde la fecha de publicación de la presente ley en el «Diari Oficial de la Generalitat de Catalunya».
+3. El Gobierno debe impulsar las actuaciones necesarias para que la Administración del Estado elabore y apruebe normas de formación mínima y de capacitación profesional de los agentes inmobiliarios, con el fin de mejorar la protección de los consumidores en el ejercicio de estas actividades.

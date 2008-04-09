@@ -1,0 +1,2 @@
+Disposición adicional decimocuarta. Sistema de prestaciones para el pago del alquiler.
+El consejero o consejera del departamento competente en materia de vivienda debe establecer el sistema de prestaciones para el pago del alquiler para las personas y las unidades de convivencia residentes en Cataluña con ingresos bajos y moderados, que establece el artículo 72, en el plazo de seis meses desde la fecha de publicación de la presente ley en el «Diari Oficial de la Generalitat de Catalunya».

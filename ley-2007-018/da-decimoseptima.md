@@ -1,0 +1,2 @@
+Disposición adicional decimoséptima. Registro de Solicitantes de Vivienda de Protección Oficial.
+El Gobierno debe poner en funcionamiento el Registro de Solicitantes de Vivienda de Protección Oficial, mediante la aprobación del correspondiente Reglamento, establecido por el artículo 92, en el plazo de tres meses desde la fecha de publicación de la presente ley en el «Diari Oficial de la Generalitat de Catalunya».

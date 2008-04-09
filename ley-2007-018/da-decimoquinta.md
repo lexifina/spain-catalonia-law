@@ -1,0 +1,2 @@
+Disposición adicional decimoquinta. Fondos de solidaridad urbana.
+El Gobierno debe determinar los criterios para evaluar el cumplimiento del mandato de solidaridad urbana que establece el capítulo II del título V y debe crear el Fondo de solidaridad urbana que establece el artículo 76 en el plazo de un año desde la fecha de publicación de la presente ley en el «Diari Oficial de la Generalitat de Catalunya».
