@@ -1,0 +1,2 @@
+Disposición adicional. Programa marco de cultura.
+El Gobierno debe aprobar, a propuesta del consejero o consejera competente en materia de cultura, el Programa marco de cultura, que elabora el departamento competente en materia de cultura con la participación del Consejo Nacional de la Cultura y de las Artes, y que establece los objetivos y las prioridades en los distintos ámbitos de la cultura y en los demás en que la promoción y el desarrollo cultural tienen una repercusión relevante, por un período no inferior a tres años.
