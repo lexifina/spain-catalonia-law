@@ -1,0 +1,3 @@
+Disposición modificativa tercera. Modificación de la Ley 13/2005.
+Se modifica el apartado 2 del artículo 10 de la Ley 13/2005, de 27 de diciembre, del régimen de incompatibilidades de los altos cargos al servicio de la Generalidad, que queda redactado de la siguiente forma:
+«2. Los altos cargos al servicio de la Generalidad que no sean miembros del Gobierno pueden compatibilizar el ejercicio de su cargo con la condición de miembros electivos de las corporaciones locales, salvo que el ejercicio de dicha condición comporte dedicación exclusiva o dedicación fija a tiempo parcial, de acuerdo con la normativa vigente.»

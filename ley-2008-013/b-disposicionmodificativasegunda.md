@@ -1,0 +1,6 @@
+Disposición modificativa segunda. Modificación de la Ley 5/2005.
+1. Se modifica el apartado 3 del artículo 3 de la Ley 5/2005, de 2 de mayo, de la Comisión Jurídica Asesora, que queda redactado de la siguiente forma:
+«3. El Gobierno, a propuesta del titular o la titular del departamento a través del cual la Comisión Jurídica Asesora se relaciona con el mismo, nombra a los miembros de la Comisión para un período de seis años, renovable por un período de seis años más. La renovación de los miembros de la Comisión se realiza por tercios cada dos años.»
+2. Se añade una disposición transitoria cuarta a la Ley 5/2005, de 2 de mayo, de la Comisión Jurídica Asesora, con el siguiente texto:
+«Cuarta. Renovación de los miembros de la Comisión.
+Los miembros de la Comisión Jurídica Asesora nombrados conforme a lo que disponía la redacción primigenia del artículo 3.3 se mantienen en el cargo hasta que finalice el período de tiempo para el que fueron nombrados. Agotado dicho mandato, el Gobierno debe realizar los nuevos nombramientos. Deberá determinarse por sorteo, de entre todos los miembros designados, cuáles terminarán su mandato en cada una de las tres primeras renovaciones, la primera de las cuales tendrá lugar a los cuatro años de la designación.»
