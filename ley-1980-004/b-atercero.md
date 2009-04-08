@@ -13,6 +13,8 @@ j) Constituir, transmitir, modificar y extinguir los derechos de hipoteca, super
 k) Proteger y defender su patrimonio.
 l) Arrendar bienes muebles e inmuebles.
 m) Ejercer la gestión de las fianzas de arrendamiento de fincas urbanas y del Registro de Fianzas de los Contratos de Alquiler, de acuerdo con las disposiciones vigentes.
+m.bis) Adoptar medidas de apoyo, tanto técnico como económico y financiero, para el impulso de la finalización de procesos de urbanización.
 n) Cualquier otra que le encomiende la ley o el Gobierno de la Generalidad.
 2. El Instituto Catalán del Suelo desarrollará sus funciones dentro de su competencia, de acuerdo con el ordenamiento urbanístico y respetando el planeamiento vigente.
+Se añade la letra m.bis) por la disposición adicional 1.2 de la Ley 3/2009, de 10 de marzo. Ref. BOE-A-2009-5850.
 Se modifica el apartado 1 por el art. 27.2 de la Ley 4/2000, de 26 de mayo. Ref. BOE-A-2000-11470.
