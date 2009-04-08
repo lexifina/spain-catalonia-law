@@ -1,0 +1,2 @@
+Disposición transitoria.
+Pueden acogerse al sistema de ayudas y financiación regulado en los capítulos III, IV y V de la presente ley los ayuntamientos y titulares de parcelas que cumplan las condiciones determinadas en esta ley, siempre y cuando en el momento de su entrada en vigor las urbanizaciones se encuentren en las condiciones establecidas en el artículo 3 y hayan iniciado el proceso de adecuación para dotarse de todos los servicios urbanísticos según las prescripciones de la nueva normativa.
