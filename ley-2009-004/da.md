@@ -1,0 +1,2 @@
+Disposición adicional. Criterio de paridad.
+Los departamentos de la Administración de la Generalidad y de las otras administraciones, entidades y organizaciones que tienen más de una persona representante en alguno de los órganos del Instituto de Investigación y Tecnología Agroalimentarias deben hacer efectivo el criterio de paridad entre hombres y mujeres en las propuestas de nombramiento de sus representantes.
