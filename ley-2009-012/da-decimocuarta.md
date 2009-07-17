@@ -1,0 +1,2 @@
+Disposición adicional decimocuarta. Protección de datos personales.
+En el tratamiento de datos, en el ámbito del sistema educativo, es aplicable la normativa de protección de datos de carácter personal, debiendo adoptarse las medidas necesarias para garantizar su seguridad y confidencialidad. La Administración educativa debe favorecer la transmisión de los principios, derechos y medidas de seguridad básicas en relación con la protección de datos.

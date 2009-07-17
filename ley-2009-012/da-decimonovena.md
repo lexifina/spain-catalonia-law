@@ -1,0 +1,2 @@
+Disposición adicional decimonovena. Centros que imparten acciones formativas derivadas de la integración de las ofertas de formación profesional.
+El Gobierno adapta la composición, funciones y denominación de los órganos de gobierno de los centros que imparten acciones formativas derivadas de la integración de las ofertas de formación profesional para garantizar, de acuerdo con el ordenamiento, que la comunidad educativa, los representantes de los agentes económicos y sociales y la institución titular del centro participan en el gobierno del centro.

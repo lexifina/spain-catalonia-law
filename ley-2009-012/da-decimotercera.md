@@ -1,0 +1,2 @@
+Disposición adicional decimotercera. Retribuciones del personal contratado de los centros privados concertados.
+El personal docente que presta servicio en las enseñanzas objeto de concierto y que percibe las retribuciones que se derivan del contrato de trabajo, el convenio y la legislación laboral aplicable recibe unas retribuciones equivalentes y homologables a las de los funcionarios docentes del correspondiente nivel educativo, que toman en consideración elementos de promoción profesional.

@@ -1,0 +1,3 @@
+Disposición adicional decimosexta. Efectos retributivos y garantías de la aplicación del artículo 127.2.
+1. Las garantías retributivas establecidas en el artículo 127.2 deben aplicarse al personal docente que ocupa o ha ocupado puestos de trabajo no reservados exclusivamente a funcionarios docentes de la Administración de la Generalidad que ha sido removido de su puesto discrecionalmente o por alteración o supresión del puesto de trabajo a partir del día 1 de enero de 1981.
+2. Los efectos de los derechos retributivos correspondientes al componente de las retribuciones complementarias, establecido en el artículo 127.2, se reconocen a partir de la fecha de entrada en vigor de la Ley del Estado 7/2007.
