@@ -1,0 +1,4 @@
+Por tanto, ordeno que todos los ciudadanos a los que sea de aplicación esta Ley cooperen en su cumplimiento y que los tribunales y autoridades a los que corresponda la hagan cumplir.
+Palacio de la Generalidad, 22 de julio de 2009.–El Presidente de la Generalidad de Cataluña, José Montilla i Aguilera.–El Consejero de Política Territorial y Obras Públicas, Joaquim Nadal i Farreras.
+INFORMACIÓN RELACIONADA
+Se suprime y se extingue la personalidad jurídica de la entidad de derecho público Aeropuertos de Cataluña, con efectos desde el 31 de enero de 2014. Sus funciones y facultades son asumidas por el departamento de la Generalidad competente en materia aeroportuaria y por la entidad adscrita de este departamento que, de acuerdo con el objeto social, tenga atribuidas funciones en materia aeroportuaria, según establece el art. 151.1, 2 y 5 de la Ley 2/2014, de 27 de enero Ref. BOE-A-2014-2999.
