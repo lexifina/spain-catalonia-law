@@ -1,0 +1,4 @@
+Disposición adicional.
+1. A partir del 1 de junio de 2010, y para el periodo de un año, el número de meses a computar para determinar los ingresos para tener derecho a las prestaciones que establece la renta mínima de inserción a qué hace referencia el artículo 6.1, apartado e) de la presente ley, será de cuatro meses. Esta medida se puede prorrogar en función de la evolución de la situación socioeconómica, que debe ser valorada previamente por el Comité de Seguimiento de la Renta Mínima de Inserción.
+2. Se habilita al Gobierno para que, a propuesta de la consejera de Trabajo, prorrogue esta medida, previa consulta sobre la valoración de la situación socioeconómica al Comité de Seguimiento de la Renta Mínima de Inserción.
+Se añade por el art. 2 del Decreto-ley 1/2010, de 12 de enero. Ref. BOE-A-2011-13896.
