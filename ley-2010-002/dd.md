@@ -1,0 +1,2 @@
+Disposición derogatoria.
+Se derogan la Ley 1/1986, de 25 de febrero, de pesca marítima de Cataluña, modificada por las leyes 15/2000, de 29 de diciembre; 21/2001, de 28 de diciembre, y 31/2002, de 30 de diciembre, de medidas fiscales y administrativas, y por la Ley 15/2005, de 27 de diciembre, de reforma parcial de varios preceptos legales en materias de agricultura, ganadería y pesca, comercio, salud y trabajo, así como el resto de disposiciones del mismo rango o de rango inferior en todo cuanto contradigan los preceptos de la ley presente.
