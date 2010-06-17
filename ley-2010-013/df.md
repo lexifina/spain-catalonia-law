@@ -1,0 +1,2 @@
+Disposición final. Modelo territorial.
+La desagregación territorial de los resultados de las actividades estadísticas que regula la presente ley debe adaptarse al modelo territorial vigente en cada momento, sin perjuicio de las explotaciones a otros niveles territoriales pertinentes y viables. Siempre que sea técnicamente posible, debe garantizarse la comparabilidad y continuidad de las series estadísticas en su respectiva desagregación territorial.
