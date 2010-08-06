@@ -1,0 +1,2 @@
+Disposición adicional decimosexta. Régimen especial del municipio de Barcelona.
+El Ayuntamiento de Barcelona y la Subcomisión de Urbanismo del municipio de Barcelona tienen las competencias urbanísticas que les atribuye la Ley 22/1998, de 30 de diciembre, de la Carta municipal de Barcelona, las cuales prevalecen sobre las que determina esta Ley.

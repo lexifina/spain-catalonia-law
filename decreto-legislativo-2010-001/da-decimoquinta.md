@@ -1,0 +1,2 @@
+Disposición adicional decimoquinta. Soporte al planeamiento municipal.
+El Gobierno debe aprobar, con carácter anual, un programa específico de subvenciones a las corporaciones locales para la formulación de planes de ordenación urbanística municipal, programas de actuación urbanística municipal y planes derivados de iniciativa pública, para fomentar la adaptación de los municipios a la nueva legislación y de garantizar su aplicación.

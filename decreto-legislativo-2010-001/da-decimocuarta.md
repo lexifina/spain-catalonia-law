@@ -1,0 +1,2 @@
+Disposición adicional decimocuarta. Plazos para la intervención del Síndic de Greuges.
+El plazo que el artículo 36 de la Ley 24/2009, de 23 de diciembre, del Síndic de Greuges, establece para la intervención del Síndic de Greuges en cuestiones urbanísticas se debe entender adaptado a los plazos que establece la presente Ley para la prescripción de las infracciones y de la acción de restauración, de acuerdo con la disposición modificativa tercera de la Ley 24/2009 mencionada.
