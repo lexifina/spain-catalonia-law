@@ -1,0 +1,17 @@
+Artículo 35 bis. Facultades de la Comisión de control.
+1. Son facultades de la Comisión de control:
+a) Supervisar la gestión del Consejo de Administración, velando por la adecuación de sus acuerdos a las directrices y resoluciones de la Asamblea general y a los fines propios de la entidad.
+b) Vigilar el funcionamiento y la labor desarrollada por los órganos de intervención de la entidad.
+c) Conocer los informes de auditoría externa y las recomendaciones que formulan los auditores.
+d) Revisar el balance y la cuenta de resultados de cada ejercicio anual y formular las observaciones que considere adecuadas.
+e) Elevar a la Asamblea general información relativa a su actuación, al menos una vez al año.
+f) Requerir del Presidente o Presidenta la convocatoria de la Asamblea general con carácter extraordinario cuando lo considera conveniente.
+g) Controlar los procesos electorales para la composición de la Asamblea y del Consejo de Administración, junto con el Departamento de Economía y Finanzas.
+h) Conocer y emitir su opinión sobre los informes de la Comisión delegada de obras sociales.
+i) Proponer al Departamento de Economía y Finanzas la suspensión de los acuerdos del Consejo de Administración en el supuesto de que éstos vulneren las disposiciones vigentes.
+j) En su caso, las previstas en la disposición adicional decimoctava de la Ley 24/1988, de 28 de julio, del Mercado de Valores, a menos que las hubiera asumido un comité de auditoría creado al efecto.
+k) Cualquier otra que le atribuyan los estatutos.
+2. La Comisión de control debe informar inmediatamente al Departamento de Economía y Finanzas de las irregularidades observadas en ejercicio de sus funciones, al objeto de que éste adopte las medidas adecuadas, sin perjuicio de las facultades de aquélla de solicitar la convocatoria de Asamblea general y de la obligación de comunicar directamente al Banco de España o al órgano estatal que corresponda las cuestiones relacionadas con sus competencias.
+3. La Comisión de control debe elaborar los informes establecidos reglamentariamente, que se remitirán al Departamento de Economía y Finanzas.
+Se añade y modifica por el art. 1.16.1 del Decreto-ley 5/2010, de 3 de agosto. Ref. BOE-A-2010-15127.
+Su anterior numeración era art. 35.

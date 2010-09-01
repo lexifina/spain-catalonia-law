@@ -1,0 +1,5 @@
+Artículo 41 bis. Derecho de información y de impugnación de los titulares de cuotas participativas.
+1. Los titulares de cuotas participativas en, al menos, un porcentaje del total de cuotas emitidas en circulación igual o superior al 5% pueden solicitar de la entidad informaciones o aclaraciones, o formular preguntas por escrito sobre cualquier asunto que sea de su interés y la entidad está obligada a facilitárselos, a menos que resulten perjudicados los intereses de la Caja de Ahorros o el cumplimiento de su función social.
+2. Los titulares de cuotas participativas tienen derecho a impugnar los acuerdos adoptados por la Asamblea General o por el Consejo de Administración de la entidad emisora en los mismos términos y condiciones que los accionistas respecto de los acuerdos sociales de las juntas y del órgano de administración de la sociedad anónima de la cual son socios.
+A estos efectos, es de aplicación supletoria la normativa reguladora de la impugnación de acuerdos en las sociedades anónimas, a menos que se oponga a las previsiones de esta Ley.
+Se añade por el art. 1.21 del Decreto-ley 5/2010, de 3 de agosto. Ref. BOE-A-2010-15127.

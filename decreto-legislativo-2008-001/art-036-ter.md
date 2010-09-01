@@ -1,0 +1,5 @@
+Artículo 36 ter. La Comisión de Inversiones.
+1. El Consejo de Administración de las Cajas de Ahorros tiene que constituir en su seno una Comisión de Inversiones que tendrá la función de informar al Consejo de Administración o la comisión ejecutiva de aquellas inversiones o desinversiones que tengan carácter estratégico y estable, tanto cuando sean hechas directamente por la entidad como cuando lo sean a través de sus entidades dependientes, así como informar sobre su viabilidad financiera y adecuación a los presupuestos y planes estratégicos de la entidad. Asimismo tiene que entregar un informe anual sobre las inversiones de esta naturaleza efectuadas durante el ejercicio.
+2. La comisión tiene que estar compuesta por un máximo de tres personas, que tienen que ser vocales del Consejo de Administración.
+3. El régimen de funcionamiento de la Comisión de Inversiones tiene que ser establecido por reglamento y tiene que constar en los estatutos y el Reglamento interno de la caja.
+Se añade por el art. 1.18 del Decreto-ley 5/2010, de 3 de agosto. Ref. BOE-A-2010-15127.
