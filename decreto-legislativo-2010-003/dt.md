@@ -1,0 +1,4 @@
+Disposición transitoria. Régimen jurídico aplicable a los procedimientos iniciados antes de la entrada en vigor de este Decreto legislativo.
+1. Los procedimientos iniciados antes de la entrada en vigor de este Decreto legislativo se tienen que tramitar y resolver de acuerdo con la normativa aplicable en el momento de la iniciación del procedimiento, sin perjuicio de lo que establecen los apartados 2 y 3.
+2. En los procedimientos en que hace referencia el apartado 1, las personas solicitantes pueden, antes de que se dicte resolución, optar para que les sea de aplicación la nueva normativa.
+3. En los procedimientos a los que hace referencia el apartado 1 en los que este Decreto legislativo ha modificado el sentido del silencio administrativo, se pueden entender estimadas las solicitudes, siempre y cuando en el momento de la entrada en vigor de este Decreto legislativo no haya transcurrido el plazo para resolver.
