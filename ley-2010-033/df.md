@@ -1,0 +1,2 @@
+Disposición final. Entrada en vigor.
+La presente ley entra en vigor al mes de su publicación en el «Diari Oficial de la Generalitat de Catalunya».

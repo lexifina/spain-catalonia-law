@@ -1,0 +1,4 @@
+Disposición modificativa. Modificación de la Ley 38/1991.
+1. Se modifica el apartado 2 del artículo 1 de la Ley 38/1991, de 30 de diciembre, de instalaciones destinadas a actividades con niños y jóvenes, que queda redactado del siguiente modo:
+«2. La edad de los niños y la de los jóvenes, a los efectos de la presente ley, es la que establece la normativa sectorial correspondiente.»
+2. Se modifican los artículos 1, 2, 5 y 9 y la disposición adicional segunda de la Ley 38/1991, de 30 de diciembre, de instalaciones destinadas a actividades con niños y jóvenes, de forma que las referencias que dichas disposiciones realizan a «instalaciones destinadas a actividades con niños y jóvenes», «instalaciones destinadas a los niños y los jóvenes», «instalaciones para niños y jóvenes», «instalaciones juveniles de ocio» e «instalaciones juveniles» quedan sustituidas por «instalaciones destinadas a actividades de ocio con niños y jóvenes».
