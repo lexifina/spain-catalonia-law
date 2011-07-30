@@ -1,0 +1,3 @@
+Artículo 35 bis.
+Las entidades que de acuerdo con las normas del sistema europeo de cuentas (SEC) han sido clasificadas en el sector de Administración pública de la Generalidad no pueden efectuar transferencias de crédito o generaciones de crédito derivadas de nuevos ingresos financieros que comporten un aumento del importe total de sus gastos no financieros en términos del SEC, salvo que dispongan de la autorización del Gobierno, y con un informe previo del departamento competente en materia de economía y finanzas.
+Se añade por el art. 55.3 de la Ley 7/2011, de 27 de julio. Ref. BOE-A-2011-13896.
