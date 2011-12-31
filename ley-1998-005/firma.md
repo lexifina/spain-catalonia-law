@@ -14,9 +14,11 @@ a.5 La suspensión temporal acordada de conformidad con lo establecido en los ap
 b) Depósito previo:
 Puertos de la Generalidad puede exigir el depósito previo o la constitución de avales, así como emitir facturas a cuenta, al objeto de garantizar el cobro del importe de las tarifas por los servicios que se soliciten en el ámbito de su competencia, sin perjuicio de la liquidación final resultante.
 1.7 Facturación relativa a bienes abandonados:
-a) Puertos de la Generalidad debe suspender la facturación de los servicios respecto a las mercancías, embarcaciones, vehículos o cualquier objeto o artefacto que previamente declare en abandono.
-b) A efectos de lo establecido en la letra a), se entiende que hay abandono a partir de los cinco meses de impago y cuando el posible valor en venta no alcance el importe de la facturación emitida no abonada ; todo ello sin perjuicio de la competencia de la Administración de Aduanas en la determinación del abandono de mercancías incluidas en procedimiento de despacho.
+a) La Administración portuaria, si procede, debe suspender la facturación de los servicios respecto de las mercancías, las embarcaciones, los vehículos o cualquier objeto o artilugio que previamente declare en abandono.
+b) A los efectos de lo establecido por la letra a, se entiende que hay abandono a partir de los cinco meses de impago o cuando el posible valor en venta no alcance el importe de la facturación emitida no abandonada; todo ello, sin perjuicio de la competencia de la Administración de aduanas en la determinación del abandono de mercancías incluidas en procedimiento de despacho. Se consideran directamente abandonados los bienes descritos que se encuentren en la zona de servicio portuaria sin autorización y que no tengan matrícula o datos suficientes para identificar a la persona propietaria o consignataria.
 c) Previamente a la declaración de abandono, debe publicarse mediante edicto en el "Diari Oficial de la Generalitat de Catalunya" y en el tablón de anuncios del ayuntamiento del último domicilio conocido del deudor, por un plazo no inferior a veinte días naturales, la tramitación del expediente de abandono, para que el propietario o propietaria o quien en derecho proceda pueda abonar sus deudas y retirar los bienes en presunto abandono. Una vez transcurrido dicho plazo, debe realizarse, sin más trámite, la declaración de abandono y debe ponerse a la venta en subasta pública, previo anuncio en el "Diari Oficial de la Generalitat de Catalunya" y en el tablón de anuncios del ayuntamiento del último domicilio conocido, con una antelación de quince días.
+d) Corresponde a la Administración portuaria la propiedad de los barcos, vehículos y otros objetos y bienes que han sido declarados en situación de abandono, así como las cantidades obtenidas en caso de enajenación mediante subasta pública.
+e) Los barcos, los vehículos, la maquinaria y los utensilios en general que permanecen en la zona de servicio portuaria por un período superior a un mes en el mismo lugar y presentan desperfectos que permiten presumir racionalmente su situación de abandono y la condición de desecho deben tratarse como residuos.
 1.8 Facturación relativa a bienes litigiosos:
 Los derechos económicos devengados por mercancías, embarcaciones, vehículos o cualquier objeto o artefacto sometidos a procedimientos legales o administrativos deben ser exigidos a los que resulten ser sus propietarios o titulares, en los términos de las correspondientes sentencias o resoluciones. No puede efectuarse la retirada de los mencionados bienes si no se ha hecho efectiva la correspondiente liquidación.
 1.9 Aceptación de las condiciones de la prestación de servicios:
@@ -52,7 +54,7 @@ M = Manga máxima.
 P = Puntal de trazado.
 En el supuesto de construcción, el arqueo bruto es el correspondiente al buque acabado; en caso de desguace, el arqueo bruto es la mitad del original.
 f.2 El calado máximo es el calado de trazado definido según la regla 4.2 del Reglamento para la determinación de los arqueos bruto y neto de los buques, que figura como anexo I del Convenio internacional sobre arqueo de buques, de 23 de junio de 1969, y, en su defecto, el que figura en el "Lloyd's Register of Shipping".
-2 a 4. (Derogados).
+2 y 3. (Derogados).
 4. Normas específicas de las tarifas por servicios especiales:
 4.1 Tarifa E-1. Utilización de maquinaria y utillaje portuario:
 4.1.1 Definición y aplicación:
@@ -114,6 +116,7 @@ Esta tarifa comprende cualquier otro servicio portuario prestado en régimen de 
 Están obligados al pago de esta tarifa los usuarios de los correspondientes servicios.
 4.6.3 Base y cuantía de la tarifa:
 La base para la liquidación de esta tarifa es el número de unidades del servicio prestado en cada caso. La cuantía de esta tarifa se fija de acuerdo con la naturaleza y peculiaridad del servicio, teniendo en cuenta el valor real de mercado de los servicios prestados y actividades realizadas.
+Se modifica el apartado 1.7 por el art. 149 de la Ley 10/2011, de 29 de diciembre. Ref. BOE-A-2012-547.
 Se deroga, excepto los apartados 1.6 a 1.10, y los apartados 4.1, 4.3 y 4.6 por la disposición derogatoria única.1 y 2 del Decreto Legislativo 2/2010, de 3 de agosto. Ref. BOE-A-2010-13884.
 Se incrementan en un 5% las cuantías de las tarifas establecidas por la prestación de los servicios portuarios generales G-1, G-2, G-3 y G-5 y de los servicios portuarios específicos E-1, E-2 y E-4 por el art. 43 de la Ley 16/2008, de 23 de diciembre. Ref. BOE-A-2009-1257.
 Se incrementan en un 2 % las cuantías de las tarifas por los servicios generales G-1, G-2, G-3 y G-5 y por los servicios específicos E-1, E-2, E-4, por el art. 26 de la Ley 17/2007, de 21 de diciembre. Ref. BOE-A-2008-3656.
