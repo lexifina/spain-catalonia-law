@@ -79,12 +79,20 @@ I.1 Actividades sometidas al régimen de evaluación de impacto ambiental y de a
 11.1.c.i) 750 plazas para cerdas reproductoras.
 11.1.c.ii) 530 plazas para cerdas reproductoras en ciclo cerrado.
 11.1.c.iii) En el caso de explotaciones mixtas, en las que coexistan animales de los apartados 11.1.b y 11.1.c, el número de animales para incluir el establecimiento en este anexo se determinará de acuerdo con las equivalencias en unidad de ganado mayor (UGM) de los diferentes tipos de ganado de cerda, recogidas en la legislación vigente sobre ordenación de las explotaciones porcinas.
+11.1.n) Por encima de 85.000 plazas de pollos de engorde.
 11.3 Instalaciones para la eliminación o el aprovechamiento de canales o restos de animales, con una capacidad de tratamiento superior a 10 toneladas por día.
 12. Otras actividades.
 12.2 Instalaciones para el tratamiento de superficie de materiales, objetos o productos, con la utilización de disolventes orgánicos, en particular para aprestarlos, estamparlos, revestirlos y desengrasarlos, impermeabilizarlos, encolarlos, laquearlos, pigmentarlos, limpiarlos o impregnarlos, con una capacidad de consumo superior a 150 kg de disolvente por hora o superior a 200 toneladas por año.
 12.8 Instalaciones para la fabricación de carbono sinterizado o electrografiado para la combustión o la grafitación.
-I.2 Actividades sometidas al régimen de evaluación de impacto ambiental y de autorización ambiental, no sujetos a la Directiva 96/61/CE, del Consejo, de 24 de septiembre de 1996, de prevención y control integrados de la contaminación
-1 Energía.
+I.2.a) Actividades sometidas a autorización ambiental con declaración de impacto ambiental, que están incluidas en el anexo I del texto refundido de la Ley de evaluación de impacto ambiental de proyectos, aprobado por el Real decreto legislativo 1/2008, de 11 de enero, no sujetos a la Directiva 2008/1/CE, y todas las actividades y las instalaciones afectadas por la legislación de accidentes graves.
+4. Industrias minerales y de la construcción.
+4.9 Instalaciones para la calcinación y la sinterización de minerales metálicos, con una capacidad superior a 5.000 toneladas por año de mineral procesado.
+10. Gestión de residuos.
+10.1 Instalaciones para la eliminación de residuos peligrosos, con una capacidad de hasta 10 toneladas por día.
+12. Otras actividades.
+12.1 Actividades e instalaciones afectadas por la legislación de accidentes graves (incluidas las instalaciones para el almacenaje de productos petrolíferos, con una capacidad superior a 100.000 toneladas y las instalaciones para el almacenaje de productos petroquímicos o químicos con una capacidad superior a 200.000 toneladas).
+I.2.b) Actividades sometidas a autorización ambiental y a un proceso de decisión previa sobre la necesidad de sometimiento a evaluación de impacto ambiental y que están incluidas en el anexo II del texto refundido de la Ley de evaluación de impacto ambiental de proyectos, aprobado por el Real decreto legislativo 1/2008, de 11 de enero.
+1. Energía.
 1.8 Fabricación industrial de briquetas de hulla y de lignito.
 1.12 Instalaciones industriales, y de otros tipos, para la producción de electricidad, vapor y agua caliente, con una potencia térmica superior a 100 MW, que no estén incluidas en el código 1.1 del anexo I.1.
 3. Producción y transformación de metales.
@@ -92,36 +100,26 @@ I.2 Actividades sometidas al régimen de evaluación de impacto ambiental y de a
 3.30 Fabricación de automóviles, motocicletas, autocares y similares y de motores para vehículos, con una superficie total superior a 30.000 metros cuadrados (m2).
 3.31 Fabricación de material ferroviario móvil, con una superficie total superior a 30.000 m2.
 3.33 Instalaciones para la construcción y la reparación de aeronaves, con una superficie total superior a 30.000 m2.
-3.34 Instalaciones o bancos de prueba de motores, turbinas o reactores que estén situadas fuera de polígonos industriales o a menos de 500 metros de una zona residencial.
+3.34 Instalaciones o bancos de prueba de motores, turbinas o reactores que estén situados fuera de polígonos industriales o a menos de 500 metros de una zona residencial.
 4. Industrias minerales y de la construcción.
-4.1.a) Fabricación de cemento o clínker en hornos rotatorios, con una capacidad de producción superior a 200 toneladas por día y de hasta 500 toneladas por día.
-4.1.d) Fabricación de tiza en hornos, con una capacidad de producción superior a 50 toneladas por día.
-4.8 Aglomerados de minerales.
-4.9 Instalaciones para la calcinación y la sinterización de minerales metálicos, con una capacidad superior a 5.000 toneladas por año de mineral procesado.
+4.1.a) Fabricación de cemento o clínker en hornos rotatorios, con una capacidad de producción superior a 200 toneladas por día y hasta 500 toneladas por día.
+4.1.d) Fabricación de yeso en hornos, con una capacidad de producción superior a 50 toneladas por día.
+4.8. Aglomerados de minerales.
 4.10 Fabricación de perlita expandida.
 4.11 Calcinación de la dolomita.
 4.12 Plantas de aglomerados asfálticos con una capacidad de producción superior a 250 toneladas por hora.
 9. Industria del papel.
 9.3 Instalaciones industriales para la fabricación de celofán.
 10. Gestión de residuos.
-10.1 Instalaciones para la eliminación de residuos peligrosos, con una capacidad de hasta 10 toneladas por día.
 10.2 Centro para la recogida y la transferencia de residuos peligrosos, con una capacidad superior a 30 toneladas por día.
 10.7 Instalaciones para la valorización de residuos no peligrosos, con una capacidad superior a 100.000 toneladas por año.
-11. Actividades agroindustriales y ganaderas.–Instalaciones ganaderas para la cría intensiva que tengan:
-11.1.d) Por encima de 600 plazas de vacuno de engorde.
-11.1.e) Por encima de 300 plazas de vacuno de leche.
-11.1.f) Por encima de 2.000 plazas de ovino y cabrío.
-11.1.i) Plazas para más de una de las especies animales especificadas en cualquiera de los anexos de la presente ley, o plazas de la misma especie de aptitudes diferentes, cuya suma sea superior a 500 unidades ganaderas procedimentales (UGP) y no esté incluida en el apartado 11.1.c.iii del anexo I.1, definidas a partir de las equivalencias de procedimiento entre instalaciones que establece la Directiva 96/61/CE, y tomando como base de referencia el vacuno de leche (1 UGP = 1 plaza de vacuno de leche).
-11.1.l) Instalaciones ganaderas para la cría semiintensiva, entendiendo como tal el sistema en el que la alimentación se basa fundamentalmente en el pasto, pero los animales están estabulados durante un cierto período del año, normalmente el invierno, o bien durante la noche. La capacidad de estas explotaciones, para clasificarlas en cada uno de los anexos, se calcula proporcionalmente a los períodos en los que los animales permanecen en las instalaciones; de una manera genérica equivale al 33 % de la capacidad de las instalaciones de cría intensiva.
-11.1.m) Por encima de 20.000 plazas de conejos.
-11.1.n) Por encima de 55.000 plazas de pollos de engorde (y por debajo de 85.000).
-11.2 Instalaciones para la acuicultura intensiva, con una capacidad de producción superior a 1.000 toneladas por año.
-12 Otras actividades
-12.1 Actividades e instalaciones afectadas por la legislación de accidentes graves.
+10.9 Instalaciones para el tratamiento de deyecciones ganaderas líquidas (purines), con una capacidad superior a 100.000 toneladas por año.
+10.10 Instalaciones para el tratamiento mecánico biológico de residuos municipales no recogidos selectivamente, con una capacidad superior a 100.000 toneladas por año.
+10.11 Instalaciones para el tratamiento biológico de residuos de alta fermentabilidad, con una capacidad superior a 100.000 toneladas por año.
+12. Otras actividades.
 12.16 Construcción y reparación naval en atarazanas, con una superficie total superior a 20.000 m2.
 12.37 Campings con un número de unidades de acampada superior a 1.500.
 12.52 Pistas permanentes de carreras y de pruebas para vehículos motorizados, con una superficie superior a 5 hectáreas.
-12.53 Instalaciones para el almacenaje de productos petrolíferos, con una capacidad superior a 100.000 toneladas.
 12.54 Parques temáticos con una superficie superior a 20 hectáreas.
 I.3 Actividades sometidas al régimen de declaración de impacto ambiental con una autorización sustantiva.
 1. Energía.
@@ -131,6 +129,8 @@ I.3 Actividades sometidas al régimen de declaración de impacto ambiental con u
 2.1 Actividades extractivas e instalaciones de los recursos explotados.
 2.4 Explotaciones mineras subterráneas, operaciones conexas y perforaciones geotérmicas.
 2.5 Explotaciones ubicadas en terreno de dominio público hidráulico para extracciones superiores a 20.000 m3/año o en zona de policía de lecho cuya superficie supere las 3 hectáreas.
+Se modifica por el art. 49 de la Ley 9/2011, de 29 de diciembre. Ref. BOE-A-2012-546.
+Téngase en cuenta la disposición transitoria 1.1.
 ANEXO II
 Actividades sometidas al régimen de licencia ambiental
 1. Energía.
@@ -203,9 +203,7 @@ Actividades sometidas al régimen de licencia ambiental
 6.2 Instalaciones para el abono (operaciones previas, ribera, abono, post abono), con una capacidad de tratamiento del producto acabado de hasta 12 toneladas por día.
 7. Industria alimenticia y del tabaco.
 7.1 Mataderos que tengan una capacidad de producción de canales de hasta 50 toneladas por día y superior a 2 toneladas por día.
-7.2 Tratamiento y transformación para la fabricación de productos alimenticios a partir de:
-7.2.a) Materia prima animal (que no sea la leche), con una capacidad de elaboración de productos acabados de hasta 75 toneladas por día y superior a 10 toneladas por día.
-7.2.b) Materia prima vegetal, con una capacidad de producción de productos acabados de hasta 300 toneladas por día (media trimestral) y superior a 5 toneladas por día.
+7.2 (Suprimido)
 7.4 Producción de almidón.
 7.8 Tratamiento, manipulación y procesamiento de productos del tabaco.
 7.9 Instalaciones industriales para elaborar grasas y aceites vegetales y animales, instalaciones industriales para elaborar cerveza y malta, instalaciones industriales para fabricar féculas, instalaciones industriales para elaborar confituras y almíbares, instalaciones industriales para fabricar harina de pez y aceite de pez, siempre y cuando en la instalación se den, de forma simultánea, las circunstancias siguientes: a) que esté situada fuera de polígonos industriales, b) que esté situada a menos de 500 metros de una zona residencial, c) que ocupe una superficie de al menos 1 hectárea. Las actividades incluidas en este epígrafe deben someterse previamente a la solicitud de la licencia a la decisión del órgano ambiental competente del Departamento de Medio Ambiente y Vivienda respecto de la necesidad de someterse o no a la evaluación de impacto ambiental.
@@ -224,32 +222,22 @@ Actividades sometidas al régimen de licencia ambiental
 10.6.b) Mono depósitos de residuos de la construcción.
 10.7 Instalaciones para la valorización de residuos no peligrosos con una capacidad de hasta 100.000 toneladas por año.
 10.8 Instalaciones para el almacenaje de residuos no peligrosos.
-10.9 Instalaciones para el tratamiento de deyecciones ganaderas líquidas (purín).
-10.10 Instalaciones para el tratamiento mecánico biológico de residuos municipales no recogidos selectivamente.
-10.11 Instalaciones para el tratamiento biológico de residuos de alta fermentabilidad.
-11. Actividades agroindustriales y ganaderas.
-11.1 Instalaciones para la cría intensiva que dispongan de:
-11.1.a) Emplazamientos para aves de corral, entendiendo que se trata de gallinas ponedoras, o del número equivalente para otras especies de aves, con una capacidad de hasta 40.000 y superior a 2.000 reses.
-11.1.b.i) Plazas de cerdo de engorde (de más de 30 kg), con una capacidad de hasta 2.000 y superior a 200 reses.
-11.1.b.ii) Plazas de cerdo de engorde (de más de 20 kg), con una capacidad de hasta 2.500 y superior a 200 reses.
-11.1.c.i) Plazas de cerdas reproductoras, con una capacidad de hasta 750 y superior a 50 reses.
-11.1.c.ii) Plazas de cerdas reproductoras en ciclo cerrado, con una capacidad de hasta 530 y superior a 50 reses.
-11.1.d) Plazas de vacuno de engorde, con una capacidad de hasta 600 y superior a 50 reses.
-11.1.e) Plazas de vacuno de leche, con una capacidad de hasta 300 y por encima de 50 reses.
-11.1.f) Plazas de ovino y de cabrío, con una capacidad de hasta 2000 y por encima de 500 reses.
-11.1.g) Plazas de equino, con una capacidad por encima de 50 reses.
-11.1.h) Plazas para cualquier otra especie animal, no especificadas en los anexos de la presente ley, equivalentes a 50 unidades ganaderas (UG) o más, tomando como base de referencia el vacuno de leche (1 UG = 1 plaza de vacuno de leche).
-11.1.j) Plazas de ganado porcino y vacuno, de diferentes aptitudes, tanto si tienen plazas para otras especies animales como si no, excepto si disponen de plazas de aves de corral, cuya suma sea superior a 33 y de hasta 500 UGP, definidas a partir de las equivalencias de procedimiento entre las instalaciones que establece la Directiva 96/61/CE, y tomando como base de referencia el vacuno de leche (1 UGP = 1 plaza de vacuno de leche).
-11.1.k) Plazas de aves de corral y de otras especies animales, incluidos el ganado porcino y el vacuno, cuya suma sea superior a 25 y de hasta 500 UGP, definidas a partir de las equivalencias de procedimiento entre instalaciones que establece la Directiva 96/61/CE, y tomando como base de referencia el vacuno de leche (1 UGP = 1 plaza de vacuno de leche).
-11.1.l) Instalaciones ganaderas para la cría semiintensiva, entendiendo como tal el sistema en el que la alimentación se hace fundamentalmente en pasto, pero los animales están estabulados durante un cierto período del año, normalmente el invierno, o bien durante la noche. La capacidad de estas explotaciones para clasificarlas en cada uno de los anexos se calcula proporcionalmente a los períodos en los que los animales permanecen en las instalaciones, y de una manera genérica equivale al 33 % de la capacidad de las instalaciones de cría intensiva.
-11.1.m) Plazas de conejos, con una capacidad por encima de 1.000 y de hasta 20.000 reses.
-11.2 Instalaciones de acuicultura:
-11.2.a) Intensiva, con una capacidad de producción de hasta 1.000 toneladas por año y superior a 5 toneladas por año.
-11.2.b) Extensiva, con una capacidad de producción de hasta 1.000 toneladas por año y superior a 5 toneladas por año.
-11.3 Instalaciones para la eliminación o el aprovechamiento de canales o restos de animales, con una capacidad de tratamiento de hasta 10 toneladas por día y superior a 1 tonelada por día.
-11.4 Deshidratación artificial de forrajes.
-11.7 Secado de grano y de otras materias vegetales por medio de procedimientos artificiales, con una superficie superior a 500 m2.
-11.8 Desmontaje del algodón, con una superficie superior a 500 m2.
+10.9 Instalaciones para el tratamiento de deyecciones ganaderas líquidas (purines), con una capacidad de hasta 100.000 toneladas por año.
+10.10 Instalaciones para el tratamiento mecánico biológico de residuos municipales no recogidos selectivamente, con una capacidad de hasta 100.000 toneladas por año.
+10.11 Instalaciones para el tratamiento biológico de residuos de alta fermentabilidad, con una capacidad de hasta 100.000 toneladas por año.
+11. Instalaciones ganaderas para la cría intensiva de:
+11.1.b.ii) Plazas de cerdo de engorde (de más de 20 kg), con una capacidad de hasta 2.500 y superior a 2.000 reses.
+11.1.d) Plazas de vacuno de engorde, con una capacidad superior a 600 reses.
+11.1.e) Plazas de vacuno de leche, con una capacidad superior a 300 reses.
+11.1.f) Plazas de ovino y cabrío, con una capacidad superior a 2.000 reses.
+11.1.g) Plazas de caballo y otros equinos, con una capacidad superior a 500 reses.
+11.1.i) Plazas para más de una de las especies animales especificadas en cualquiera de los anexos de la presente ley, o plazas de la misma especie de aptitudes diferentes, cuya suma sea superior a 500 unidades ganaderas procedimentales (UGP) y no esté incluida en el apartado 11.1.c.iii del anexo I.1, definidas a partir de las equivalencias de procedimiento entre instalaciones que establece la Directiva 2008/1/CE, y tomando como base de referencia el vacuno de leche (1 UGP = 1 plaza de vacuno de leche).
+11.1.l) Instalaciones ganaderas para la cría semiintensiva, entendiendo como tal el sistema en que la alimentación se basa fundamentalmente en el pasto, pero los animales están estabulados durante un cierto periodo del año, normalmente el invierno, o bien durante la noche. La capacidad de estas explotaciones, para clasificarlas en cada uno de los anexos, se calcula proporcionalmente a los periodos en que los animales permanecen en las instalaciones, y de una manera genérica equivale al 33% de la capacidad de las instalaciones de cría intensiva.
+11.1.m) Plazas de conejos, con una capacidad superior a 20.000 reses.
+11.1.n) Plazas de pollo de engorde, con una capacidad de entre 55.000 y 85.000 reses.
+11.2 Instalaciones para la acuicultura intensiva, con una capacidad de producción superior a 500 toneladas por año.
+Las actividades que constan en estos apartados 11.1 y 11.2 de este anexo están sometidas a declaración de impacto ambiental.
+11.9 Almacenaje colectivo de deyecciones ganaderas.
 12. Otras actividades.
 12.2 Instalaciones para el tratamiento de superficie de materiales, objetos o productos, con la utilización de disolventes orgánicos, en particular para aprestarlos, estamparlos, revestirlos y desengrasarlos, impermeabilizarlos, encolarlos, laquearlos, pigmentarlos, limpiarlos o impregnarlos, con una capacidad de consumo de hasta 150 kg de disolvente por hora y de hasta 200 toneladas por año, con una superficie superior a 500 m2.
 12.3 Aplicación de barnices no grasos, pinturas, lacas y tintes de impresión sobre cualquier soporte, y la cocción y el secado correspondientes, cuando la cantidad almacenada de estas sustancias en los talleres es superior a 1.000 kg y/o la superficie sea superior a 500 m2.
@@ -280,6 +268,8 @@ Actividades sometidas al régimen de licencia ambiental
 12.47 Instalaciones y actividades para la limpieza de vehículos.
 12.52 Pistas permanentes de carreras y de pruebas para vehículos motorizados, con una superficie de hasta 5 hectáreas.
 12.54 Parques temáticos con una superficie de hasta 20 hectáreas.
+Se modifica por el art. 50 de la Ley 9/2011, de 29 de diciembre. Ref. BOE-A-2012-546.
+Ténganse en cuenta las disposiciones transitorias 1.2 y 2.1, modificada esta última por el art. 171 de la Ley 2/2014, de 27 de enero. Ref. BOE-A-2014-2999.
 ANEXO III
 Actividades sometidas al régimen de comunicación
 1. Energía.
@@ -321,8 +311,8 @@ Actividades sometidas al régimen de comunicación
 6.10 Talleres de confección, calzado, marroquinería y similares.
 7. Industria alimenticia y del tabaco.
 7.1 Mataderos con una capacidad de producción de canales de hasta 2 toneladas por día.
-7.2.a) Materia prima animal (que no sea la leche), con una capacidad de elaboración de productos acabados de hasta 10 toneladas por día.
-7.2.b) Materia prima vegetal, con una capacidad de producción de 5 toneladas por día (media trimestral) de productos acabados.
+7.2.a) Materia prima animal (que no sea la leche), con una capacidad de elaboración de productos acabados de hasta 75 toneladas por día.
+7.2.b) Materia prima vegetal, con una capacidad de producción de productos acabados de hasta 300 toneladas por día (media trimestral).
 7.3 Tratamiento y transformación de la leche, con una cantidad de 200 toneladas por día (valor medio anual) de leche recibida.
 7.5 Instalaciones para el almacenaje de grano y harina.
 7.6 Carnicerías con obrador.
@@ -338,27 +328,30 @@ Actividades sometidas al régimen de comunicación
 9. Industria del papel.
 9.2 Instalaciones industriales para la fabricación de papel y cartón, con una capacidad de producción de hasta 5 toneladas por día.
 9.5 Instalaciones industriales para la manipulación de papel y cartón, con una capacidad de producción de hasta 20 toneladas por día.
-11. Actividades agroindustriales y ganaderas
-11.1 Instalaciones para la cría intensiva que dispongan de:
-11.1.a) Plazas, por encima de 30 y hasta 2.000, para aves de corral, entendiendo que se trata de gallinas ponedoras o del número equivalente para otras especies de aves.
-11.1.b) Plazas de cerdos de engorde, por encima de 10 y hasta 200.
-11.1.c) Plazas de cerdas, por encima de 5 y hasta 50.
-11.1.d) Plazas de vacuno de engorde, por encima de 5 y hasta 50.
-11.1.e) Plazas de vacuno de leche, por encima de 5 y hasta 50.
-11.1.f) Plazas de ovino y de cabrío, por encima de 10 y hasta 500.
-11.1.g) Plazas de equino, por encima de 5 y hasta 50.
-11.1.h) Plazas de cualquier otra especie animal no especificadas en ninguno de los anexos de la presente ley, por encima de 5 unidades ganaderas (UG) y hasta 50, tomando como base de referencia el vacuno de leche (1 UG = 1 plaza de vacuno de leche).
-11.1.j) Plazas de ganado porcino y/o vacuno, de diferentes aptitudes, tanto si tienen plazas para otras especies animales como si no tienen, excepto si disponen de plazas de aves de corral, cuya suma sea por encima de 3 UGP y hasta un máximo de 33 UGP, definidas a partir de las equivalencias de procedimiento entre instalaciones que establece la Directiva 96/61/CE, y tomando como base de referencia el vacuno de leche (1 UGP = 1 plaza de vacuno de leche).
-11.1.k) Plazas de aves de corral y de otras especies animales, incluidos el ganado porcino y/o el vacuno, cuya suma sea superior a 1 y hasta 25 UGP, definidas a partir de las equivalencias de procedimiento entre instalaciones que establece la Directiva 96/61/CE, y tomando como base de referencia el vacuno de leche (1 UGP = 1 plaza de vacuno de leche).
-11.1.l) Instalaciones ganaderas para la cría semiintensiva, entendiendo como tal el sistema en el que la alimentación se hace fundamentalmente en pasto, pero los animales están estabulados durante un cierto período del año, normalmente el invierno, o durante la noche. La capacidad de estas explotaciones al efecto de clasificarlas en cada uno de los anexos se calcula proporcionalmente a los períodos en los que los animales permanecen en las instalaciones; de una manera genérica equivale al 33% de la capacidad de las instalaciones de cría intensiva.
-11.2 Instalaciones de acuicultura:
-11.2.a) Intensiva, con una capacidad de producción de hasta 1 tonelada por día.
-11.2.b) Extensiva, con una capacidad de producción de hasta 1 tonelada por día.
-11.3 Instalaciones para la eliminación y el aprovechamiento de canales o restos de animales, con una capacidad de tratamiento de hasta 1 tonelada por día.
+11.1 Instalaciones ganaderas para la cría intensiva que dispongan de:
+11.1.a) Emplazamientos para aves de corral, entendiendo que se trata de gallinas ponedoras o del número equivalente para otras especies de aves, con una capacidad de hasta 40.000 reses.
+11.1.b.i) Plazas para cerdos de engorde (de más de 30 kg), con una capacidad de hasta 2.000 y superior a 10 reses.
+11.1.b.ii) Plazas para cerdos de engorde (de más de 20 kg), con una capacidad de hasta 2.000 y superior a 10 reses.
+11.1.c.i) Plazas para cerdas reproductoras, con una capacidad de hasta 750 y superior a 5 reses.
+11.1.c.ii) Plazas para cerdas reproductoras en ciclo cerrado, con una capacidad de hasta 530 y superior a 5 reses.
+11.1.d) Plazas de vacuno de engorde, con una capacidad de hasta 600 y superior a 5 reses.
+11.1.e) Plazas de vacuno de leche, con una capacidad de hasta 300 y superior a 5 reses.
+11.1.f) Plazas de ovino y cabrío, con una capacidad de hasta 2.000 y superior a 10 reses.
+11.1.g) Plazas de equino, con una capacidad de hasta 500 y superior a 5 reses.
+11.1.h) Plazas de cualquiera otra especie animal no especificadas en los anexos de la presente ley, equivalentes a 5 unidades ganaderas o más, tomando como base de referencia el vacuno de leche (1 UR = 1 plaza de vacuno de leche).
+11.1.j) Plazas de ganado porcino y/u ovino, de diferentes aptitudes, tanto si tienen plazas para otras especies animales como si no las tienen, excepto si disponen de plazas de aves de corral, cuya suma esté por encima de 3 UGP y hasta 500 UGP, definidas a partir de las equivalencias de procedimiento entre instalaciones que establece la Directiva 2008/1/CE, y tomando como base de referencia el vacuno de leche (1 UGP= 1 plaza de vacuno de leche).
+11.1.k) Plazas de aves de corral y de otras especies animales, incluidos el ganado porcino y/o el vacuno, cuya suma sea superior a 1 y hasta 500 UGP, definidas a partir de las equivalencias de procedimiento entre instalaciones que establece la Directiva 2008/1/CE, y tomando como base de referencia el vacuno de leche (1 UGP = 1 plaza de vacuno de leche).
+11.1.l) Instalaciones ganaderas para la cría semiintensiva, entendiendo como tal el sistema en que la alimentación se basa fundamentalmente en el pasto, pero los animales están estabulados durante un cierto periodo del año, normalmente el invierno, o durante la noche. La capacidad de estas explotaciones, para clasificarlas en cada uno de los anexos, se calcula proporcionalmente a los periodos en que los animales permanecen en las instalaciones, y de una manera genérica equivale al 33% de la capacidad de las instalaciones de cría intensiva.
+11.1.m) Plazas de conejo, con una capacidad de hasta 20.000 y superior a 1.000 reses.
+11.1.n) Plazas de pollos de engorde, con una capacidad de hasta 55.000 reses y superior a 1 UGP.
+11.2.a) Instalaciones de acuicultura intensiva, con una capacidad de producción de hasta 500 toneladas al año.
+11.2.b) Instalaciones de acuicultura extensiva.
+11.3 Instalaciones para la eliminación y el aprovechamiento de canales o restos de animales, con una capacidad de tratamiento de hasta 10 toneladas por día.
+11.4 Deshidratación artificial de forrajes.
 11.5 Secado del poso del vino.
 11.6 Secado del lúpulo con azufre.
-11.7 Secado de grano y otras materias vegetales por procedimientos artificiales, con una de superficie de hasta 500 m2.
-11.8 Desmontaje del algodón, con una superficie de hasta 500 m2.
+11.7 Secado de grano y otras materias vegetales por procedimientos artificiales.
+11.8 Desmontaje de algodón.
 12. Otras actividades.
 12.2 Instalaciones para el tratamiento de superficie de materiales, objetos o productos con la utilización de disolventes orgánicos, en particular para aprestarlos, estamparlos, revestirlos y desengrasarlos, impermeabilizarlos, encolarlos, laquearlos, limpiarlos o impregnarlos, con una capacidad de consumo de disolvente de hasta 150 kg por hora y de 20 toneladas por año y una superficie de hasta 500 m2.
 12.3 Aplicación de barnices no grasos, pinturas, lacas y tintes de impresión sobre cualquier soporte, y la cocción y el secado correspondientes, cuando la cantidad almacenada de estas sustancias en los talleres sea de hasta 1.000 kg como máximo y la superficie de hasta 500 m2.
@@ -394,6 +387,8 @@ Actividades sometidas al régimen de comunicación
 12.57 Establecimientos de apartamentos turísticos.
 12.58 Actividades de almacenaje de productos de roca ornamental.
 12.59 Actividades de espectáculos públicos y actividades recreativas no incluidas en la legislación específica que regula esta materia, en los términos establecidos reglamentariamente.
+Se modifica por el art. 51 de la Ley 9/2011, de 29 de diciembre. Ref. BOE-A-2012-546.
+Téngase en cuenta la disposición transitoria 2.2.
 ANEXO IV
 Actividades que, en el supuesto de no sujeción al régimen de licencia establecido por la normativa administrativa de los espectáculos públicos y las actividades recreativas, quedan sujetos al régimen de licencia ambiental establecido por el título III de la presente ley
 a) Actividades recreativas:
@@ -408,7 +403,7 @@ b) Actividades de naturaleza sexual:
 2 Locales que ofrecen actuaciones y espectáculos eróticos.
 c) Actividades e instalaciones deportivas con una capacidad superior a 150 personas o con una superficie superior a 500 m2.
 ANEXO V
-Criterios de selección del procedimiento de evaluación de impacto ambiental de las actividades del anexo II
+Criterios de selección del procedimiento de evaluación de impacto ambiental de las actividades
 1 Características de los proyectos.–Las características de los proyectos deben tenerse en cuenta, en particular, bajo el punto de vista de:
 a) La dimensión de la actividad proyectada.
 b) La acumulación con otras actividades.
@@ -434,23 +429,21 @@ b) El carácter transfronterizo del impacto.
 c) La magnitud y la complejidad del impacto.
 d) La probabilidad del impacto.
 e) La duración, la frecuencia y la reversibilidad del impacto.
+Se modifica la rúbrica por el art. 52 de la Ley 9/2011, de 29 de diciembre. Ref. BOE-A-2012-546.
 ANEXO VI
 Informes preceptivos en materia de medio ambiente
-1 Se someten a un informe de la administración hidráulica de Cataluña las actividades que comportan:
-a) Vertidos directos o indirectos en las aguas subterráneas.
-b) Vertidos directos en las aguas superficiales.
-c) Vertidos directos en el dominio marítimo y terrestre.
-d) Vertidos no domésticos a sistemas de saneamiento que vayan a cargo de la administración hidráulica de Cataluña, siempre y cuando la actividad que los genere esté comprendida en las secciones c, d y e del Código de clasificación de las actividades, o sean potencialmente contaminantes o el caudal vertido sea superior a 6.000 m3 por año.
-e) Centrales hidroeléctricas de cualquier tamaño.
-2 Se someten a un informe de la administración de residuos de Cataluña las actividades de gestión de residuos siguientes:
+1. Se someten a informe de la administración hidráulica de Cataluña las actividades que comportan:
+a) Vertidos directos o indirectos a las aguas subterráneas.
+b) Vertidos directos a las aguas superficiales.
+c) Vertidos directos al dominio marítimo y terrestre.
+d) Vertidos no domésticos a sistemas de saneamiento que vayan a cargo de la administración hidráulica de Cataluña, siempre y cuando la actividad que los genera esté comprendida en las secciones c, d y e del Código de clasificación de las actividades, o sean potencialmente contaminantes o el caudal vertido sea superior a 6.000 m3 por año.
+2. Se someten a informe de la administración de residuos de Cataluña las siguientes actividades de gestión de residuos:
 a) Depósitos controlados de residuos de la construcción para garantizar la adecuación de la actividad al Programa de gestión de residuos de la construcción de Cataluña.
-b) Instalaciones para la gestión de los residuos municipales, que no consistan en centros de recogida, para garantizar la adecuación al Programa de gestión de residuos municipales de Cataluña y al Plan territorial sectorial de infraestructuras de gestión de residuos municipales de Cataluña.
+b) Instalaciones para la gestión de los residuos municipales, que no consistan en centros de recogida, para garantizar su adecuación al Programa de gestión de residuos municipales de Cataluña y al Plan territorial sectorial de infraestructuras de gestión de residuos municipales de Cataluña.
 c) Las actividades comprendidas en el anexo II, en los apartados 10.9, 10.10 y 10.11, que tengan una capacidad igual o superior a 2.000 toneladas.
-3 Se someten a un informe del órgano ambiental del departamento competente en materia de protección del medio ambiente las actividades sometidas a un régimen de intervención y control específicos por la legislación de referencia de calidad del aire y protección atmosférica y en las siguientes actividades que se indican en el anexo II:
-a) Las actividades incluidas en los grupos A y B del catálogo de actividades potencialmente contaminantes de la atmósfera incluidas en el artículo 13.2 de la Ley del Estado 34/2007, de 15 de noviembre, de calidad del aire y protección de la atmósfera.
-b) Las actividades afectadas por la normativa de comercio de derechos de emisión de dióxido de carbono (CO2).
-c) Las actividades con instalaciones que, según el Decreto 319/1998, de 15 de diciembre, sobre límites de emisión para instalaciones industriales de combustión de potencia térmica inferior a 50 MW e instalaciones de cogeneración, tengan que disponer de un plan de vigilancia de sus emisiones mediante medición continua.
-d) Las actividades afectadas por el Real decreto 117/2003, de 31 de enero, sobre limitación de emisiones de compuestos orgánicos volátiles causadas por el uso de disolventes en determinadas actividades.
+d) Las actividades comprendidas en el anexo II en los apartados 10.1, 10.2 (excepto centros de recogida), 10.5, 10.7 (excepto plantas de valorización de residuos de la construcción) y 10.8.
+3. Se someten a informe del órgano ambiental del departamento competente en materia de protección del ambiente atmosférico las actividades comprendidas en el anexo II en los apartados 1.1, 1.12, 3.2, 3.4, 3.6, 3.9.b, 3.12, 3.19, 3.21, 3.30, 3.31, 3.33, 4.1.a, 4.1.b, 4.1.c, 4.1.d, 4.2, 4.5, 4.6, 4.7, 4.9, 4.12, 4.13, 4.14, 4.17, 5.6, 5.8, 5.9, 5.10, 5.11, 5.14, 5.15, 5.16, 6.1, 6.2, 7.2.a, 7.2.b, 7.9, 8.2, 9.2, 9.4, 10.1, 10.4, 10.5, 10.9, 10.10, 10.11, 11.4, 12.2, 12.3, 12.4, 12.6, 12.16, 12.22, 12.31, 12.39, 12.41.
+Se modifica por el art. 53 de la Ley 9/2011, de 29 de diciembre. Ref. BOE-A-2012-546.
 Por tanto, ordeno que todos los ciudadanos a los que sea de aplicación esta Ley cooperen en su cumplimiento y que los tribunales y autoridades a los que corresponda la hagan cumplir.
 Palacio de la Generalidad, 4 de diciembre de 2009.
 El Presidente de la Generalidad de Cataluña, | El Consejero de Medio Ambiente y Vivienda,
