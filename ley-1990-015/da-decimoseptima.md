@@ -1,0 +1,4 @@
+Disposición adicional decimoséptima. Participación en comisiones específicas.
+1. Además de los órganos de participación establecidos por la presente ley, la participación en el sistema sanitario catalán se ejerce también mediante comisiones específicas, si procede.
+2. Las comisiones específicas se constituyen, con carácter temporal o permanente, por resolución del director o directora del Servicio Catalán de la Salud, para el estudio, el debate y la formulación de propuestas sobre temas específicos que interesen al Servicio Catalán de la Salud en el ejercicio de sus funciones. Integran estas comisiones, con el ámbito territorial o funcional que proceda en cada caso, las organizaciones, los consejos, las sociedades, las asociaciones y las entidades proveedoras de servicios de salud que se determinen teniendo en cuenta la materia.
+Se añade por el art. 17 de la Ley 11/2011, de 29 de diciembre. Ref. BOE-A-2012-548.
