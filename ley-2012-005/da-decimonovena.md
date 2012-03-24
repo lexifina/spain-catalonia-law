@@ -1,0 +1,2 @@
+Disposición adicional decimonovena. Dotaciones presupuestarias disponibles.
+Los importes de las dotaciones presupuestarias que estén disponibles a consecuencia de las prestaciones que dejen de satisfacerse por la aplicación de los criterios transitorios regulados por la presente ley deben destinarse al otorgamiento de las prestaciones que establece el artículo 72.2.a de la Ley 18/2007, de 28 de diciembre, del derecho a la vivienda, con la finalidad de atender las situaciones de necesidades de nuevos solicitantes.

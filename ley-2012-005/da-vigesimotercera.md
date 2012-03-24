@@ -1,0 +1,2 @@
+Disposición adicional vigesimotercera. Régimen de aplicación de las medidas a las entidades del sector público de salud.
+No son aplicables a las entidades del sector público de salud a las que se refiere el artículo 68 de la Ley 7/2011, de 27 de julio, de medidas fiscales y financieras, las disposiciones en materia de personal establecidas por la presente ley que se opongan al régimen de plena autonomía para el desarrollo de sus actividades fundacionales o estatutarias, establecido por el capítulo V del título II de la Ley 7/2011.

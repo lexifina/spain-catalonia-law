@@ -1,0 +1,3 @@
+Disposición adicional decimocuarta. Suspensión de acuerdos y pactos e inaplicación de convenios colectivos.
+1. De acuerdo con el artículo 38.10 de la Ley del Estado 7/2007, de 12 de abril, del Estatuto básico del empleado público, dadas las circunstancias económicas excepcionales que comportan el redimensionamiento necesario del gasto público, quedan suspendidos parcialmente todos los acuerdos y pactos sindicales firmados en el ámbito del personal funcionario y estatutario en los términos estrictamente necesarios para la correcta aplicación de la presente ley.
+2. Resultan inaplicables las cláusulas contractuales o las condiciones reguladas por los convenios colectivos en el ámbito del personal laboral que contradigan lo dispuesto por la presente ley.
