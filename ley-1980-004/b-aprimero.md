@@ -3,6 +3,7 @@ Artículo primero.
 2. El Instituto Catalán del Suelo queda adscrito al Departamento de Política Territorial y Obras Públicas, que ejerce el control de eficacia de su actividad.
 3. El Instituto Catalán del Suelo debe promover las actuaciones necesarias, tanto en el aspecto organizativo como en el funcional, a fin de permitir una utilización del suelo de acuerdo con el interés general y para impedir la especulación y favorecer la efectividad del derecho a disfrutar de una vivienda digna y adecuada.
 4. El Instituto Catalán del Suelo, como instrumento de política de suelo y de vivienda, es la administración urbanística actuante, mediante la cual la Generalidad ejerce sus competencias de ejecución del planeamiento, de acuerdo con la presente Ley y con la legislación urbanística vigente.
-5. El objetivo del Instituto Catalán del Suelo es la promoción de suelo urbanizado, el fomento de la vivienda y la gestión de equipamientos públicos, con la finalidad de atender necesidades colectivas, remodelaciones urbanas, creación de espacios libres y zonas verdes, dotaciones y equipamientos.
+5. El objetivo del Instituto Catalán del Suelo es la promoción de suelo urbanizado, el fomento de las actividades económicas y de la vivienda y la gestión de equipamientos públicos, todo ello con la finalidad de atender necesidades colectivas, remodelaciones urbanas, creación de espacios libres y zonas verdes, dotaciones y equipamientos.
+Se modifica el apartado 5 por el art. 74.1 de la Ley 5/2012, de 20 de marzo. Ref. BOE-A-2012-4730.
 Se modifica el apartado 5 por el art. 39 de la Ley 21/2001, de 28 de diciembre. Ref. BOE-A-2002-1485.
 Se modifica por el art. 27.1 de la Ley 4/2000, de 26 de mayo. Ref. BOE-A-2000-11470.

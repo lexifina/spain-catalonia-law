@@ -1,0 +1,5 @@
+Artículo 3 bis.2-1. Hecho imponible.
+1. Constituyen el hecho imponible de la tasa la utilización privativa o el aprovechamiento especial, por cualquier título, constituidos sobre bienes o derechos afectos al servicio público de la justicia, en el ámbito de la competencia de la Generalidad.
+2. No están sujetas a la tasa la utilización privativa o el aprovechamiento especial de bienes o derechos afectos al servicio público cuando no lleven aparejada una utilidad económica para la persona titular de la autorización, concesión o cualquier otro título; o, aun existiendo esta utilidad, cuando la utilización o aprovechamiento comporte condiciones o contraprestaciones a cargo del beneficiario que anulen o hagan irrelevante aquella utilidad, o bien se haya hecho constar esta circunstancia en los pliegos de condiciones o en las cláusulas de la autorización, de la concesión o de la adjudicación.
+Se añade por el art. 16 de la Ley 5/2012, de 20 de marzo. Ref. BOE-A-2012-4730.
+La tasa es exigible a los hechos imponibles que se produzcan a partir del 1 de mayo de 2012, según establece la disposición final 8.1
