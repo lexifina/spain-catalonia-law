@@ -19,8 +19,9 @@ p) Arrendar bienes muebles e inmuebles.
 q) Ejercer la gestión de las fianzas de arrendamientos de fincas urbanas y del Registro de Fianzas de los contratos de alquiler, de acuerdo con las disposiciones vigentes.
 r) Adoptar medidas de soporte, tanto técnico como económico y financiero, para impulsar la finalización de procesos de urbanización.
 s) Asesorar, prestar servicios de consultoría, apoyar y redactar instrumentos de planeamiento y gestión urbanística y proyectos de edificación para otros sujetos públicos o privados, mediante la correspondiente contraprestación, y en cualquier ámbito territorial de actuación, respetando siempre la normativa sobre defensa de la competencia. Estos servicios con contraprestación no pueden llevarse a cabo respecto de aquellos instrumentos sobre los que el departamento al que se encuentra adscrito el Instituto Catalán del Suelo tenga competencias de aprobación.
-t) Cualquier otra que le encomiende la ley o el Gobierno de la Generalidad.
+t) Cualquier otra que le sea encargada por la ley, el Gobierno o los entes locales, en los términos establecidos en la presente ley.
 2. El Instituto Catalán del Suelo desarrollará sus funciones dentro de su competencia, de acuerdo con el ordenamiento urbanístico y respetando el planeamiento vigente.
+Se modifica la letra t) del apartado 1 por el art. 150.1 de la Ley 2/2014, de 27 de enero. Ref. BOE-A-2014-2999.
 Se modifica la letra s) y se añade la letra t) al apartado 1 por el art. 74.2 y 3 de la Ley 5/2012, de 20 de marzo. Ref. BOE-A-2012-4730.
 Se modifica el apartado 1 por el art. 21 del Decreto-ley 4/2010, de 3 de agosto. Ref. BOE-A-2010-15126.
 Se añade la letra m.bis) por la disposición adicional 1.2 de la Ley 3/2009, de 10 de marzo. Ref. BOE-A-2009-5850.

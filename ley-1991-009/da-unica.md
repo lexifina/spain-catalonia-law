@@ -1,0 +1,5 @@
+Disposición adicional. Registro de certificados de eficiencia energética de los edificios.
+1. De acuerdo con la disposición transitoria tercera del Real Decreto 235/2013, de 5 de abril, por el que se aprueba el procedimiento básico para la certificación de eficiencia energética de los edificios, se crea el Registro de certificados de eficiencia energética de los edificios en el ámbito territorial de Cataluña, con el fin de dar cumplimiento a las exigencias que establece la Directiva 2010/31/UE del Parlamento Europeo y del Consejo, de 19 de mayo de 2010, relativa a la eficiencia energética de los edificios.
+2. El órgano competente para la gestión del Registro de certificados de eficiencia energética de los edificios es el Instituto Catalán de Energía.
+3. El Gobierno, a propuesta del consejero o consejera del departamento al que esté adscrito el Instituto Catalán de Energía, debe regular antes del 1 de febrero de 2015 el Registro de certificados de eficiencia energética de los edificios.
+Se añade por el art. 149.4 de la Ley 2/2014, de 27 de enero. Ref. BOE-A-2014-2999.

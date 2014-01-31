@@ -1,0 +1,4 @@
+Disposición adicional decimoséptima. Suministro de información por parte de los registradores de la propiedad y mercantiles.
+1. Los registradores de la propiedad y mercantiles destinados en Cataluña deben remitir a la Agencia Tributaria de Cataluña, durante la primera quincena de cada trimestre, una declaración informativa que contenga la relación de los documentos relativos a actos o contratos sujetos al impuesto sobre sucesiones y donaciones o al impuesto sobre transmisiones patrimoniales y actos jurídicos documentados que se hayan inscrito en los citados registros en el trimestre anterior.
+2. La Agencia Tributaria de Cataluña puede establecer mediante resolución los procedimientos, la estructura, el formato y las condiciones en las que debe ser transmitida la información, que puede facilitarse en un soporte directamente legible por ordenador o por vía telemática.
+Se añade por el art. 147.10 de la Ley 2/2014, de 27 de enero. Ref. BOE-A-2014-2999.

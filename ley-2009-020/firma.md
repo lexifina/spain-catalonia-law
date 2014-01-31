@@ -386,22 +386,14 @@ Actividades sometidas al régimen de comunicación
 12.56 Establecimientos de turismo rural en todos los grupos y modalidades.
 12.57 Establecimientos de apartamentos turísticos.
 12.58 Actividades de almacenaje de productos de roca ornamental.
-12.59 Actividades de espectáculos públicos y actividades recreativas no incluidas en la legislación específica que regula esta materia, en los términos establecidos reglamentariamente.
+Se deroga el código 12.59 por el art. 170.19 de la Ley 2/2014, de 27 de enero. Ref. BOE-A-2014-2999.
 Se modifica por el art. 51 de la Ley 9/2011, de 29 de diciembre. Ref. BOE-A-2012-546.
 Téngase en cuenta la disposición transitoria 2.2.
 ANEXO IV
 Actividades que, en el supuesto de no sujeción al régimen de licencia establecido por la normativa administrativa de los espectáculos públicos y las actividades recreativas, quedan sujetos al régimen de licencia ambiental establecido por el título III de la presente ley
-a) Actividades recreativas:
-1 Bares musicales.
-2 Discotecas.
-3 Salas de baile.
-4 Restaurantes musicales.
-5 Salas de fiestas con espectáculo.
-6 Discotecas de juventud.
-b) Actividades de naturaleza sexual:
-1 Locales con servicio de bar y ambientación musical.
-2 Locales que ofrecen actuaciones y espectáculos eróticos.
-c) Actividades e instalaciones deportivas con una capacidad superior a 150 personas o con una superficie superior a 500 m2.
+(Derogado)
+Se deroga por el art. 170.19 de la Ley 2/2014, de 27 de enero. Ref. BOE-A-2014-2999.
+Se modifican los apartados 1 y 4 de la letra a) por el art. 64 de la Ley 26/2009, de 23 de diciembre. Ref. BOE-A-2010-737.
 ANEXO V
 Criterios de selección del procedimiento de evaluación de impacto ambiental de las actividades
 1 Características de los proyectos.–Las características de los proyectos deben tenerse en cuenta, en particular, bajo el punto de vista de:

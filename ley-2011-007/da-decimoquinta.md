@@ -4,3 +4,6 @@ Disposición adicional decimoquinta. Aplicación normativa a las entidades del s
 a) Los artículos 90.bis.e, y 94.5, segundo párrafo, del texto refundido de la Ley de finanzas públicas de Cataluña, en cuanto a las transferencias.
 b) El artículo 40 de la Ley 31/2002, de 30 de diciembre, de medidas fiscales y administrativas, mientras no se dicten los planes parciales previstos en el mismo.
 c) El apartado 2 del artículo 331-2 del Libro tercero del Código civil de Cataluña.
+3. No son aplicables a las entidades a las que se refiere el apartado 1 los preceptos que recojan las leyes de la Generalidad que se opongan al régimen de autonomía de gestión establecido en el capítulo V del título II de la presente ley, salvo los casos en que se recoja específicamente.
+Se añade el apartado 3 por el art. 216.7 de la Ley 5/2012, de 20 de marzo. Ref. BOE-A-2014-2999.
+Incluye la corrección de errores publicada en DOGC núm. 6556, de 6 de febrero de 2014.

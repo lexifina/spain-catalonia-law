@@ -1,0 +1,4 @@
+Artículo 31 bis. Evaluación económica de políticas públicas.
+1. El departamento competente en materia de finanzas, en colaboración con los departamentos y entidades del sector público de la Generalidad, debe impulsar y coordinar la evaluación económica de las políticas públicas para asegurar la relevancia, eficiencia y efectividad tanto de las políticas existentes como de las futuras.
+2. Sin perjuicio del informe de impacto presupuestario que sea preceptivo en cada caso, los proyectos de inversión y las intervenciones públicas que se prevea que tengan un impacto relevante deben ir acompañados de un informe de impacto económico y social en que se evalúen los costes y beneficios que implica el proyecto para sus destinatarios y para la realidad social y económica, mediante el análisis coste beneficio u otros sistemas de evaluación en los términos que establezca el Gobierno
+Se añade por el art. 137.2 de la Ley 2/2014, de 27 de enero. Ref. BOE-A-2014-2999.

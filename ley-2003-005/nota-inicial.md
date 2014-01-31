@@ -1,0 +1,1 @@
+Esta Ley pasa a denominarse "Ley de medidas de prevención de los incendios forestales en las urbanizaciones, los núcleos de población, las edificaciones y las instalaciones situados en terrenos forestales", según establece el art. 179.1 de la Ley 2/2014, de 27 de enero. Ref. BOE-A-2014-2999.

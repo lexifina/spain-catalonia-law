@@ -1,0 +1,5 @@
+Artículo 21 ter. Recuperación voluntaria de suelos.
+1. La descontaminación del suelo puede llevarse a cabo, sin la previa declaración del suelo como contaminado, mediante la presentación ante la Agencia de Residuos de Cataluña de un proyecto de recuperación voluntaria. Este proyecto, que debe ser aprobado por el órgano competente, debe considerar todo el alcance de la afección y debe acompañarse de la valoración de riesgos que acredita la existencia de un riesgo inaceptable.
+2. Una vez acabadas las operaciones de ejecución del proyecto, la persona interesada debe presentar ante la Agencia de Residuos de Cataluña un informe acreditativo de que la recuperación se ha hecho en los términos del proyecto aprobado y que incluya el análisis de riesgo residual.
+3. El plazo para dictar y notificar la resolución de aprobación del proyecto voluntario es de seis meses. Una vez transcurrido este plazo, y si no se ha dictado la resolución pertinente, se entiende desestimada la solicitud de la persona interesada por silencio administrativo.
+Se añade por el art. 173.3 de la Ley 2/2014, de 27 de enero. Ref. BOE-A-2014-2999.

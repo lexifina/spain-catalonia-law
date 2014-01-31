@@ -1,3 +1,3 @@
 Disposición adicional vigesimosegunda. Centro recreativo turístico de Vila-seca y Salou.
-1. Con el objetivo de culminar el proyecto relativo a las instalaciones y los usos pendientes de ejecución del centro recreativo turístico de Vila-seca y Salou, creado al amparo de la Ley 2/1989, de 16 de febrero, sobre centros recreativos turísticos, debe actualizarse, por acuerdo del Gobierno, el programa de actuación necesario para la finalización de este proyecto.
-2. El Consorcio Intermunicipal de Vila-seca y de Salou, creado para garantizar la unidad de acción pública en el ámbito del centro recreativo turístico de Vila-seca y Salou e integrado por la Administración de la Generalidad y por los municipios de Vila-seca y de Salou, mantiene la vigencia en las mismas condiciones hasta la ejecución completa del proyecto.
+(Derogada)
+Se deroga por la disposición derogatoria.1 de la Ley 2/2014, de 27 de enero. Ref. BOE-A-2014-2999.
