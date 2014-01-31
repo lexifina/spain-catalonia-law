@@ -1,0 +1,3 @@
+Disposición adicional decimotercera. Cambio de denominación de la Universidad de Vic.
+1. La Universidad de Vic, reconocida por la Ley 5/1997, de 30 de mayo, modifica su denominación por la de Universidad de Vic-Universidad Central de Cataluña, por acuerdo de la Fundación Universitaria Balmes, que es su entidad titular.
+2. La entidad titular debe llevar a cabo las actuaciones necesarias para que la denominación Universidad de Vic-Universidad Central de Cataluña sea plenamente efectiva en todos los ámbitos, a fin de garantizar el buen funcionamiento de esta universidad y facilitar la oportuna información a la comunidad universitaria, especialmente a los estudiantes.
