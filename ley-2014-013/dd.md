@@ -1,0 +1,2 @@
+Disposición derogatoria.
+Se deroga la Ley 20/1991, de 25 de noviembre, de promoción de la accesibilidad y de supresión de barreras arquitectónicas y el Decreto legislativo 6/1994, de 13 de julio, por el que se adecua la Ley 20/1991, de 25 de noviembre, de promoción de la accesibilidad y de supresión de barreras arquitectónicas, a la Ley 30/1992, de 26 de noviembre, de régimen jurídico de las administraciones públicas y del procedimiento administrativo común, y el resto de las disposiciones de igual o inferior rango normativo que se opongan a la presente ley o la contradigan.
