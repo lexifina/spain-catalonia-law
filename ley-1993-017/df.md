@@ -1,2 +1,0 @@
-Disposición final. Entrada en vigor.
-La presente Ley entrará en vigor al día siguiente de su publicación en el «Diario Oficial de la Generalidad de Cataluña».
