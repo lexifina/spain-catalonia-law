@@ -1,0 +1,2 @@
+Disposición transitoria única. Deber de comunicación de la acumulación de cargos.
+Los miembros de las fundaciones y las asociaciones declaradas de utilidad pública que, en el momento de la entrada en vigor de la presente ley, integren los órganos de gobierno de entidades que tengan la consideración de entidades vinculadas al amparo del artículo 17 deben comunicar al Protectorado o al órgano de supervisión de las asociaciones declaradas de utilidad pública lo dispuesto por el artículo 18 en el plazo de seis meses a contar de la entrada en vigor de la presente ley.
