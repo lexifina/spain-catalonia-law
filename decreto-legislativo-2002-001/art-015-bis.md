@@ -1,0 +1,4 @@
+Artículo 15 bis.
+1. Para la tramitación y la resolución, si procede, de las propuestas de adquisición por cualquier título de inmuebles o derechos reales a título oneroso o de los que deba disponerse en calidad de arrendatarios, ocupantes o usuarios, tanto por parte de la Generalidad como de los organismos, entidades o empresas públicas a los que se refiere el artículo 15, el titular del departamento competente en materia de patrimonio, a propuesta del titular de la Dirección General del Patrimonio de la Generalidad de Cataluña, debe requerir la aplicación de los criterios de ocupación y tipologías de espacios establecidos previamente.
+2. Lo establecido por el apartado 1 no es aplicable a las empresas públicas que, de acuerdo con las funciones que tienen atribuidas, tienen la finalidad de devolver los bienes o derechos reales al tráfico jurídico privado.
+Se modifica por el art. 61.3 de la Ley 3/2015, de 11 de marzo. Ref. BOE-A-2015-3637.

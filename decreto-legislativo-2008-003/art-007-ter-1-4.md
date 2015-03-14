@@ -9,5 +9,7 @@ Más de 10.000.000 de euros | 5.000
 2. A los efectos del apartado 1, la cuantía del procedimiento se fija en el valor estimado del contrato objeto del recurso, reclamación o cuestión de nulidad determinado por el importe total, sin incluir el impuesto sobre el valor añadido, en los términos del artículo 88.1 del texto refundido de la Ley de contratos del sector público, aprobado por el Real Decreto Legislativo 3/2011, de 14 de noviembre.
 3. En el caso de que el objeto del recurso, reclamación o cuestión de nulidad sea un lote, la cuantía del procedimiento es el valor estimado del lote. En el caso de que se impugnen a la vez dos o más lotes, la cuantía del procedimiento es el resultado de sumar los valores estimados de cada lote impugnado.
 4. Cuando la tasa ha sido abonada por la reclamación de adopción de medidas provisionales, no es necesario efectuar ningún otro pago para la interposición del recurso posterior.
+5. En caso de que el objeto del recurso, reclamación o cuestión de nulidad sea un procedimiento de contratación que tenga por finalidad seleccionar o admitir a varios operadores económicos para la adjudicación de futuros contratos durante un período determinado, el importe de la cuota de la tasa es de 750 euros, independientemente de la cuantía del procedimiento.
+Se añade el apartado 5 por el art. 25 de la Ley 3/2015, de 11 de marzo. Ref. BOE-A-2015-3637.
 Se modifica por la disposición adicional 3 de la Ley 12/2014, de 10 de octubre. Ref. BOE-A-2014-11991.
 Se añade por el art. 39 de la Ley 2/2014, de 27 de enero. Ref. BOE-A-2014-2999.

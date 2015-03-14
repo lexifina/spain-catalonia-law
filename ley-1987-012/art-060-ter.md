@@ -1,0 +1,3 @@
+Artículo 60 ter. Depósito del vehículo.
+Si la Administración debe hacerse cargo de la custodia de un vehículo inmovilizado por cualquiera de las causas establecidas por la presente ley, puede acordar, cuando su valor residual resulte claramente insuficiente para, si procede, hacer frente a las responsabilidades económicas derivadas de la correspondiente sanción, el traslado del vehículo a un centro autorizado de tratamiento de vehículos para la destrucción y descontaminación posteriores si, una vez finalizado el procedimiento incoado y siendo firme la sanción administrativa correspondiente, el titular del vehículo no ha enmendado la causa que dio lugar a la inmovilización.
+Se añade por el art. 86.6 de la Ley 3/2015, de 11 de marzo. Ref. BOE-A-2015-3637.

@@ -1,0 +1,3 @@
+Disposición adicional decimoquinta. Centros adscritos de titularidad pública.
+El profesorado de los cuerpos docentes universitarios y el personal docente e investigador contratado a tiempo completo de una universidad pública, sin perjuicio de otras situaciones legalmente reconocidas y de acuerdo con la normativa vigente, puede ser autorizado por la universidad a impartir docencia en enseñanzas universitarias oficiales en uno o más centros de titularidad pública adscritos a la misma universidad, para favorecer su movilidad.
+Se añade por el art. 97 de la Ley 3/2015, de 11 de marzo. Ref. BOE-A-2015-3637.

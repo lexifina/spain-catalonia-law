@@ -1,0 +1,3 @@
+Artículo 103 bis. Procedimiento abreviado
+En el caso de infracciones leves, el expediente puede instruirse mediante el procedimiento abreviado si se trata de una infracción flagrante y los hechos han sido reflejados en el acta correspondiente o en la denuncia de la autoridad competente o se desprenden de la documentación aportada por la inspección o de los resultados de los análisis practicados. Este procedimiento debe aplicarse de acuerdo con el Decreto 278/1993, de 9 de noviembre, sobre el procedimiento sancionador de aplicación a los ámbitos de competencia de la Generalidad.»
+Se añade por el art 81.23 de la Ley 3/2015, de 11 de marzo. Ref. BOE-A-2015-3637.

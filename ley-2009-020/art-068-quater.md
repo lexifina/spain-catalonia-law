@@ -1,0 +1,7 @@
+Artículo 68 quáter. Actuación administrativa relativa a las visitas de inspección.
+1. La realización y desarrollo de las visitas de inspección deben quedar reflejadas en un acta de inspección.
+2. El personal de la Administración encargado de las funciones de inspección ambiental integrada debe elaborar un informe en el que se presenten las conclusiones pertinentes respecto al cumplimiento de las condiciones de la autorización ambiental de la actividad y respecto a cualquier actuación necesaria posterior.
+3. El informe debe notificarse al titular de la actividad en un plazo de dos meses a contar desde la fecha de finalización de la visita de inspección para que este, si lo considera oportuno, pueda formular alegaciones durante un período de quince días.
+4. En un plazo de cuatro meses a contar desde la finalización de la visita de inspección debe haberse elaborado el informe final y hay que haberle dado publicidad, con las únicas limitaciones contenidas en la normativa que regula el derecho del acceso del público a la información medioambiental.
+5. El órgano competente debe requerir a la persona titular de la actividad para que adopte todas las medidas necesarias indicadas en el informe final, en un plazo adecuado a la naturaleza de las medidas que deben adoptarse. Este plazo no puede ser superior a seis meses, excepto para los supuestos extraordinarios debidamente justificados.
+Se modifica por el art. 80.9 de la Ley 3/2015, de 11 de marzo. Ref. BOE-A-2015-3637.

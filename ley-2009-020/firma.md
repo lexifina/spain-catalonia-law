@@ -85,6 +85,8 @@ I.1 Actividades sometidas al régimen de evaluación de impacto ambiental y de a
 12.2 Instalaciones para el tratamiento de superficie de materiales, objetos o productos, con la utilización de disolventes orgánicos, en particular para aprestarlos, estamparlos, revestirlos y desengrasarlos, impermeabilizarlos, encolarlos, laquearlos, pigmentarlos, limpiarlos o impregnarlos, con una capacidad de consumo superior a 150 kg de disolvente por hora o superior a 200 toneladas por año.
 12.8 Instalaciones para la fabricación de carbono sinterizado o electrografiado para la combustión o la grafitación.
 I.2.a) Actividades sometidas a autorización ambiental con declaración de impacto ambiental, que están incluidas en el anexo I del texto refundido de la Ley de evaluación de impacto ambiental de proyectos, aprobado por el Real decreto legislativo 1/2008, de 11 de enero, no sujetos a la Directiva 2008/1/CE, y todas las actividades y las instalaciones afectadas por la legislación de accidentes graves.
+2. Minería.
+2.2 Instalaciones consistentes en la realización de perforaciones para la exploración e investigación que requieran la aplicación de métodos geofísicos o geoquímicos que incluyan técnicas de fracturación hidráulica, estimulación de pozos u otras técnicas de recuperación secundaria y otros métodos necesarios para su objeto.
 4. Industrias minerales y de la construcción.
 4.9 Instalaciones para la calcinación y la sinterización de minerales metálicos, con una capacidad superior a 5.000 toneladas por año de mineral procesado.
 10. Gestión de residuos.
@@ -129,6 +131,7 @@ I.3 Actividades sometidas al régimen de declaración de impacto ambiental con u
 2.1 Actividades extractivas e instalaciones de los recursos explotados.
 2.4 Explotaciones mineras subterráneas, operaciones conexas y perforaciones geotérmicas.
 2.5 Explotaciones ubicadas en terreno de dominio público hidráulico para extracciones superiores a 20.000 m3/año o en zona de policía de lecho cuya superficie supere las 3 hectáreas.
+Se modifica el apartado I.2.a) por el art. 80.20 de la Ley 3/2015, de 11 de marzo. Ref. BOE-A-2015-3637.
 Se modifica por el art. 49 de la Ley 9/2011, de 29 de diciembre. Ref. BOE-A-2012-546.
 Téngase en cuenta la disposición transitoria 1.1.
 ANEXO II
@@ -259,15 +262,16 @@ Las actividades que constan en estos apartados 11.1 y 11.2 de este anexo están 
 12.26 Centros de asistencia primaria y hospitales de día con una superficie superior a 750 m2.
 12.31 Hornos crematorios en hospitales y cementerios.
 12.35 Campos de golf.
-12.36 Establecimientos hoteleros en todos los grupos, modalidades, categorías y especialidades con un número de habitaciones superior a 400.
+12.36 (Suprimido).
 12.37 Campings con un máximo de 1.500 unidades de acampada.
 12.39 Lavandería industrial.
 12.41 Instalaciones para la limpieza en seco, con una superficie superior a 500 m2.
 12.42 Fabricación de circuitos integrados y circuitos impresos.
-12.44.a) Instalaciones para la radiocomunicación emplazadas en demarcación urbana o en espacios incluidos en el Plan de espacios de interés natural, o que, de acuerdo con el planeamiento urbanístico municipal, sean calificados de protección especial.
+12.44.a) (Suprimido).
 12.47 Instalaciones y actividades para la limpieza de vehículos.
 12.52 Pistas permanentes de carreras y de pruebas para vehículos motorizados, con una superficie de hasta 5 hectáreas.
 12.54 Parques temáticos con una superficie de hasta 20 hectáreas.
+Se suprimen los epígrafes 12.36 y 12.44.a) por el art. 80.21 de la Ley 3/2015, de 11 de marzo. Ref. BOE-A-2015-3637.
 Se modifica por el art. 50 de la Ley 9/2011, de 29 de diciembre. Ref. BOE-A-2012-546.
 Ténganse en cuenta las disposiciones transitorias 1.2 y 2.1, modificada esta última por el art. 171 de la Ley 2/2014, de 27 de enero. Ref. BOE-A-2014-2999.
 ANEXO III
@@ -373,19 +377,20 @@ Actividades sometidas al régimen de comunicación
 12.32 Centros veterinarios.
 12.33 Centros y establecimientos que alojan, comercializan, tratan y reproducen animales.
 12.34 Centros de cría y suministro, y centros usuarios de animales de experimentación.
-12.36 Establecimientos hoteleros en todos los grupos, modalidades, categorías y especialidades, con un número de habitaciones de hasta 400.
-12.38 Casas de colonias, granjas escuela, aulas de naturaleza y albergues de juventud.
+12.36 (Suprimido).
+12.38 (Suprimido).
 12.40 Lavanderías no industriales.
 12.41 Instalaciones para la limpieza en seco, con una superficie de hasta 500 m2.
 12.43 Fabricación de fibra óptica.
-12.44.b) Instalaciones para la radiocomunicación emplazadas en una demarcación no urbana. Instalaciones para la radiocomunicación incluidas en el epígrafe 12 del anexo II, cuando así lo acuerde el ayuntamiento en el término municipal en el que se emplacen, siempre y cuando en las instalaciones la potencia isótropa radiada equivalente (PIRE) sea inferior a 100 vatios.
-12.45 Campamentos juveniles.
-12.46 Actividades de garaje y aparcamiento de vehículos, con una superficie superior a 100 m2.
-12.48 Centros docentes.
-12.49 Establecimientos comerciales con una superficie total superior a 400 m2.
-12.56 Establecimientos de turismo rural en todos los grupos y modalidades.
-12.57 Establecimientos de apartamentos turísticos.
+12.44.b) (Suprimido).
+12.45 (Suprimido).
+12.46 Actividades de garaje y aparcamiento de vehículos con una superficie superior a 500 m2.
+12.48 (Suprimido).
+12.49 (Suprimido).
+12.56 (Suprimido).
+12.57 (Suprimido).
 12.58 Actividades de almacenaje de productos de roca ornamental.
+Se suprimen varios epígrafes y se modifica el epígrafe 12.46 por los arts. 80.22 y 80.23 de la Ley 3/2015, de 11 de marzo. Ref. BOE-A-2015-3637.
 Se deroga el código 12.59 por el art. 170.19 de la Ley 2/2014, de 27 de enero. Ref. BOE-A-2014-2999.
 Se modifica por el art. 51 de la Ley 9/2011, de 29 de diciembre. Ref. BOE-A-2012-546.
 Téngase en cuenta la disposición transitoria 2.2.

@@ -1,0 +1,3 @@
+Artículo 25 ter. Documento de acreditación profesional.
+Todos los miembros de los cuerpos de policías locales tienen que llevar un documento de acreditación profesional. Las características, los elementos y el contenido del documento de acreditación debe determinarlos por reglamento el departamento competente en materia de seguridad pública y debe ser expedido por el órgano o la autoridad municipal correspondiente. En este documento debe figurar, como mínimo, el municipio de pertenencia, la identificación de la categoría profesional y el número de registro individual. Debe garantizarse, en cualquier caso, la visibilidad de la identificación.
+Se añade por el art. 98.2 de la Ley 3/2015, de 11 de marzo. Ref. BOE-A-2015-3637.

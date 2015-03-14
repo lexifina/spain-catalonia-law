@@ -1,0 +1,6 @@
+Artículo 104. bis. Retribuciones de los funcionarios en prácticas.
+1. Las personas que sean nombradas funcionarios en prácticas porque están realizando períodos de prácticas o siguen cursos de formación selectivos deben percibir una retribución equivalente al sueldo y las pagas extraordinarias del grupo o subgrupo en el que esté clasificado el cuerpo o escala al que pretenden ingresar.
+En el caso de que las prácticas consistan en desarrollar un puesto de trabajo, deben percibir, además, las retribuciones complementarias correspondientes a este puesto.
+2. Excepcionalmente, en caso de que el funcionario en prácticas tenga una vinculación previa como funcionario de carrera o personal laboral fijo con la misma administración a la que pertenece el cuerpo o escala a la que aspira a ingresar, puede optar por percibir las retribuciones que le corresponden como funcionario en prácticas o bien por continuar percibiendo las que tiene como funcionario de carrera o personal laboral fijo. En ambos casos, si procede, debe continuar percibiendo la antigüedad que tiene reconocida.
+3. En caso de superar las prácticas o el curso formativo de selección, todo el tiempo prestado como funcionario en prácticas computa al efecto de antigüedad por servicios prestados.
+Se añade por el art. 62.1 de la Ley 3/2015, de 11 de marzo. Ref. BOE-A-2015-3637.

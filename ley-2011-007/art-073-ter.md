@@ -8,5 +8,7 @@ d) Nombrar a los directores de los equipamientos gestionados por la Agencia que 
 e) Supervisar la gestión del director o directora.
 f) Aprobar la plantilla y el régimen retributivo del personal.
 g) Autorizar la constitución de órganos, organismos o entidades de carácter público o privado, cualquiera que sea su naturaleza jurídica, o autorizar que la Agencia participe en ellos.
+g bis) Proponer al departamento competente en materia de cultura, la tramitación de los expedientes de gasto de alcance plurianual.
 h) Las demás que le otorguen los estatutos.
+Se añade la letra g bis) al apartado 2 por el art. 68.2 de la Ley 3/2015, de 11 de marzo. Ref. BOE-A-2015-3637.
 Se añade por el art. 150 de la Ley 11/2011, de 29 de diciembre. Ref. BOE-A-2012-548.
