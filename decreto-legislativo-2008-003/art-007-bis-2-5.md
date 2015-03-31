@@ -1,0 +1,3 @@
+Artículo 7.bis.2-5 Afectación.
+Los ingresos que se obtienen como consecuencia de la aplicación de la tasa por la prestación de servicios y la realización de actividades administrativas de inspección de consumo a las empresas prestadoras de servicios básicos tienen la consideración de recursos económicos de la Agencia Catalana del Consumo, en los términos del artículo 15 de la Ley 9/2004, de 24 de diciembre, de creación de la Agencia Catalana del Consumo. Los importes obtenidos deben destinarse íntegramente a actuaciones en materia de defensa de las personas consumidoras.
+Se añade por la disposición final 1 de la Ley 20/2014, de 29 de diciembre. Ref. BOE-A-2015-471.
