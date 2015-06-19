@@ -1,15 +1,4 @@
 Disposición adicional decimoquinta. Cuerpo Técnico de Gestores Tributarios de la Generalidad de Cataluña.
-1. Se crea el Cuerpo Técnico de Gestores Tributarios de la Generalidad de Cataluña, perteneciente al grupo A, subgrupo A2, de acuerdo con las disposiciones del capítulo 2 del título 3 del texto único de la Ley de la función pública de la Administración de la Generalidad de Cataluña, aprobado por el Decreto legislativo 1/1997, de 31 de octubre.
-2. El Cuerpo Técnico de Gestores Tributarios de la Generalidad de Cataluña se adscribe a la Agencia Tributaria de Cataluña, de la cual depende orgánica y funcionalmente.
-3. Al Cuerpo Técnico de Gestores Tributarios de la Generalidad de Cataluña le corresponde cumplir las funciones de aplicación del sistema tributario reguladas en la presente ley y en las normas que la despliegan.
-4. Las funciones propias del Cuerpo Técnico de Gestores Tributarios de la Generalidad de Cataluña se desarrollan en el marco de los procedimientos tributarios existentes, y son las siguientes:
-a) Efectuar las actuaciones de detección del incumplimiento de las obligaciones tributarias formales, incluida la presentación de declaraciones y autoliquidaciones tributarias.
-b) Efectuar las actuaciones propias de los procedimientos de aplicación de los tributos y de los procedimientos de revisión en vía administrativa que le hayan sido asignadas por el órgano competente.
-c) Proponer la práctica de liquidaciones derivadas de los procedimientos tributarios y la imposición de sanciones tributarias al órgano competente para dictarlas.
-d) Efectuar las actuaciones de obtención de información relacionadas con la aplicación de los tributos que le hayan sido asignadas por el órgano competente.
-e) Prestar asistencia tributaria a los contribuyentes e informarles de sus obligaciones y derechos.
-f) Cumplir las demás funciones de aplicación del sistema tributario y de apoyo en el desarrollo de los procedimientos tributarios que le sean atribuidas por la normativa o asignadas por los órganos competentes.
-5. El director o directora de la Agencia puede concretar las funciones y tareas específicas de los funcionarios del Cuerpo Técnico de Gestores Tributarios de la Generalidad de Cataluña.
-6. Para el ingreso en el Cuerpo Técnico de Gestores Tributarios de la Generalidad de Cataluña debe exigirse el título de ingeniero técnico, de diplomado universitario de primer ciclo, de arquitecto técnico, de formación profesional de tercer grado o equivalente.
-7. Los miembros del Cuerpo Técnico de Gestores Tributarios de la Generalidad de Cataluña deben cumplir sus funciones bajo el régimen de dedicación exclusiva, con incompatibilidad respecto a cualquier otra actividad profesional. De este régimen se exceptúan las actividades compatibles que se establecen en el capítulo II de la Ley 21/1987, de 26 de noviembre, de incompatibilidades del personal al servicio de la Administración de la Generalidad, y las de profesor o profesora universitario asociado a tiempo parcial.
+(Derogada).
+Se deroga por la disposición derogatoria de la Ley 9/2015, de 12 de junio. Ref. BOE-A-2015-7397.
 Se añade por el art. 147.8 de la Ley 2/2014, de 27 de enero. Ref. BOE-A-2014-2999.
