@@ -1,0 +1,1 @@
+Incluye la corrección de errores publicada en DOGC núm. 6822, de 3 de marzo de 2015. Ref. BOE-A-2015-2744 y la corrección de erratas publicada en DOGC núm. 6846, de 8 de abril de 2015. Ref. DOGC-f-2015-90359.
