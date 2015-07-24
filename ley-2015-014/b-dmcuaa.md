@@ -1,0 +1,7 @@
+Disposición modificativa cuarta. Impuesto sobre la emisión de gases y partículas a la atmósfera producida por la industria.
+1. Se modifica la letra b) del artículo 17 de la Ley 12/2014, de 10 de octubre, del impuesto sobre la emisión de óxidos de nitrógeno a la atmósfera producida por la aviación comercial, del impuesto sobre la emisión de gases y partículas a la atmósfera producida por la industria y del impuesto sobre la producción de energía eléctrica de origen nuclear, que queda redactada del siguiente modo:
+«b) Una bonificación del 10 % de la inversión efectuada en el período impositivo en bienes del activo material destinados a la protección del medio ambiente, siempre que conlleve una mejora de las exigencias establecidas por la normativa y que estén incluidas en programas, convenios o acuerdos con la administración competente en materia de medio ambiente. Dan derecho a la bonificación, a los efectos de lo establecido por el presente artículo, las inversiones asociadas a evitar la contaminación atmosférica en los siguientes ámbitos, siempre que sean certificadas por la Dirección General de Calidad Ambiental y que el importe máximo de la bonificación no supere el 15 % de la cuota íntegra:
+1.º Tratamiento o reducción de las emisiones a la atmósfera.
+2.º Cambios de combustible por combustibles más limpios.
+3.º Pavimentación para evitar emisiones difusas.
+4.º Cambio en los procesos con el fin de reducir las emisiones a la atmósfera.»
