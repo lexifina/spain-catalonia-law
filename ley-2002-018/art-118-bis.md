@@ -1,3 +1,0 @@
-Artículo 118 bis. Continuidad de los socios trabajadores en el caso de cese de actividades.
-Si una cooperativa de trabajo asociado cesa, por causas que no le son imputables, en un contrato de servicios o concesión administrativa y una nueva empresa se hace cargo de la misma, los socios trabajadores afectados porque están desarrollando en ella su actividad tienen los mismos derechos y deberes que les habrían correspondido si hubiesen sido trabajadores por cuenta ajena, de acuerdo con la legislación estatal de aplicación.
-Se añade por el art. 55 de la Ley 10/2011, de 29 de diciembre. Ref. BOE-A-2012-547.
