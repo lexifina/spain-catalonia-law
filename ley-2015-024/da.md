@@ -1,0 +1,2 @@
+Disposición adicional. Cesión de créditos garantizados con la vivienda.
+En la cesión de créditos, el acreedor puede ceder su crédito contra el deudor si el crédito ha sido garantizado con la vivienda del deudor y este es un consumidor. Si la cesión es a título oneroso, el deudor queda liberado de la deuda abonando al cesionario el precio que este ha pagado más los intereses legales y los gastos que le ha causado la reclamación de la deuda.
