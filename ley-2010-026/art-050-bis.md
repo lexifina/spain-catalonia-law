@@ -1,0 +1,9 @@
+Artículo 50 bis. Informes.
+1. Los informes deben ser facultativos y no vinculantes, sin perjuicio de lo que establezca la legislación sectorial.
+2. El envío de informes entre las administraciones públicas de Cataluña debe realizarse electrónicamente, mediante las plataformas habilitadas a tal efecto.
+3. En la instrucción del procedimiento, deben solicitarse los informes que sean preceptivos de acuerdo con la normativa reguladora del procedimiento. En el caso de los informes facultativos, el órgano peticionario debe justificar de forma expresa la necesidad de su emisión.
+4. Los informes deben emitirse en el plazo de diez días, salvo que una disposición con rango de ley establezca un plazo superior.
+5. Si es necesario solicitar más de un informe en un mismo procedimiento, el órgano peticionario debe solicitarlos todos de forma simultánea, salvo que de acuerdo con la normativa sectorial aplicable la emisión de un informe preceptivo requiera el conocimiento de un informe previo también preceptivo.
+6. Si un informe no se ha emitido en el plazo establecido, debe continuarse la tramitación del procedimiento, sin perjuicio de lo establecido por la normativa de procedimiento administrativo en el supuesto de informes preceptivos.
+7. No obstante lo establecido por el apartado 6, el procedimiento debe continuar necesariamente y en todo caso si la persona interesada lo solicita expresamente, excepto cuando se trate de informes preceptivos que sean determinantes para la resolución del procedimiento, supuesto en que puede interrumpirse el plazo de los trámites sucesivos. La continuación del procedimiento produce efectos una vez transcurridos diez días desde la recepción de la solicitud por el órgano competente para tramitarla, la cual debe ser comunicada al interesado.
+Se añade por el art. 18.3 de la Ley 16/2015, de 24 de julio. Ref. BOE-A-2015-9208.

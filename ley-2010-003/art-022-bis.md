@@ -1,0 +1,5 @@
+Artículo 22 bis. Informe preceptivo por riesgo de incendio.
+1. Para el ejercicio de actividades sujetas a control preventivo de la Generalidad, de acuerdo con la presente ley, que no requieren licencia de obras ni licencia por establecimientos abiertos al público, es necesaria la obtención de un informe preceptivo por riesgo de incendio.
+2. El interesado debe solicitar la emisión del informe previo presentando el documento de solicitud, acompañado de la documentación establecida por el artículo 22, al ayuntamiento donde debe ejercerse la actividad donde se encontrará la instalación o el establecimiento.
+3. Los servicios municipales deben remitir la documentación a la dirección general competente en materia de prevención y extinción de incendios, la cual debe analizar la documentación presentada y emitir el informe, que tiene carácter vinculante. La dirección general competente en materia de prevención y extinción de incendios, una vez emitido el informe, debe remitirlo al ayuntamiento correspondiente, para que lo notifique al interesado.
+Se añade por el art. 21.2 de la Ley 16/2015, de 24 de julio. Ref. BOE-A-2015-9208#a21.

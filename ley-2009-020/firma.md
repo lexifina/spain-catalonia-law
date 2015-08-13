@@ -271,6 +271,8 @@ Las actividades que constan en estos apartados 11.1 y 11.2 de este anexo están 
 12.47 Instalaciones y actividades para la limpieza de vehículos.
 12.52 Pistas permanentes de carreras y de pruebas para vehículos motorizados, con una superficie de hasta 5 hectáreas.
 12.54 Parques temáticos con una superficie de hasta 20 hectáreas.
+12.59. Almacenaje o manipulación de biomasa de origen vegetal (aprovechamientos forestales, tratamientos silvícolas, restos de jardinería, cultivos energéticos, serrín...) o de productos de esta (leña, pella, astilla, briqueta...) con una capacidad superior a 10.000 m3.
+Se añade el epígrafe 12.59 por el art. 20.1 de la Ley 16/2015, de 24 de julio. Ref. BOE-A-2015-9208.
 Se suprimen los epígrafes 12.36 y 12.44.a) por el art. 80.21 de la Ley 3/2015, de 11 de marzo. Ref. BOE-A-2015-3637.
 Se modifica por el art. 50 de la Ley 9/2011, de 29 de diciembre. Ref. BOE-A-2012-546.
 Ténganse en cuenta las disposiciones transitorias 1.2 y 2.1, modificada esta última por el art. 171 de la Ley 2/2014, de 27 de enero. Ref. BOE-A-2014-2999.
@@ -311,7 +313,7 @@ Actividades sometidas al régimen de comunicación
 6.6 Acabados de la piel.
 6.7 Obtención de fibras vegetales por procedimientos físicos.
 6.8 Enriado del lino, del cáñamo y de otras fibras textiles.
-6.9 Hilatura del capullo del gusano de seda.
+6.9 (Suprimido).
 6.10 Talleres de confección, calzado, marroquinería y similares.
 7. Industria alimenticia y del tabaco.
 7.1 Mataderos con una capacidad de producción de canales de hasta 2 toneladas por día.
@@ -355,7 +357,7 @@ Actividades sometidas al régimen de comunicación
 11.5 Secado del poso del vino.
 11.6 Secado del lúpulo con azufre.
 11.7 Secado de grano y otras materias vegetales por procedimientos artificiales.
-11.8 Desmontaje de algodón.
+11.8 (Suprimido).
 12. Otras actividades.
 12.2 Instalaciones para el tratamiento de superficie de materiales, objetos o productos con la utilización de disolventes orgánicos, en particular para aprestarlos, estamparlos, revestirlos y desengrasarlos, impermeabilizarlos, encolarlos, laquearlos, limpiarlos o impregnarlos, con una capacidad de consumo de disolvente de hasta 150 kg por hora y de 20 toneladas por año y una superficie de hasta 500 m2.
 12.3 Aplicación de barnices no grasos, pinturas, lacas y tintes de impresión sobre cualquier soporte, y la cocción y el secado correspondientes, cuando la cantidad almacenada de estas sustancias en los talleres sea de hasta 1.000 kg como máximo y la superficie de hasta 500 m2.
@@ -370,16 +372,16 @@ Actividades sometidas al régimen de comunicación
 12.23 Laboratorios de análisis y de investigación, con una superficie de hasta 75 m2 (excluyendo despachos, almacenes y otras áreas auxiliares).
 12.25 Hospitales, clínicas y otros establecimientos sanitarios, con un número de hasta 100 camas para la hospitalización o el ingreso de pacientes.
 12.26 Centros de asistencia primaria y hospitales de día, con una superficie de hasta 750 m2.
-12.27 Centros geriátricos.
-12.28 Centros de diagnosis por la imagen.
-12.29 Servicios funerarios.
-12.30 Cementerios.
+12.27 (Suprimido).
+12.28 (Suprimido).
+12.29 (Suprimido).
+12.30 (Suprimido).
 12.32 Centros veterinarios.
 12.33 Centros y establecimientos que alojan, comercializan, tratan y reproducen animales.
 12.34 Centros de cría y suministro, y centros usuarios de animales de experimentación.
 12.36 (Suprimido).
 12.38 (Suprimido).
-12.40 Lavanderías no industriales.
+12.40 (Suprimido).
 12.41 Instalaciones para la limpieza en seco, con una superficie de hasta 500 m2.
 12.43 Fabricación de fibra óptica.
 12.44.b) (Suprimido).
@@ -389,7 +391,9 @@ Actividades sometidas al régimen de comunicación
 12.49 (Suprimido).
 12.56 (Suprimido).
 12.57 (Suprimido).
-12.58 Actividades de almacenaje de productos de roca ornamental.
+12.58 (Suprimido).
+12.59. Almacenaje o manipulación de biomasa de origen vegetal (aprovechamientos forestales, tratamientos silvícolas, restos de jardinería, cultivos energéticos, serrín...) o de productos de esta biomasa (leña, pella, astilla, briquetas...) con una capacidad inferior a 10.000 m3.
+Se suprimen varios epígrafes y se añade el epígrafe 12.59 por los arts. 20.2 y 20.3 de la Ley 16/2015, de 24 de julio. Ref. BOE-A-2015-9208.
 Se suprimen varios epígrafes y se modifica el epígrafe 12.46 por los arts. 80.22 y 80.23 de la Ley 3/2015, de 11 de marzo. Ref. BOE-A-2015-3637.
 Se deroga el código 12.59 por el art. 170.19 de la Ley 2/2014, de 27 de enero. Ref. BOE-A-2014-2999.
 Se modifica por el art. 51 de la Ley 9/2011, de 29 de diciembre. Ref. BOE-A-2012-546.

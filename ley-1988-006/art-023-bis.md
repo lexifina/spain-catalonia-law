@@ -1,0 +1,4 @@
+Artículo 23 bis.
+1. No obstante lo establecido por el artículo 23.2, en caso de superficies que en los últimos veinte años se han convertido en forestales por abandono de la actividad agrícola, el cambio de la actividad forestal a la actividad agrícola está sujeto a régimen de comunicación si la superficie es de hasta dos hectáreas y la recuperación de la actividad agrícola se realiza sin alterar la topografía del terreno.
+2. Lo establecido por el apartado 1 no es aplicable en superficies que afectan espacios naturales de especial protección, espacios de la Red Naturaleza 2000 o forestas catalogadas de utilidad pública. En este caso, el cambio de la actividad forestal a la actividad agrícola está sujeto a régimen de autorización.
+Se añade por el art. 23 de la Ley 16/2015, de 24 de julio. Ref. BOE-A-2015-9208.
