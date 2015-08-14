@@ -13,9 +13,7 @@ Supuestos sometidos al control preventivo de la Administración de la Generalida
 9. Túneles de carretera y ferroviarios, a partir de 400 m de longitud.
 10. Carreteras y líneas ferroviarias, de acuerdo con lo que se establezca por reglamento.
 11. Puertos y aeropuertos.
-12. Líneas aéreas de conducción eléctrica de alta tensión instaladas en suelo no urbano.
-13. Subestaciones eléctricas.
-14. Instalaciones de conducción de gases y líquidos inflamables y combustibles.
+12 a 14. (Suprimidos).
 15. Edificios de una altura de evacuación igual o superior a 28 m, independientemente del uso al que estén destinados.
 16. Establecimientos de espectáculos públicos.
 17. Establecimientos de actividades recreativas o de pública concurrencia, de acuerdo con el Código Técnico de la Edificación, de más de 500 m2 de superficie o con un aforo de más de 500 personas.
@@ -25,6 +23,7 @@ Supuestos sometidos al control preventivo de la Administración de la Generalida
 21. Áreas de estacionamiento para el transporte de mercancías peligrosas por carretera y ferrocarril.
 22. Estaciones e intercambiadores de transporte terrestre situados en plantas bajo rasante y los de más de 500 personas de ocupación.
 23. Establecimientos e instalaciones sujetos a la normativa de accidentes graves en los que intervengan sustancias explosivas.
+Se suprimen los epígrafes 12 a 14 por el art. 21.3 de la Ley 16/2015, de 24 de julio. Ref. BOE-A-2015-9208#a21.
 ANEXO 2
 Establecimientos de uso industrial sometidos al control preventivo de la Administración de la Generalidad
  | Tipos A v | Tipos A H | Tipos B | Tipos C | Tipos D | Tipos E
