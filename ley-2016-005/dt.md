@@ -1,0 +1,4 @@
+Disposición transitoria. Nombramiento del director del Instituto de Estadística de Cataluña.
+1. El Gobierno, dentro de los seis meses siguientes a la entrada en vigor de la presente ley, debe nombrar al director del Instituto de Estadística de Cataluña de acuerdo con lo establecido por la Ley 23/1998, de 30 de diciembre, de estadística de Cataluña.
+2. El director del Instituto de Estadística de Cataluña en el momento de la entrada en vigor de la presente ley se mantiene en el cargo hasta que se nombre al nuevo director.
+3. En el caso de que el Gobierno nombre como director del Instituto de Estadística de Cataluña a la persona que en el momento de la entrada en vigor de la presente ley ocupa el cargo, el nombramiento no se considera renovación a los efectos del artículo 9 bis.3 de la Ley 23/1998. Sin embargo, dicha persona no podrá renovar el mandato en virtud del mismo artículo.
