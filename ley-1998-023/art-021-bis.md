@@ -1,0 +1,8 @@
+Artículo 21 bis. Criterios generales.
+La estadística oficial debe responder a las necesidades de las instituciones, los centros de investigación, las empresas y el público en general. La difusión de las estadísticas se adecua a los siguientes principios:
+a) Relevancia. Las estadísticas deben satisfacer las necesidades de los usuarios. Es necesario realizar controles periódicos y un seguimiento sistemático de su satisfacción. Debe prestarse un servicio de atención a los usuarios eficiente que permita satisfacer necesidades.
+b) Precisión y fiabilidad. Las estadísticas deben reflejar la realidad de forma precisa y fiable. Deben hacerse públicos los cambios o errores detectados.
+c) Oportunidad y puntualidad. Las estadísticas deben hacerse públicas de forma oportuna y puntual. El Instituto de Estadística de Cataluña debe hacer público el calendario anual de publicación de las actuaciones estadísticas y los cambios que se produzcan en ellas. El calendario anual debe hacerse público al inicio del año natural.
+d) Coherencia y comparabilidad. Las estadísticas deben ser consistentes internamente y comparables durante un período de tiempo razonable.
+e) Accesibilidad y claridad. Las estadísticas deben publicarse de forma clara y comprensible; deben difundirse de forma adecuada y conveniente; su disponibilidad y acceso deben ser imparciales y deben ir acompañados de metadatos y orientación de apoyo, y los microdatos que se soliciten deben ser facilitados siempre que estén disponibles. Los canales de difusión utilizados deben garantizar la accesibilidad y la usabilidad de los datos difundidos.
+Se añade por el art. 24 de la Ley 5/2016, de 23 de diciembre. Ref. BOE-A-2017-523#a2-6.
