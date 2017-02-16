@@ -1,0 +1,2 @@
+Disposición transitoria.
+Mientras no se modifique el Decreto 171/2015, de 28 de julio, las referencias que contiene al Registro de grupos de interés de la Administración de la Generalidad y de su sector público se entienden hechas al Registro de grupos de interés de Cataluña, y las referencias a la Administración de la Generalidad y su sector público se entienden hechas a los entes públicos, entidades y organismos incluidos en el artículo 3.1, letras a, b y c, de la Ley 19/2014, de 29 de diciembre.
