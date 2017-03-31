@@ -1,0 +1,6 @@
+Artículo 5 ter. Tramitación de los planes de protección del medio natural y del paisaje.
+1. Los planes de protección del medio natural y del paisaje se sujetan a evaluación ambiental estratégica de acuerdo con la legislación aplicable. Una vez aprobados inicialmente, deben someterse a un procedimiento de información pública y a un trámite de audiencia en los entes locales comprendidos en el ámbito territorial del plan, a las organizaciones profesionales agrarias más representativas, y a las asociaciones y agrupaciones sin ánimo de lucro de propietarios forestales y agrarios más representativas de la zona de interés, y deben solicitarse informes del Consejo de Protección de la Naturaleza, de los departamentos interesados y de los organismos afectados por razón de sus competencias sectoriales.
+2. Antes de someter la propuesta de plan a su aprobación definitiva, debe solicitarse informe a:
+a) El departamento competente en materia de agricultura, ganadería y pesca, sobre los aspectos que afecten a sus competencias.
+b) El departamento competente en materia de territorio y urbanismo, sobre los aspectos territoriales y urbanísticos.
+Se añade por el art. 205.4 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#a2-17

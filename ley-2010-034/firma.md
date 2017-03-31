@@ -52,10 +52,10 @@ Cataluña central
 Cardona. | Cardona. | Fiesta Mayor (septiembre).
 Santpedor. | Santpedor. | Fiesta Mayor (junio).
 Girona
-Roses. | Roses. | Fiesta Mayor (agosto).
-Torroella de Montgrí. | Torroella de Montgrí. | Fiesta Mayor (agosto).
+Suprimido |  | 
+Suprimido |  | 
 Vidreres. | Vidreres. | Fiesta Mayor (septiembre).
-Olot. | Olot. | Fiesta Mayor (septiembre).
+Suprimido |  | 
 Tarragona
 El Morell. | El Morell. | Fiesta Mayor (principios de agosto).
 Mont-roig del Camp. | Miami Platja. | Fiesta Mayor (San Jaime).
@@ -63,5 +63,6 @@ Barcelona
 Badalona. | Asociación de Vecinos de Sant Joan de Llefià - Gran Sol. | Junio (San Juan).
 Vilanova i la Geltrú. | Penya Taurina i Cultural La Collada - Sis Camins. | Julio.
  | Agosto.
+Se suprimen varios municipios de la lista por el art. 208 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353
 Por tanto, ordeno que todos los ciudadanos a los que sea de aplicación esta Ley cooperen en su cumplimiento y que los tribunales y autoridades a los que corresponda la hagan cumplir.
 Palacio de la Generalidad, 1 de octubre de 2010.–El Presidente de la Generalidad de Cataluña, José Montilla i Aguilera.

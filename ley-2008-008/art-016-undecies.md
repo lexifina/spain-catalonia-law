@@ -1,0 +1,3 @@
+Artículo 16 undecies. Exenciones.
+Quedan exentos del canon sobre la disposición de residuos, la Administración General del Estado, la Generalidad de Cataluña y las corporaciones locales, así como sus organismos y los que dependen de la misma, cuando lleven a cabo el hecho imponible del canon con motivo de actuaciones de remediación, recuperación y descontaminación de espacios degradados y suelos contaminados, declaradas de interés general por ley y que comporten actuaciones subsidiarias por parte de la Administración, ya sea de forma directa o indirecta.
+Se añade por el art. 1.3 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#a1

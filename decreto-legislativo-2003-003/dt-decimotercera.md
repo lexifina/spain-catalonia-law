@@ -1,0 +1,3 @@
+Disposición transitoria decimotercera. Atribuciones de fondos a las entidades locales de la parte catalana de las cuencas intercomunitarias.
+La Agencia Catalana del Agua realiza atribuciones de fondos a las entidades locales de la parte catalana de las cuencas hidrográficas intercomunitarias, habiéndolo solicitado previamente estas entidades, mientras no se ejecuten las instalaciones de saneamiento de las aguas residuales previstas en la planificación hidrológica, con el objeto de financiar el importe correspondiente al incremento que por esta causa se aplique al canon de control de vertidos de los ejercicios del 2016 y siguientes.
+Se añade por el art. 197.21 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#a1-108

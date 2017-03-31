@@ -1,0 +1,3 @@
+Disposición transitoria decimonovena. Procedimientos de otorgamiento de licencias urbanísticas para la reconstrucción o rehabilitación de determinadas construcciones en suelo no urbanizable.
+La tramitación de los procedimientos de otorgamiento de licencias urbanísticas para la reconstrucción o rehabilitación de las construcciones en suelo no urbanizable iniciados antes de la entrada en vigor de esta disposición transitoria, de conformidad al artículo 50, debe completarse de acuerdo con la normativa vigente a partir de la fecha de entrada en vigor mencionada si en esta fecha aún no se ha solicitado el informe de la comisión territorial de urbanismo competente.
+Se añade por el art. 191.10 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#a1-102

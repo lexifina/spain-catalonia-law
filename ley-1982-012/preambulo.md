@@ -1,7 +1,0 @@
-EL PRESIDENTE DE LA GENERALITAT DE CATALUNYA
-Sea notorio a todos los ciudadanos que el Parlament de Catalunya ha aprobado y yo, en nombre del Rey y de acuerdo con lo que se establece en el artículo 33.2 del Estatuto de Autonomía, promulgo la siguiente
-LEY
-Exposición de motivos
-Los nombres de lugar son una parte esencial del patrimonio de un pueblo y contienen elementos importantes de su historia y tradición. Por ello, en épocas de opresión los topónimos son a menuddo deformados, y el restablecimiento de sus formas tradicionales constituye la recuperación de una de las principales señales de identidad del pueblo.
-La Generalitat de Catalunya, el 20 de abril de 1931, encomendó por decreto a la Secció Filològica de I'Institut d'Estudis Catalans la revisión del nombre de los municipios de Catalunya en cuanto a la ortografía, y el establecimiento de la forma catalana de los que habían sido castellanizados. En 1939, los nombres de esta lista fueron nuevamente sometidos a deformaciones ortográficas y a adaptaciones al castellano, y el nombre de los municipios que han resultado de agregaciones o de segregaciones de núcleos de población desde 1939 presenta a menudo formas arbitrarias, alejadas de la tradición catalana. Es preciso, pues, promulgar una norma que nos permita, respetando la autonomía municipal en la materia, la aplicación efectiva de una toponimia correcta a los municipios de Catalunya.
-Por lo tanto, haciendo uso de la iniciativa que el artículo 32 del Estatuto de Autonomía otorga al Consell Executiu se presenta la siguiente Ley:

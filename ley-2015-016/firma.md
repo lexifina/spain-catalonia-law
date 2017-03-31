@@ -7,6 +7,9 @@ Actividades sometidas a régimen de declaración responsable
 Observaciones generales
 La siguiente clasificación se aplica a todas las actividades descritas siempre que se realicen en un establecimiento. Por tanto, quedan exentas de presentar la declaración responsable las actividades profesionales, científicas y técnicas (grupo M) y las actividades administrativas y servicios auxiliares (epígrafes 821, 822, 823 y 829 del grupo N) que se desarrollan en la vivienda particular.
 Clasificación | Descripción | Declaración responsable | Observaciones
+A |  |  | Agricultura, ganadería, silvicultura y pesca. |  | 
+ | 13 |  | Viveros y cultivos de plantas ornamentales. |  | 
+ |  | 130 | Viveros y cultivos de plantas ornamentales. | Si la superficie construida ≤120 m2. | Se excluyen las empresas que se dedican a la producción, protección y tratamiento de material vegetal y las empresas que se dedican a la limpieza de cereales de fecundación autógama y de leguminosas para dedicarlos a la siembra.
 F |  |  | Construcción. |  | 
  | 41 |  | Construcción de inmuebles. |  | 
  |  | 411 | Promoción inmobiliaria. | Si disponen de oficinas, se aplica DR si la superficie construida del local ≤ 500 m2. | 
@@ -21,6 +24,10 @@ F |  |  | Construcción. |  |
  |  | 433 | Finalización de edificios. | Sin almacén de materiales. Si disponen de oficinas, se aplica DR si la superficie construida del local ≤ 500 m2. | 
  |  | 439 | Otras actividades especializadas construcción. | Sin almacén de materiales. Si disponen de oficinas, se aplica DR si la superficie construida del local ≤ 500 m2. | 
 G |  |  | Comercio al por mayor y al por menor. |  | 
+ | 45 |  | Venta y reparación de vehículos de motor y motocicletas. | Solo pueden considerarse los establecimientos comerciales propiamente, y no los de uso industrial, a los cuales es aplicable el RSCIEI. | 
+ |  | 451 | Venta de vehículos de motor. | Si se consideran establecimientos comerciales, si la superficie construida ≤120 m2. | 
+ |  | 453 | Venta de recambios y accesorios de vehículos de motor. | Si se consideran establecimientos comerciales, si la superficie construida ≤120 m2. | 
+ |  | 454 | Venta, mantenimiento y reparación de motocicletas y de sus recambios y accesorios. | Si se consideran establecimientos comerciales, si la superficie construida ≤120 m2. | Se excluye el mantenimiento y la reparación ya regulado por la Ley 20/2009.
  | 46 |  | Comercio al por mayor e intermediarios, salvo vehículos a motor. | Solo pueden considerarse como tales los establecimientos comerciales propiamente, y no los de uso industrial, a los que es aplicable el RSCIEI. A tal efecto, los comercios al por mayor que deben considerarse establecimientos industriales son los que superan los 3 millones de MJ de carga de fuego o bien aquellos en los que no es posible el autoabastecimiento personal para superar la altura de almacenaje que lo posibilita. | 
  |  | 461 | Intermediarios comercio. | Si se consideran establecimientos comerciales, si la superficie construida ≤ 120 m2. | 
  |  | 463 | Comercio al por mayor de alimentos, bebidas y tabaco. | Si se consideran establecimientos comerciales, si la superficie construida ≤ 120 m2. | Queda excluido el comercio al por mayor de productos de origen animal.
@@ -45,16 +52,16 @@ H |  |  | Transporte y almacenaje. |  |
  |  | 532 | Otras actividades postales y de correos. | Si se consideran establecimientos comerciales, si la superficie construida ≤ 120 m2. | 
 I |  |  | Hostelería. |  | 
  | 55 |  | Servicios de alojamiento. |  | 
- |  | 552 | Alojamientos turísticos y otros de corta duración. | Aplicable a los establecimientos de turismo rural y a las viviendas de uso turístico, y en general a toda modalidad de alojamiento turístico que pueda realizarse en edificios o establecimientos con uso característico residencial de vivienda. | Si disponen del informe emitido por el técnico competente para obtener la cédula de habitabilidad, este puede ser el certificado técnico necesario en estas instalaciones.
+ |  | 552 | Alojamientos turísticos y otros de corta duración. | Aplicable a los establecimientos de turismo rural y a las viviendas de uso turístico, y, en general, a toda modalidad de alojamiento turístico que se pueda llevar a cabo en edificios o establecimientos con uso característico residencial de vivienda. | La cédula de habitabilidad equivale al certificado técnico justificativo en los términos establecidos por el artículo 13.1.a).
  | 56 |  | Servicios de comidas y bebidas. |  | 
  |  | 562 | Provisión de comidas preparadas. | Si la superficie construida ≤ 120 m2. También deben cumplir las siguientes condiciones: – No disponer de cocina u obrador, ni tener espacio para la consumición. – Debe ser un comercio de venta de comidas preparadas y no un establecimiento de preparación y/o consumición de comidas. | 
 J |  |  | Información y comunicaciones. |  | Deben excluirse las actividades consideradas industriales: se limita a las administrativas y profesionales.
  | 58 |  | Edición. |  | 
- |  | 581 | Edición de libros y periódicos, y otras actividades de edición. | Si la superficie construida ≤ 120 m2. | 
+ |  | 581 | Edición de libros y periódicos, y otras actividades de edición. | Si la superficie construida ≤ 120 m2. | Se excluyen las imprentas que están incluidas en el epígrafe 181 y, por lo tanto, no les es de aplicación.
  |  | 582 | Edición de programas informáticos. | Si la superficie construida ≤ 500 m2. | 
  | 59 |  | Cine y vídeo; grabación de sonido. |  | 
  |  | 591 | Actividades de cine, vídeo y programas de televisión. | Si la superficie construida ≤ 500 m2. | 
- |  | 592 | Actividades de grabación de sonido y edición musical. | Si la superficie construida ≤ 500 m2. | 
+ |  | 592 | Actividades de grabación de sonido y edición musical. | Si la superficie construida ≤ 500 m2. | Si se realizan grabaciones en directo, se incluye en las actividades de espectáculos (CCAE 900).
  | 62 |  | Servicios de tecnologías de la información. |  | 
  |  | 620 | Servicios de tecnologías de la información. | Si la superficie construida ≤ 500 m2. | 
  | 63 |  | Servicios de información. |  | 
@@ -74,7 +81,7 @@ M |  |  | Actividades profesionales, científicas y técnicas. |  |
  |  | 702 | Actividades de consultoría de gestión empresarial. | Si la superficie construida ≤ 500 m2. | 
  | 71 |  | Servicios técnicos de arquitectura e ingeniería. |  | 
  |  | 711 | Servicios técnicos de arquitectura e ingeniería. | Si la superficie construida ≤ 500 m2. | 
- |  | 712 | Análisis y ensayos técnicos. | Si la superficie construida ≤ 50 m2 (excluyendo despachos, almacenes y otras áreas auxiliares, y siempre que la superficie construida ≤ 500 m2). | 
+ |  | 712 | Análisis y ensayos técnicos. | Si la superficie construida ≤ 50 m2 (excluyendo despachos, almacenes y otras áreas auxiliares, y siempre que la superficie construida ≤ 500 m2). | Quedan excluidos los laboratorios de investigación, químicos o biológicos establecidos por la LPCAA (punto 12.23 de los anexos II y III)
  | 73 |  | Publicidad y estudios de mercado. |  | 
  |  | 731 | Publicidad. | Si la superficie construida ≤ 500 m2. | 
  |  | 732 | Estudios de mercado y encuestas de opinión pública. | Si la superficie construida ≤ 500 m2. | 
@@ -83,8 +90,7 @@ M |  |  | Actividades profesionales, científicas y técnicas. |  |
  |  | 742 | Actividades de fotografía. | Si la superficie construida ≤ 120 m2. | 
  |  | 743 | Actividades de traducción y de interpretación. | Si la superficie construida ≤ 500 m2. | 
  |  | 749 | Otras actividades profesionales y técnicas no clasificadas en otros apartados. | Si la superficie construida ≤ 500 m2. | 
- |  |  | Actividades administrativas y servicios auxiliares. |  | 
-N |  |  |  |  | 
+N |  |  | Actividades administrativas y servicios auxiliares. |  | 
  | 77 |  | Actividades en alquiler. |  | 
  |  | 771 | Alquiler de vehículos a motor. | Si solo se dispone de zonas de uso administrativo cuando la superficie construida ≤ 500 m2. Sin zona de estacionamiento de vehículos. | 
  |  | 772 | Alquiler de efectos personales y efectos domésticos. | Si la superficie construida ≤ 500 m2. | 
@@ -93,16 +99,26 @@ N |  |  |  |  |
  | 78 |  | Actividades relacionadas con el empleo. |  | 
  |  | 781 | Actividades de las agencias de colocación. | Si la superficie construida ≤ 500 m2. | 
  |  | 783 | Otros tipos de provisión de recursos humanos. | Si la superficie construida ≤ 500 m2. | 
+ | 79 |  | Actividades de las agencias de viajes, turoperadores y otros servicios de reservas y actividades relacionadas. |  | 
+ |  | 791 | Actividades de las agencias de viajes y turoperadores. | Si la superficie construida ≤ 500 m2. | 
+ |  | 799 | Otros servicios de reservas y actividades relacionadas. | Si la superficie construida ≤ 500 m2. | 
+ | 81 |  | Servicios en edificios y actividades de jardinería. |  | 
+ |  | 811 | Servicios integrales en edificios e instalaciones. | Si la superficie construida ≤ 500 m2. | 
+ |  | 812 | Actividades de limpieza. | Si la superficie construida ≤ 500 m2. | 
+ |  | 813 | Actividades de jardinería. | Si la superficie construida ≤ 500 m2. | 
  | 82 |  | Actividades administrativas de oficina y auxiliares. |  | 
  |  | 821 | Actividades administrativas y auxiliares de oficina. | Si la superficie construida ≤ 500 m2. | 
  |  | 822 | Actividades de centros de atención telefónica. | Si la superficie construida ≤ 500 m2. | 
  |  | 823 | Organización de convenciones y ferias de muestras. | Si la superficie construida ≤ 500 m2. | 
  |  | 829 | Otras actividades de apoyo a las empresas. | Si la superficie construida ≤ 500 m2. | 
+ | 85 |  | Educación. |  | 
+ |  | 855 | Otras actividades de educación. | Si la superficie construida ≤120m2. | 
+ |  | 856 | Actividades auxiliares de educación. | Si la superficie construida ≤120m2. | 
 R |  |  | Actividades artísticas, recreativas y de entretenimiento. |  | 
  | 91 |  | Actividades de bibliotecas, archivos y museos. |  | 
  |  | 910 | Actividades de bibliotecas, archivos y museos. | Si la superficie construida ≤ 120 m2. | 
  | 93 |  | Actividades deportivas, recreativas y de entretenimiento. |  | 
- |  | 931 | Actividades deportivas. | Si la superficie construida ≤ 120 m2. | 
+ |  | 931 | Actividades deportivas. | Si la superficie construida ≤ 120 m2. | Se excluyen los campos de golf.
 S |  |  | Otros servicios. |  | 
  | 94 |  | Actividades asociativas. |  | 
  |  | 941 | Actividades de organizaciones empresariales y profesionales. | Si la superficie construida ≤ 500 m2. | 
@@ -113,15 +129,19 @@ S |  |  | Otros servicios. |  |
  |  | 952 | Reparación de efectos personales y domésticos. | Si la superficie construida ≤ 120 m2. | 
  | 96 |  | Otras actividades de servicios personales. |  | 
  |  | 960 | Otras actividades de servicios personales. |  | 
- |  |  | Lavado y limpieza de piezas textiles y de piel. | Si la superficie construida ≤ 120 m2. | No se incluyen las lavanderías industriales.
- |  |  | Peluquería y otros tratamientos de belleza. | Si la superficie construida ≤ 120 m2. | 
- |  |  | Actividades de mantenimiento físico. | Si la superficie construida ≤ 120 m2. | 
- |  |  | Otras actividades de servicios personales no clasificadas en otros apartados. | Si la superficie construida ≤ 120 m2. | Se excluyen las pompas fúnebres y actividades relacionadas.
+ |  | 9601 | Lavado y limpieza de piezas textiles y de piel. | Si la superficie construida ≤ 120 m2. | No se incluyen las lavanderías industriales o no comerciales, que son las que no tienen tienda abierta al público y se dedican a lavar grandes lotes de ropa provenientes de un solo cliente, y sus clientes principales no son particulares.
+ |  | 9602 | Peluquería y otros tratamientos de belleza. | Si la superficie construida ≤ 120 m2. | 
+ |  | 9604 | Actividades de mantenimiento físico. | Si la superficie construida ≤ 120 m2. | 
+ |  | 9609 | Otras actividades de servicios personales no clasificadas en otros apartados. | Si la superficie construida ≤ 120 m2. | Se excluyen las pompas fúnebres y actividades relacionadas. Se excluyen las perreras reguladas por la Ley 20/2009.
+Se modifica por el art. 238 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353
 ANEXO II
 Actividades sometidas a régimen de comunicación
 Observaciones generales
 La siguiente clasificación se aplica a todas las actividades descritas siempre que se realicen en un establecimiento.
 Clasificación CCAE | Descripción | Comunicación previa | Observaciones
+A |  |  | Agricultura, ganadería, silvicultura y pesca. |  | 
+ | 13 |  | Viveros y cultivos de plantas ornamentales. |  | 
+ |  | 130 | Viveros y cultivos de plantas ornamentales. | Si se consideran establecimientos comerciales: – En establecimientos situados bajo edificios de cualquier uso, y de 120 m2 < superficie construida ≤ 750 m2. – En otros casos, si 120 m2< superficie construida ≤ 2.000 m2. – Si se consideran establecimientos industriales, siempre que no se encuentren incluidos en el anexo 2 de la Ley 3/2010. | Se excluyen las empresas que se dedican a la producción, protección y tratamiento de material vegetal y las empresas que se dedican a la limpieza de cereales de fecundación autógama y de leguminosas para dedicarlos a la siembra.
 F |  |  | Construcción. |  | 
  | 41 |  | Construcción de inmuebles. |  | 
  |  | 411 | Promoción inmobiliaria. | Si dispone de oficinas de una superficie construida > 500 m2. | 
@@ -136,16 +156,20 @@ F |  |  | Construcción. |  |
  |  | 433 | Finalización de edificios. | Si dispone de oficinas de una superficie construida > 500 m2. Quedan excluidas las actividades que dispongan de almacén industrial sometido a la aplicación del RSCIEI e incluido en el anexo 2 de la Ley 3/2010. | 
  |  | 439 | Otras actividades especializadas construcción. | Si dispone de oficinas de una superficie construida > 500 m2. Quedan excluidas las actividades que dispongan de almacén industrial sometido a la aplicación del RSCIEI e incluido en el anexo 2 de la Ley 3/2010. | 
 G |  |  | Comercio al por mayor y al por menor. |  | 
+ | 45 |  | Venta y reparación de vehículos de motor y motocicletas. | Solo pueden considerarse los establecimientos comerciales propiamente, y no los de uso industrial, a los cuales es aplicable el RSCIEI. | 
+ |  | 451 | Venta de vehículos de motor. | Si se consideran establecimientos comerciales: – En establecimientos situados bajo edificios de cualquier uso, y de 120 m2 < superficie construida ≤ 750 m2. – En otros casos, si 120 m2 < superficie construida ≤ 2.000 m2. – Si se consideran establecimientos industriales, siempre que no se encuentren incluidos en el anexo 2 de la Ley 3/2010. | 
+ |  | 453 | Venta de recambios y accesorios de vehículos de motor. | Si se consideran establecimientos comerciales: – En establecimientos situados bajo edificios de cualquier uso, y de 120 m2 < superficie construida ≤ 750 m2. – En otros casos, si 120 m2< superficie construida ≤ 2.000 m2. – Si se consideran establecimientos industriales, siempre que no se encuentren incluidos en el anexo 2 de la Ley 3/2010. | 
+ |  | 454 | Venta, mantenimiento y reparación de motocicletas, y de sus recambios y accesorios. | Si se consideran establecimientos comerciales: – En establecimientos situados bajo edificios de cualquier uso, y de 120 m2 < superficie construida ≤ 750 m2. – En otros casos, si 120 m2 < superficie construida ≤ 2.000 m2. – Si se consideran establecimientos industriales, siempre que no se encuentren incluidos en el anexo 2 de la Ley 3/2010. | Se excluye el mantenimiento y la reparación ya regulado por la Ley 20/2009.
  | 46 |  | Comercio al por mayor e intermediarios, salvo vehículos a motor. | Los comercios al por mayor que deben considerarse establecimientos industriales son los que superan los 3 millones de MJ de carga de fuego o bien aquellos donde no es posible el autoabastecimiento personal para superar la altura de almacenaje que lo posibilita. | 
- | 461 | Intermediarios comercio. | Si se consideran establecimientos comerciales: – En establecimientos ubicados bajo edificios de cualquier uso, y de 120 m2 < superficie construida ≤ 750 m2. – En otros casos, si 120 m2 < superficie construida ≤ 2.000 m2. Si se consideran establecimientos industriales, siempre que no se encuentren incluidos en el anexo 2 de la Ley 3/2010. | 
- | 463 | Comercio al por mayor de alimentos, bebidas y tabaco. | Si se consideran establecimientos comerciales: – En establecimientos ubicados bajo edificios de cualquier uso, y de 120 m2 < superficie construida ≤ 750 m2. – En otros casos, si 120 m2 < superficie construida ≤ 2.000 m2. Si se consideran establecimientos industriales, siempre que no se encuentren incluidos en el anexo 2 de la Ley 3/2010. | Queda excluido el comercio al por mayor de productos de origen animal.
- | 464 | Comercio al por mayor de artículos de uso doméstico. | Si se consideran establecimientos comerciales: – En establecimientos ubicados bajo edificios de cualquier uso, y de 120 m2 < superficie construida ≤ 750 m2. – En otros casos, si 120 m2 < superficie construida ≤ 2.000 m2. Si se consideran establecimientos industriales, siempre que no se encuentren incluidos en el anexo 2 de la Ley 3/2010. | 
- | 465 | Comercio al por mayor de equipos para las TIC. | Si se consideran establecimientos comerciales: – En establecimientos ubicados bajo edificios de cualquier uso, y de 120 m2 < superficie construida ≤750 m2. – En otros casos, si 120 m2 < superficie construida ≤ 2.000 m2. Si se consideran establecimientos industriales, siempre que no se encuentren incluidos en el anexo 2 de la Ley 3/2010. | 
- | 466 | Comercio al por mayor de otra maquinaria y equipos. | Si se consideran establecimientos comerciales: – En establecimientos ubicados bajo edificios de cualquier uso, y de 120 m2 < superficie construida ≤ 750 m2. – En otros casos, si 120 m2 < superficie construida ≤ 2.000 m2. Si se consideran establecimientos industriales, siempre que no se encuentren incluidos en el anexo 2 de la Ley 3/2010. | 
- | 467 | Otros tipos de comercio al por mayor especializado. | Si se consideran establecimientos comerciales: – En establecimientos ubicados bajo edificios de cualquier uso, y de 120 m2 < superficie construida ≤ 750 m2. – En otros casos, si 120 m2 < superficie construida ≤ 2.000 m2. Si se consideran establecimientos industriales, siempre que no se encuentren incluidos en el anexo 2 de la Ley 3/2010. | 
- | 469 | Comercio al por mayor no especializado. | Si se consideran establecimientos comerciales: – En establecimientos ubicados bajo edificios de cualquier uso, y de 120 m2 < superficie construida ≤ 750 m2. – En otros casos, si 120 m2 < superficie construida ≤ 2.000 m2. Si se consideran establecimientos industriales, siempre que no se encuentren incluidos en el anexo 2 de la Ley 3/2010. | 
+ |  | 461 | Intermediarios comercio. | Si se consideran establecimientos comerciales: – En establecimientos ubicados bajo edificios de cualquier uso, y de 120 m2 < superficie construida ≤ 750 m2. – En otros casos, si 120 m2 < superficie construida ≤ 2.000 m2. Si se consideran establecimientos industriales, siempre que no se encuentren incluidos en el anexo 2 de la Ley 3/2010. | 
+ |  | 463 | Comercio al por mayor de alimentos, bebidas y tabaco. | Si se consideran establecimientos comerciales: – En establecimientos ubicados bajo edificios de cualquier uso, y de 120 m2 < superficie construida ≤ 750 m2. – En otros casos, si 120 m2 < superficie construida ≤ 2.000 m2. Si se consideran establecimientos industriales, siempre que no se encuentren incluidos en el anexo 2 de la Ley 3/2010. | Queda excluido el comercio al por mayor de productos de origen animal.
+ |  | 464 | Comercio al por mayor de artículos de uso doméstico. | Si se consideran establecimientos comerciales: – En establecimientos ubicados bajo edificios de cualquier uso, y de 120 m2 < superficie construida ≤ 750 m2. – En otros casos, si 120 m2 < superficie construida ≤ 2.000 m2. Si se consideran establecimientos industriales, siempre que no se encuentren incluidos en el anexo 2 de la Ley 3/2010. | 
+ |  | 465 | Comercio al por mayor de equipos para las TIC. | Si se consideran establecimientos comerciales: – En establecimientos ubicados bajo edificios de cualquier uso, y de 120 m2 < superficie construida ≤750 m2. – En otros casos, si 120 m2 < superficie construida ≤ 2.000 m2. Si se consideran establecimientos industriales, siempre que no se encuentren incluidos en el anexo 2 de la Ley 3/2010. | 
+ |  | 466 | Comercio al por mayor de otra maquinaria y equipos. | Si se consideran establecimientos comerciales: – En establecimientos ubicados bajo edificios de cualquier uso, y de 120 m2 < superficie construida ≤ 750 m2. – En otros casos, si 120 m2 < superficie construida ≤ 2.000 m2. Si se consideran establecimientos industriales, siempre que no se encuentren incluidos en el anexo 2 de la Ley 3/2010. | 
+ |  | 467 | Otros tipos de comercio al por mayor especializado. | Si se consideran establecimientos comerciales: – En establecimientos ubicados bajo edificios de cualquier uso, y de 120 m2 < superficie construida ≤ 750 m2. – En otros casos, si 120 m2 < superficie construida ≤ 2.000 m2. Si se consideran establecimientos industriales, siempre que no se encuentren incluidos en el anexo 2 de la Ley 3/2010. | 
+ |  | 469 | Comercio al por mayor no especializado. | Si se consideran establecimientos comerciales: – En establecimientos ubicados bajo edificios de cualquier uso, y de 120 m2 < superficie construida ≤ 750 m2. – En otros casos, si 120 m2 < superficie construida ≤ 2.000 m2. Si se consideran establecimientos industriales, siempre que no se encuentren incluidos en el anexo 2 de la Ley 3/2010. | 
  | 47 |  | Comercio al por menor, salvo vehículos a motor y motocicletas. |  | 
- | 471 | Comercio al por menor en establecimientos no especializados. | Establecimientos ubicados bajo edificios de cualquier uso, y de 120 m2 < superficie construida ≤ 750 m2. En otros casos, si 120 m2 < superficie construida ≤ 2.000 m2. | 
+ |  | 471 | Comercio al por menor en establecimientos no especializados. | Establecimientos ubicados bajo edificios de cualquier uso, y de 120 m2 < superficie construida ≤ 750 m2. En otros casos, si 120 m2 < superficie construida ≤ 2.000 m2. | 
  |  | 472 | Comercio al por menor de alimentos, bebidas y tabaco. | Establecimientos ubicados bajo edificios de cualquier uso, y de 120 m2 < superficie construida ≤ 750 m2. En otros casos, si 120 m2 < superficie construida ≤ 2.000 m2. | 
  |  | 474 | Comercio al por menor de equipos para las TIC. | Establecimientos ubicados bajo edificios de cualquier uso, y de 120 m2 < superficie construida ≤ 750 m2. En otros casos, si 120 m2 < superficie construida ≤ 2.000 m2. | 
  |  | 475 | Comercio al por menor de otros artículos de uso doméstico. | Establecimientos ubicados bajo edificios de cualquier uso, y de 120 m2 < superficie construida ≤ 750 m2. En otros casos, si 120 m2 < superficie construida ≤ 2.000 m2. | 
@@ -154,27 +178,28 @@ G |  |  | Comercio al por mayor y al por menor. |  |
  |  | 479 | Comercio al por menor fuera de establecimientos. | Establecimientos ubicados bajo edificios de cualquier uso, y de 120 m2 < superficie construida ≤ 750 m2. En otros casos, si 120 m2 < superficie construida ≤ 2.000 m2. | 
 H |  |  | Transporte y almacenaje. |  | 
  | 49 |  | Transporte terrestre; transporte por tuberías. |  | 
- |  | 494 | Transporte de mercancías por carretera y mudanzas. | En el caso de naves de empresas de camiones o furgonetas de logística, campas de estacionamiento de vehículos, etc., siempre que el estacionamiento de vehículos no se encuentre ubicado en una segunda o más plantas bajo rasante, o bien si se encuentra ubicado bajo un edificio, tenga una superficie construida ≤ 750 m2, o bien, en cualquier otro caso, tenga una 500 m2 < superficie construida ≤ 2.000 m2. | 
+ |  | 494 | Transporte de mercancías por carretera y mudanzas. | En el caso de naves de empresas de camiones o furgonetas de logística, campas de aparcamiento de vehículos, etc. de más de 2 vehículos, sin almacén regulador, y siempre que el aparcamiento de vehículos no se encuentre situado en una segunda o más plantas bajo rasante, o bien si se encuentra situado bajo un edificio, tenga una superficie construida ≤750 m2, o bien, en cualquier otro caso, tenga una superficie construida ≤ 2.000 m2. | 
  | 52 |  | Almacenaje y actividades afines al transporte. |  | 
- |  | 5221 | Actividades afines al transporte terrestre. | En el caso de la explotación de estacionamientos o garajes para vehículos, siempre que el estacionamiento de vehículos no se encuentre ubicado en una segunda o más plantas bajo rasante, o bien si se encuentra ubicado bajo un edificio, tenga una superficie construida ≤ 750 m2, o bien, en cualquier otro caso, tenga una 500 m2 < superficie construida ≤ 2.000 m2. | 
+ |  | 521 | Depósito y almacenaje. | Se excluyen los almacenes de actividades afectadas por alguno de los anexos de la Ley 20/2009 y las afectadas por el anexo 2 de la Ley 3/2010. | 
+ |  | 5221 | Actividades afines al transporte terrestre. | En el caso de la explotación de estacionamientos o garajes para vehículos, siempre y cuando el aparcamiento de vehículos no se encuentre situado en una segunda o más plantas bajo rasante, o bien si se encuentra situado bajo un edificio, tenga una superficie construida ≤ 50 m2, o bien, en cualquier otro caso, tenga una superficie construida ≤ 2.000 m2. | 
  | 53 |  | Actividades postales y de correos. |  | 
  |  | 531 | Actividades postales nacionales. | Si se consideran establecimientos comerciales: – En establecimientos ubicados bajo edificios de cualquier uso, y de 120 m2 < superficie construida ≤ 750 m2. – En otros casos, si 120 m2 < superficie construida ≤ 2.000 m2. | 
  |  | 532 | Otras actividades postales y de correos. | Si se consideran establecimientos comerciales: – En establecimientos ubicados bajo edificios de cualquier uso, y de 120 m2 < superficie construida ≤ 750 m2. – En otros casos, si 120 m2 < superficie construida ≤ 2.000 m2. | 
 I |  |  | Hostelería. |  | 
  | 55 |  | Servicios de alojamiento. |  | 
- |  | 551 | Hoteles y alojamientos similares. | Si el número de plazas disponibles es inferior a 20. | 
- |  | 552 | Alojamientos turísticos y otros de corta duración. | Si el número de plazas disponibles es inferior a 20. | 
+ |  | 551 | Hoteles y alojamientos similares. | Si el número de plazas disponibles es ≤ a 20. | 
+ |  | 552 | Alojamientos turísticos y otros de corta duración. | Si el número de plazas disponibles es ≤ a 20. | 
  | 56 |  | Servicios de comidas y bebidas. |  | 
  |  | 561 | Restaurantes y establecimientos de comidas. | Si la superficie construida ≤ 500 m2 y con un aforo ≤ 500 personas | 
  |  | 562 | Provisión de comidas preparadas. | Establecimientos ubicados bajo edificios de cualquier uso, y de 120 m2 < superficie construida ≤ 750 m2. En otros casos, si 120 m2 < superficie construida ≤ 2.000 m2. | Si se dispone de cocina u obrador, o se dispone de espacio para la consumición, deben aplicarse las condiciones establecidas para el epígrafe 561, dedicado a restaurantes y establecimientos de comidas.
  |  | 563 | Establecimientos de bebidas. | Si la superficie construida ≤ 500 m2 y con un aforo ≤ 500 personas. | 
 J |  |  | Información y comunicaciones. |  | Deben excluirse las actividades consideradas industriales: se limita a las administrativas y profesionales.
  | 58 |  | Edición. |  | 
- |  | 581 | Edición de libros y periódicos, y otras actividades de edición. | Si la superficie construida > 120 m2. | 
+ |  | 581 | Edición libros, periódicos y otras actividades de edición. | Si la superficie construida > 120m2. | Se excluyen las imprentas que están incluidas en el epígrafe 181 y, por lo tanto, no les es de aplicación.
  |  | 582 | Edición de programas informáticos. | Si la superficie construida > 500 m2. | 
  | 59 |  | Cine y vídeo; grabación de sonido. |  | 
  |  | 591 | Actividades de cine, vídeo y programas de televisión. | Si la superficie construida > 500 m2. | 
- |  | 592 | Actividades de grabación de sonido y edición musical. | Si la superficie construida > 500 m2. | 
+ |  | 592 | Actividades de grabación de sonido y edición musical. | Si la superficie construida > 500 m2. | Si se realizan grabaciones en directo, se incluye en las actividades de espectáculos (CCAE 900).
  | 62 |  | Servicios de tecnologías de la información. |  | 
  |  | 620 | Servicios de tecnologías de la información. | Si la superficie construida > 500 m2. | 
  | 63 |  | Servicios de información. |  | 
@@ -201,26 +226,36 @@ M |  |  | Actividades profesionales, científicas y técnicas. |  |
  |  | 741 | Actividades de diseño especializado. | Si la superficie construida > 500 m2. | 
  |  | 742 | Actividades de fotografía. | Si la superficie construida > 120 m2. | 
  |  | 743 | Actividades de traducción y de interpretación. | Si la superficie construida > 500 m2. | 
- |  | 749 | Otras actividades profesionales y técnicas no clasificadas en otros apartados. | Si la superficie construida > 500 m2. | 
-N |  | Actividades administrativas y servicios auxiliares. |  | 
- | 77 |  | Actividades en alquiler. |  | 
- |  | 771 | Alquiler de vehículos a motor. | Si solo se dispone de zonas de uso administrativo cuando la superficie construida > 500 m2. Si disponen de estacionamiento de vehículos, deben cumplir que: – El estacionamiento de vehículos no se encuentre ubicado en una segunda o más plantas bajo rasante, o bien si se encuentra ubicado bajo un edificio, tenga una superficie construida ≤ 750 m2, o bien, en cualquier otro caso, tenga una 500 m2 < superficie construida ≤ 2.000 m2. | 
+ |  | 749 | Otras actividades profesionales y técnicas no clasificadas en otros apartados. | Si la superficie construida > 500 m2.
+N |  |  | Actividades administrativas y servicios auxiliares. |  | 
+ | 77 |  | Actividades de alquiler. |  | 
+ |  | 771 | Alquiler de vehículos de motor. | Si solo se dispone de zonas de uso administrativo cuando la superficie construida > 500 m2. Si disponen de aparcamiento de vehículos, deben cumplir que: – El aparcamiento de vehículos no se encuentre situado en una segunda o más plantas bajo rasante, o bien si se encuentra situado bajo un edificio, tenga una superficie construida ≤ 750 m2, o bien, en cualquier otro caso, tenga una superficie construida ≤ 2.000 m2. | 
  |  | 772 | Alquiler de efectos personales y efectos domésticos. | Si la superficie construida > 500 m2. | 
  |  | 773 | Alquiler de maquinaria, equipos y bienes tangibles. | Si la superficie construida > 500 m2. | 
  |  | 774 | Arrendamiento de propiedad intelectual, salvo derechos de autor. | Si la superficie construida > 500 m2. | 
  | 78 |  | Actividades relacionadas con el empleo. |  | 
  |  | 781 | Actividades de las agencias de colocación. | Si la superficie construida > 500 m2. | 
  |  | 783 | Otros tipos de provisión de recursos humanos. | Si la superficie construida > 500 m2. | 
+ | 79 |  | Actividades de las agencias de viajes, turoperadores y otros servicios de reservas y actividades relacionadas. |  | 
+ |  | 791 | Actividades de las agencias de viajes y turoperadores. | Si la superficie construida > 500 m2. | 
+ |  | 799 | Otros servicios de reservas y actividades relacionadas. | Si la superficie construida > 500 m2. | 
+ | 81 |  | Servicios en edificios y actividades de jardinería. |  | 
+ |  | 811 | Servicios integrales en edificios e instalaciones. | Si la superficie construida > 500 m2. | 
+ |  | 812 | Actividades de limpieza. | Si la superficie construida > 500 m2. | 
+ |  | 813 | Actividades de jardinería. | Si la superficie construida > 500 m2. | 
  | 82 |  | Actividades administrativas de oficina y auxiliares. |  | 
  |  | 821 | Actividades administrativas y auxiliares de oficina. | Si la superficie construida > 500 m2. | 
  |  | 822 | Actividades de centros de atención telefónica. | Si la superficie construida > 500 m2. | 
  |  | 823 | Organización de convenciones y ferias de muestras. | Si la superficie construida > 500 m2. | 
  |  | 829 | Otras actividades de apoyo a las empresas. | Si la superficie construida > 500 m2. | 
-R |  | Actividades artísticas, recreativas y de entretenimiento. | 
+ | 85 |  | Educación. |  | 
+ |  | 855 | Otras actividades de educación. | Si 120 m2 < superficie construida ≤ 2.000 m2 y la altura de evacuación es <=15 m. | 
+ |  | 856 | Actividades auxiliares de educación. | Si 120 m2 < superficie construida ≤ 2.000 m2 y la altura de evacuación es <=15 m. | 
+R |  |  | Actividades artísticas, recreativas y de entretenimiento. |  | 
  | 91 |  | Actividades de bibliotecas, archivos y museos. |  | 
  |  | 910 | Actividades de bibliotecas, archivos y museos. | Si 120 m2 < superficie construida ≤ 500 m2. | 
- | 93 |  | Actividades deportivas, recreativas y de entretenimiento. | 
- |  | 931 | Actividades deportivas. | Si 120 m2 < superficie construida ≤ 500 m2. | 
+ | 93 |  | Actividades deportivas, recreativas y de entretenimiento. |  | 
+ |  | 931 | Actividades deportivas. | Si 120 m2 < superficie construida ≤ 500 m2. | Se excluyen los campos de golf.
 S |  |  | Otros servicios. |  | 
  | 94 |  | Actividades asociativas. |  | 
  |  | 941 | Actividades de organizaciones empresariales y profesionales. | Si la superficie construida > 500 m2. | 
@@ -228,12 +263,13 @@ S |  |  | Otros servicios. |  |
  |  | 949 | Actividades asociativas varias. | Si la superficie construida > 500 m2. | 
  | 95 |  | Reparación de ordenadores y de efectos personales y domésticos. |  | 
  |  | 951 | Reparación de ordenadores y equipos de comunicación. | Establecimientos ubicados bajo edificios de cualquier uso, y de 120 m2 < superficie construida ≤ 750 m2. En otros casos, si 120 m2 < superficie construida ≤ 2.000 m2. | 
- | 952 | Reparación de efectos personales y domésticos. | Establecimientos ubicados bajo edificios de cualquier uso, y de 120 m2 < superficie construida ≤ 750 m2. En otros casos, si 120 m2 < superficie construida ≤ 2.000 m2. | 
+ |  | 952 | Reparación de efectos personales y domésticos. | Establecimientos ubicados bajo edificios de cualquier uso, y de 120 m2 < superficie construida ≤ 750 m2. En otros casos, si 120 m2 < superficie construida ≤ 2.000 m2.
  | 96 |  | Otras actividades de servicios personales. |  | 
  |  | 960 | Otras actividades de servicios personales. |  | 
- |  |  | Lavado y limpieza de piezas textiles y de piel. | Si se trata de lavandería no industrial: si 120 m2 < superficie construida ≤ 750 m2. | 
- | Peluquería y otros tratamientos de belleza. | Establecimientos ubicados bajo edificios de cualquier uso, y de 120 m2 < superficie construida ≤ 750 m2. En otros casos, si 120 m2 < superficie construida ≤ 2.000 m2. | 
- |  |  | Actividades de mantenimiento físico. | Si 120 m2 < superficie construida ≤ 500 m2. | 
- | Otras actividades de servicios personales no clasificadas en otros apartados. | Establecimientos ubicados bajo edificios de cualquier uso, y de 120 m2 < superficie construida ≤ 750 m2. En otros casos, si 120 m2 < superficie total construida < 2.000 m2. | Quedan excluidas las pompas fúnebres y actividades relacionadas.
+ |  | 9601 | Lavado y limpieza de piezas textiles y de piel. | Si se trata de lavandería no industrial: si 120 m2 < superficie construida ≤ 750 m2. | No se incluyen las lavanderías industriales o no comerciales, que son las que no tienen tienda abierta al público y se dedican a lavar grandes lotes de ropa provenientes de un solo cliente, y sus clientes principales no son particulares.
+ |  | 9602 | Peluquería y otros tratamientos de belleza. | Establecimientos situados bajo edificios de cualquier uso, y de 120 m2 < superficie construida ≤ 750 m2. En otros casos, si 120 < superficie construida ≤ 2.000 m2. | 
+ |  | 9604 | Actividades de mantenimiento físico. | Si 120 m2 < superficie construida ≤ 500 m2. | 
+ |  | 9609 | Otras actividades de servicios personales no clasificadas en otros apartados. | Establecimientos situados bajo edificios de cualquier uso, y de 120 m2 < superficie construida ≤ 750 m2. En otros casos, si 120 < superficie construida ≤ 2.000 m2. | Se excluyen las pompas fúnebres y actividades relacionadas. Se excluyen las perreras reguladas por la Ley 20/2009.
+Se modifica por el art. 239 por Ley 5/2017, de 28 de marzo Ref. BOE-A-2017-7353#a2-51
 Información relacionada
 Téngase en cuenta la habilitación al consejero competente en materia de empresa para la refundición de los anexos I y II de esta ley mediante orden, publicada únicamente en el DOC, según establece la disposición final 3 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#df-3

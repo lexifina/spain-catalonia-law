@@ -142,6 +142,7 @@ Actividades sometidas al régimen de licencia ambiental
 1.7 Generadores de calor de potencia calorífica superior a 2.000 termias por hora.
 1.10 Carbonización de la madera (carbón vegetal), cuando se trate de una actividad fija extensiva.
 1.12 Instalaciones industriales, y de otros tipos, para la producción de electricidad, vapor y agua caliente con una potencia térmica de hasta 100 MW y superior a 0,2 MW, que no estén incluidas en el código 1.1 del anexo I.1.
+1.14 Centrales hidroeléctricas con una potencia superior a 10 MW.
 2. Minería.
 2.3 Extracción de sal marina.
 3. Producción y transformación de metales.
@@ -272,6 +273,7 @@ Las actividades que constan en estos apartados 11.1 y 11.2 de este anexo están 
 12.52 Pistas permanentes de carreras y de pruebas para vehículos motorizados, con una superficie de hasta 5 hectáreas.
 12.54 Parques temáticos con una superficie de hasta 20 hectáreas.
 12.59. Almacenaje o manipulación de biomasa de origen vegetal (aprovechamientos forestales, tratamientos silvícolas, restos de jardinería, cultivos energéticos, serrín...) o de productos de esta (leña, pella, astilla, briqueta...) con una capacidad superior a 10.000 m3.
+Se añade el epígrafe 1.14 al apartado 1 por el art. 196.1 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#a1-107
 Se añade el epígrafe 12.59 por el art. 20.1 de la Ley 16/2015, de 24 de julio. Ref. BOE-A-2015-9208.
 Se suprimen los epígrafes 12.36 y 12.44.a) por el art. 80.21 de la Ley 3/2015, de 11 de marzo. Ref. BOE-A-2015-3637.
 Se modifica por el art. 50 de la Ley 9/2011, de 29 de diciembre. Ref. BOE-A-2012-546.
@@ -284,6 +286,7 @@ Actividades sometidas al régimen de comunicación
 1.7 Generadores de calor con una potencia calorífica de hasta 2.000 termias por hora.
 1.12 Instalaciones industriales, y de otros tipos, para la fabricación de energía eléctrica, vapor y agua caliente, con una potencia térmica de hasta 0.2 MW.
 1.13 Instalaciones fotovoltaicas con una superficie inferior a 6 hectáreas y una potencia superior a 100 kW.
+1.14 Centrales hidroeléctricas con una potencia igual o inferior a 10 MW.
 3. Producción y transformación de metales.
 3.4 Fundiciones de metales ferrosos con una capacidad de producción de hasta 2 toneladas por día.
 3.5 Fabricación de tubos y perfiles.
@@ -393,6 +396,7 @@ Actividades sometidas al régimen de comunicación
 12.57 (Suprimido).
 12.58 (Suprimido).
 12.59. Almacenaje o manipulación de biomasa de origen vegetal (aprovechamientos forestales, tratamientos silvícolas, restos de jardinería, cultivos energéticos, serrín...) o de productos de esta biomasa (leña, pella, astilla, briquetas...) con una capacidad inferior a 10.000 m3.
+Se añade el epígrafe 1.14 al apartado 1 por el art. 196.2 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#a1-107
 Se suprimen varios epígrafes y se añade el epígrafe 12.59 por los arts. 20.2 y 20.3 de la Ley 16/2015, de 24 de julio. Ref. BOE-A-2015-9208.
 Se suprimen varios epígrafes y se modifica el epígrafe 12.46 por los arts. 80.22 y 80.23 de la Ley 3/2015, de 11 de marzo. Ref. BOE-A-2015-3637.
 Se deroga el código 12.59 por el art. 170.19 de la Ley 2/2014, de 27 de enero. Ref. BOE-A-2014-2999.
