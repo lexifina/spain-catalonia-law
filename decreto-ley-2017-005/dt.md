@@ -1,0 +1,2 @@
+Disposición transitoria.
+Mientras no esté operativo el Registro electrónico de comunicaciones creado en este Decreto-ley, la prestación de los servicios de alquiler de vehículos con conductor y de taxi a que se refieren el artículo 2 y la disposición adicional de este Decreto-ley, respectivamente, se debe acreditar con los documentos en soporte físico en la forma prevista en la normativa aplicable en cada caso.
