@@ -1,12 +1,3 @@
 Disposición adicional decimotercera. Modificación del Decreto legislativo 1/1993.
-Se modifica el artículo 10 del Decreto legislativo 1/1993, del 9 de marzo, sobre comercio interior, que queda redactado del siguiente modo:
-«Artículo 10. Autorización de los ayuntamientos.
-1. Los ayuntamientos pueden autorizar la venta no sedentaria en los espacios y las vías públicas de los respectivos municipios, en perímetros y en lugares determinados previamente, y establecer el número total de lugares permitidos y las dimensiones de estos lugares.
-2. Las ordenanzas municipales deben determinar los criterios de otorgamiento de las autorizaciones.
-3. En la autorización debe constar, como mínimo, el período de vigencia, el lugar preciso donde debe ejercerse la actividad, así como los productos concretos para los que es válida. La autorización debe ser exhibida de manera visible y permanente en las paradas de venta.
-4. Las autorizaciones son transmisibles y tienen una duración mínima de quince años para permitir la amortización de las inversiones y una remuneración equitativa de los capitales invertidos y prorrogables expresamente por períodos idénticos. Las autorizaciones solo pueden ser revocadas por el incumplimiento de la presente ley o de las ordenanzas municipales, lo cual no da derecho a indemnización ni a compensación de ningún tipo.
-Los titulares de las autorizaciones están obligados a acreditar anualmente ante los respectivos ayuntamientos que están al corriente de las obligaciones con la seguridad social y con la Administración tributaria, así como de cualquier otra obligación que les imponga la Administración local.
-5. Las autorizaciones municipales son transmisibles, previa comunicación a la Administración competente, por el plazo que quede de la autorización o de la prórroga, en los siguientes supuestos:
-a) Por cese voluntario del titular o la titular de la actividad.
-b) Por situaciones sobrevenidas, como en casos de incapacidad laboral, enfermedad o situaciones análogas, debidamente acreditadas.
-6. Los procedimientos que comporten el otorgamiento de nuevas autorizaciones no pueden ser automáticos y no pueden comportar ningún tipo de ventaja para los prestadores que cesan ni para las personas que estén especialmente vinculadas a ellos.»
+(Derogada).
+Se deroga por la disposición derogatoria.m) de la Ley 18/2017, de 1 de agosto. Ref. BOE-A-2017-11320#dd
