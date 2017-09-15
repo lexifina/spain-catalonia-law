@@ -1,0 +1,1 @@
+Incluye las correcciones de erratas publicadas en DOGC núm. 7429, de 8 de agosto de 2017. Ref. DOGC-f-2017-90443, DOGC núm. 7451, de 8 de septiembre de 2017. Ref. DOGC-f-2017-90457 y DOGC núm. 7488, de 6 de noviembre de 2017. Ref. DOGC-f-2017-90498
