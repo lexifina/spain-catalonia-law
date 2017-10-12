@@ -1,0 +1,2 @@
+Información relacionada
+Téngase en cuenta que se suspendió la vigencia y aplicación de esta norma desde el 3 de octubre de 2017 para las partes del proceso y desde el 26 de octubre de 2017 para los terceros, por providencia del TC de 17 de octubre de 2017, que admitió a trámite el recurso de inconstitucionalidad núm. 4814-2017. Ref. BOE-A-2017-12250 y que se levantó la suspensión, salvo para el art. 3.1.c), segundo inciso, d) y h), por Auto del TC de 21 de marzo de 2018. Ref. BOE-A-2018-4234
