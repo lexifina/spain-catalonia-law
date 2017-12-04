@@ -1,0 +1,1 @@
+Téngase en cuenta que se suspende la vigencia y aplicación de esta ley desde el 31 de octubre de 2017 para las partes en el proceso y desde el 4 de diciembre de 2017 para los terceros, por providencia del TC de 28 de noviembre de 2017 que admite a trámite el recurso de inconstitucionalidad 5284/2017. Ref. BOE-A-2017-14162.
