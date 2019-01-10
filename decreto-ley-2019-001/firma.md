@@ -1,0 +1,2 @@
+Por tanto, ordeno que todos los ciudadanos a los que sea de aplicación este Decreto-ley que cooperen en su cumplimiento y que los tribunales y autoridades a los que corresponda lo hagan cumplir.
+Barcelona, 8 de enero de 2019.–El Presidente de la Generalidad de Cataluña, Joaquim Torra i Pla.–El Vicepresidente del Gobierno y Consejero de Economía y Hacienda, Pere Aragonès i Garcia.–El Consejero de Políticas Digitales y Administración Pública, Jordi Puigneró i Ferrer.
