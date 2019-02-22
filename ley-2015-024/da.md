@@ -1,5 +1,5 @@
 Disposición adicional. Cesión de créditos garantizados con la vivienda.
-En la cesión de créditos, el acreedor puede ceder su crédito contra el deudor si el crédito ha sido garantizado con la vivienda del deudor y este es un consumidor. Si la cesión es a título oneroso, el deudor queda liberado de la deuda abonando al cesionario el precio que este ha pagado más los intereses legales y los gastos que le ha causado la reclamación de la deuda.
-Téngase en cuenta que se suspende la vigencia y aplicación de esta disposición desde el 5 de mayo de 2016 para las partes del proceso y para los terceros desde el 3 de junio de 2016, por providencia del TC de 24 de mayo de 2016 que admite a trámite el recurso de inconstitucionalidad nº 2501-2016. Ref. BOE-A-2016-5337. y que se mantiene la suspensión por auto del TC de 20 de septiembre de 2016. Ref. BOE-A-2016-8959.
+(Anulada).
+Se declara inconstitucional y nulo por Sentencia del TC 13/2019, de 31 de enero. Ref. BOE-A-2019-2547
 Se declara el mantenimiento de la suspensión de la vigencia y aplicación de este precepto por auto del TC de 20 de septiembre de 2016. Ref. BOE-A-2016-8959.
 Se suspende su vigencia y aplicación desde el 5 de mayo de 2016 para las partes del proceso y para los terceros desde el 3 de junio de 2016, por providencia del TC de 24 de mayo de 2016 que admite a trámite el recurso de inconstitucionalidad nº 2501-2016. Ref. BOE-A-2016-5337.
