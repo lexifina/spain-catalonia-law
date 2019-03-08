@@ -1,0 +1,3 @@
+Artículo 83 quáter. Establecimiento del precio de venta básico, el factor de localización y la rentabilidad anual.
+Se deben establecer mediante orden del consejero o consejera competente en materia de vivienda el precio de venta básico, el factor de localización y la rentabilidad anual a efectos de determinar el precio de venta y la renta máximos de las viviendas de protección oficial. Para establecer la rentabilidad anual, deben tenerse en cuenta los indicadores de la evolución de la deuda pública correspondiente a los bonos a diez años más estables dentro de la zona económica de referencia de la economía catalana.
+Se añade por el art. 3.5 del Decreto-ley 5/2019, de 5 de marzo. Ref. DOGC-f-2019-90350
