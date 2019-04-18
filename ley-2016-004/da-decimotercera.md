@@ -10,4 +10,5 @@ c) Que los servicios sociales municipales que hagan el seguimiento de la situaci
 d) Que no hayan renunciado a la adjudicación de una vivienda de emergencia social en los últimos dos años.
 4. La situación de alojamiento provisional de conformidad con este artículo no da a las personas adjudicatarias preferencia por sí misma en el procedimiento de adjudicación definitiva de vivienda del parque público o gestionado por las administraciones públicas.
 5. Con el fin de hacer efectivas las resoluciones de adjudicación definitiva de las viviendas de las administraciones públicas o gestionadas por estas que tengan ocupantes sin título habilitante, se pueden utilizar los mecanismos de ejecución forzosa de los actos administrativos u otros mecanismos legales que permitan la ocupación de la vivienda por parte de las personas adjudicatarias..
+Se deja sin efecto la adicción de este precepto por Acuerdo de 25 de abril de 2019. Ref. DOGC-f-2019-90471, por el que se deroga el Decreto-ley 5/2019, de 5 de marzo.
 Se añade por el art. 2.7 del Decreto-ley 5/2019, de 5 de marzo. Ref. DOGC-f-2019-90350
