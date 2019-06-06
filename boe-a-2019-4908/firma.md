@@ -55,18 +55,24 @@ La circulación en las calzadas Bus-VAO de la C-58CC correspondientes a los carr
 – Vehículos con la señal V-15 visible para las personas de movilidad reducida reconocida (conductores o no) que dispongan de la documentación administrativa acreditativa.
 – Vehículos turismos, mixtos adaptables o de transporte de mercancías hasta 3.500 kg de MMA o MMC si llevan visible en la luna delantera, lado derecho inferior, alguno de los distintivos ambientales tipo 0, ECO o C (solo gasolina Euro 6), que constan en el Registro de vehículos.
 1.1.2.2 Val d'Aran: N-320 y C-28.
-En la N-230 entre el pk 151 en el Túnel de Vielha (boca sur) y el pk 187 en Bausen (frontera francesa), los vehículos de todo tipo o conjunto de vehículos que superen los 7.500 kg de masa máxima autorizada (MMA) o masa máxima de conjunto (MMC) no pueden circular en los horarios siguientes:
+En la N-230, entre el PK 151 en el Túnel de Vielha (boca sur) y el PK 187 en Bausen (frontera francesa), los vehículos de todo tipo o conjuntos de vehículos que superen los 7.500 kg de masa máxima autorizada (MMA) o masa máxima del conjunto (MMC) no pueden circular en los horarios siguientes:
 Los sábados entre el 13 de julio y el 7 de septiembre: de 8:00 a 12:00 h.
 Los domingos y festivos entre el 14 de julio y el 8 de septiembre: de 17:00 a 20:00 h.
 Entre enero y el 14 de abril y entre el 13 de diciembre y el 29 de diciembre, incluidos:
 Los viernes de 19:00 a 22:00 h, en sentido Francia.
 Los sábados de 8:00 a 12:00 h.
-Los domingos de 17:00 a 20:00 h.
-En la C-28, entre el pk 23 en Vielha e Mijaran y el pk 34 en Salardú, los vehículos de todo tipo o conjuntos de vehículos que superen los 7.500 kg de masa máxima autorizada (MMA) o masa máxima de conjunto (MMC) no pueden circular en los horarios siguientes:
+Los domingos y festivos, de 17:00 a 20:00 h.
+El viernes 19 de abril, de 8:00 a 12:00 h.
+El domingo 21 de abril, de 16:00 a 20:00 h.
+El lunes 22 de abril, de 16:00 a 20:00 h.
+En la C-28, entre el PK 23 en Vielha e Mijaran y el PK 34 en Salardú, los vehículos de todo tipo o conjuntos de vehículos que superen los 7.500 kg de masa máxima autorizada (MMA) o masa máxima del conjunto (MMC) no pueden circular en los horarios siguientes:
 Entre enero y el 14 de abril y entre el 13 de diciembre y el 29 de diciembre, incluidos:
-Los viernes de 19:00 a 22:00 h, en sentido Francia.
+Los viernes de 19:00 a 22:00 h, en sentido Salardú.
 Los sábados de 8:00 a 12:00 h.
-Los domingos de 17:00 a 20:00 h.
+Los domingos y festivos, de 17:00 a 20:00 h.
+El viernes 19 de abril, de 8:00 a 12:00 h.
+El domingo 21 de abril, de 16:00 a 20:00 h.
+El lunes 22 de abril, de 16:00 a 20:00 h.
 1.1.2.3 N-II, N-240 y N-340.
 Los vehículos o conjuntos de vehículos de transporte de mercancías de 4 o más ejes y que también superen las 26 toneladas de MMA o MMC no pueden circular:
 a) Por la N-II desde el pk 773,5 en La Jonquera hasta el pk 709 en Fornells de la Selva, en los dos sentidos, razón por la cual los vehículos afectados por esta restricción pueden utilizar como itinerario preferente el delimitado por la AP-7/E-15, entre las salidas número 8, Riudellots de la Selva, y número 2, La Jonquera (sur).
@@ -119,6 +125,7 @@ El Servicio Catalán de Tráfico puede dictar instrucciones por la realización 
 La Policía de la Generalidad-Mossos d'Esquadra puede permitir la circulación de los vehículos sometidos a las restricciones incluidas en el apartado 1 de esta Resolución por razones excepcionales, de emergencia o de servicio público. Por otra parte, la Policía de la Generalidad-Mossos d'Esquadra o la Subdirección General de Gestión del Tráfico, mediante señalización circunstancial o variable, puede habilitar, sin necesidad de acompañamiento policial, la circulación de vehículos o conjuntos de vehículos especiales, tanto si tienen autorización especial de circulación como si no, por autopistas, autovías o vías desdobladas en caso de imperativos asociados a declaraciones de emergencia vinculada a la activación de planes de protección civil, con independencia de que puedan desarrollar una velocidad mínima de circulación o que sea de tipo agrícola. Estos vehículos (por ejemplo, conjuntos de vehículos agrícolas de ADF), en estos casos, deben doblar la señalización luminosa rotativa V-2 en la parte posterior y deben situarla de manera que sea lo más visible posible.
 2.5 Supuesto excepcional de levantamiento de restricciones.
 En los días, horas y vías afectados por estas restricciones, después de la valoración técnica favorable de la Subdirección General de Gestión del Tráfico, la dirección del Servicio Catalán de Tráfico, de forma genérica y general, puede dejar sin efecto las restricciones en determinados días, horas y vías, si con una semana de antelación se da aviso en la propia web corporativa y en las principales asociaciones de transportistas o equivalentes. También se deberán trasladar necesariamente estas instrucciones a la Policía de la Generalidad-Mossos d'Esquadra con la antelación indicada.
+Se modifica el apartado 1.1.2.2 por Resolución INT/1001/2019, de 16 de abril. Ref. BOE-A-2019-7349
 ANEXO A
 Calendario de restricciones por la celebración de pruebas y actividades deportivas y recreativas o de cualquier tipo que supongan afectaciones al tráfico ordinario
 ANEXO B
