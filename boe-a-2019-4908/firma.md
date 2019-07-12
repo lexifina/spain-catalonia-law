@@ -130,6 +130,7 @@ ANEXO A
 Calendario de restricciones por la celebración de pruebas y actividades deportivas y recreativas o de cualquier tipo que supongan afectaciones al tráfico ordinario
 ANEXO B
 Calendario de días, horas y vías con restricciones a la circulación de determinados grupos de vehículos para el 2019
+Se modifica por la Resolución de 17 de junio de 2019. Ref. BOE-A-2019-10290
 ANEXO C
 Itinerarios de circulación de vehículos o conjuntos de vehículos con carga de mercancías peligrosas en régimen ADR que llevan paneles naranja de peligro reglamentarios
 1. Rutas básicas obligatorias generales (véase plano RIMP de Cataluña y del Camp de Tarragona):
