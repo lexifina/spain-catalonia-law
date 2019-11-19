@@ -1,0 +1,8 @@
+Artículo 18 bis. Elección de los Directores de los medios que gestionan el servicio.
+1. Los Directores de los medios que gestionan el servicio público de comunicación audiovisual al que se refiere el artículo 18.1 son elegidos de acuerdo con el siguiente procedimiento:
+a) El Consejo de Gobierno de la Corporación Catalana de Medios Audiovisuales debe regular y convocar un procedimiento público de selección de candidatos para cubrir el cargo de Director o Directora de los medios.
+b) La convocatoria debe especificar los méritos a valorar, entre los cuales hay que considerar de forma especial la experiencia en el ejercicio de funciones de administración, de alta dirección, de control o de asesoramiento, o funciones de responsabilidad similar, en entidades públicas o privadas, preferentemente del sector audiovisual o de los medios de comunicación.
+c) El proceso de selección debe incluir obligatoriamente una propuesta de objetivos, que deben presentar los candidatos, sobre la organización y la actuación de la Corporación Catalana de Medios Audiovisuales, teniendo en cuenta el contrato-programa.
+2. Corresponde al Consejo de Gobierno resolver el procedimiento de selección. Para resolverlo, el Consejo de Gobierno puede contar con la participación de expertos independientes de reconocido prestigio en el sector audiovisual, designados de acuerdo con los criterios establecidos por las normas que regulan el procedimiento público de selección.
+3. El nombramiento y la separación de los Directores de los medios que gestionan el servicio público de comunicación audiovisual se realiza de acuerdo con lo establecido por el artículo 11.d.
+Se añade por el art. 13 de la Ley 7/2019, de 14 de noviembre. Ref. BOE-A-2019-17098
