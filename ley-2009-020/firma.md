@@ -124,13 +124,12 @@ I.2.b) Actividades sometidas a autorización ambiental y a un proceso de decisi�
 12.52 Pistas permanentes de carreras y de pruebas para vehículos motorizados, con una superficie superior a 5 hectáreas.
 12.54 Parques temáticos con una superficie superior a 20 hectáreas.
 I.3 Actividades sometidas al régimen de declaración de impacto ambiental con una autorización sustantiva.
-1. Energía.
-1.11 Parques eólicos con un número de aerogeneradores superior a 5 o de potencia instalada superior a 10 MW, o bien que estén a menos de 2 kilómetros de otro parque eólico.
-1.13 Instalaciones fotovoltaicas de superficie superior a 6 hectáreas ubicadas en suelo no urbanizable.
+1. Energía (Suprimido).
 2. Minería.
 2.1 Actividades extractivas e instalaciones de los recursos explotados.
 2.4 Explotaciones mineras subterráneas, operaciones conexas y perforaciones geotérmicas.
 2.5 Explotaciones ubicadas en terreno de dominio público hidráulico para extracciones superiores a 20.000 m3/año o en zona de policía de lecho cuya superficie supere las 3 hectáreas.
+Se suprime el apartado I.3.1 por la disposición adicional 2.3 del Decreto-ley 16/2019, de 26 de noviembre. Ref. BOE-A-2020-445#da-2
 Se modifica el apartado I.2.a) por el art. 80.20 de la Ley 3/2015, de 11 de marzo. Ref. BOE-A-2015-3637.
 Se modifica por el art. 49 de la Ley 9/2011, de 29 de diciembre. Ref. BOE-A-2012-546.
 Téngase en cuenta la disposición transitoria 1.1.
@@ -285,7 +284,7 @@ Actividades sometidas al régimen de comunicación
 1.6 Generadores de vapor con una capacidad de hasta 4 toneladas de vapor por hora.
 1.7 Generadores de calor con una potencia calorífica de hasta 2.000 termias por hora.
 1.12 Instalaciones industriales, y de otros tipos, para la fabricación de energía eléctrica, vapor y agua caliente, con una potencia térmica de hasta 0.2 MW.
-1.13 Instalaciones fotovoltaicas con una superficie inferior a 6 hectáreas y una potencia superior a 100 kW.
+1.13 (Suprimido).
 1.14 Centrales hidroeléctricas con una potencia igual o inferior a 10 MW.
 3. Producción y transformación de metales.
 3.4 Fundiciones de metales ferrosos con una capacidad de producción de hasta 2 toneladas por día.
@@ -396,6 +395,7 @@ Actividades sometidas al régimen de comunicación
 12.57 (Suprimido).
 12.58 (Suprimido).
 12.59. Almacenaje o manipulación de biomasa de origen vegetal (aprovechamientos forestales, tratamientos silvícolas, restos de jardinería, cultivos energéticos, serrín...) o de productos de esta biomasa (leña, pella, astilla, briquetas...) con una capacidad inferior a 10.000 m3.
+Se suprime el epígrafe 1.13 del apartado 1 por la disposición adicional 2.4 del Decreto-ley 16/2019, de 26 de noviembre. Ref. BOE-A-2020-445#da-2
 Se añade el epígrafe 1.14 al apartado 1 por el art. 196.2 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#a1-107
 Se suprimen varios epígrafes y se añade el epígrafe 12.59 por los arts. 20.2 y 20.3 de la Ley 16/2015, de 24 de julio. Ref. BOE-A-2015-9208.
 Se suprimen varios epígrafes y se modifica el epígrafe 12.46 por los arts. 80.22 y 80.23 de la Ley 3/2015, de 11 de marzo. Ref. BOE-A-2015-3637.
