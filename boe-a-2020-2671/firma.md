@@ -176,6 +176,8 @@ N-420 | 782 | Caseres. | 894 | Tarragona.
 N-340 | 1.058,00 | Alcanar (límite Castellón). | 1.203,00 | L'Arboç (límite Barcelona).
 ANEXO B
 Calendario de días, horas y vías con restricciones a la circulación de determinados grupos de vehículos para 2020
+Téngase en cuenta que se suspenden las restricciones a la circulación aplicables a los vehículos y conjuntos de transportes de mercancías en general, incluidos los que realizan transportes especiales, a los vehículos especiales y a los vehículos y conjuntos que transportan mercancías peligrosas, previstas en este anexo, con objeto de garantizar el suministro de bienes esenciales y abastecimiento, durante la vigencia del estado de alarma y sus secesivas prórrogas, por el art. 4 de la Orden INT/262/2020, de 20 de marzo. Ref. BOE-A-2020-3946#a4
+Se suspenden las restricciones a la circulación aplicables a los vehículos y conjuntos de transportes de mercancías en general, incluidos los que realizan transportes especiales, a los vehículos especiales y a los vehículos y conjuntos que transportan mercancías peligrosas, previstas en este anexo, durante la vigencia del estado de alarma y sus secesivas prórrogas, por el art. 4 de la Orden INT/262/2020, de 20 de marzo. Ref. BOE-A-2020-3946#a4
 ANEXO C
 Itinerarios de circulación de vehículos o conjuntos de vehículos con carga de mercancías peligrosas en régimen ADR que llevan los paneles naranja de peligro reglamentarios
 1. Rutas básicas obligatorias generales (véase plano XIMP de Cataluña y de El Camp de Tarragona)
