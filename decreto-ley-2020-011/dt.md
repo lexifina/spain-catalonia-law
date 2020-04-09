@@ -1,0 +1,3 @@
+Disposición transitoria.
+1. Lo dispuesto en este Decreto-ley permanecerá vigente hasta que no se levante el estado de alarma decretado por el Real Decreto 463/2020, de 14 de marzo, que declara el estado de alarma para la gestión de la situación de crisis sanitaria ocasionada por la COVID-19, excepto que se establezca otro plazo de vigencia y salvo los casos en que se establece una plazo diferente.
+2. La prestación económica de emergencia prevista en el artículo 7 de este Decreto-ley se debe otorgar en los supuestos derivados de la crisis sanitaria derivada de la COVID-19, independientemente de la fecha de levantamiento del estado de alarma decretado por el Real Decreto 463/2020, de 14 de marzo.
