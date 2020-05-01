@@ -5,7 +5,7 @@ ANEXOS
 ANEXO I
 I.1 Actividades sometidas al régimen de evaluación de impacto ambiental y de autorización ambiental, sujetos a la Directiva 96/61/CE del Consejo, de 24 de septiembre de 1996, de prevención y control integrados de la contaminación
 1. Energía.
-1.1 Instalaciones para la combustión con una potencia térmica de combustión superior a 50 megavatios (MW). Se incluyen las instalaciones de producción de energía eléctrica en régimen ordinario o en régimen especial en las que se produce la combustión de combustibles fósiles, residuos o biomasa, y también las instalaciones de cogeneración, calderas, hornos, generadores de vapor o cualquier otro equipamiento o instalación de combustión existente en una industria, tanto si ésta es su actividad principal como si no lo es.
+1.1 Instalaciones para la combustión con una potencia térmica de combustión igual o superior a 50 MW. Se incluyen las instalaciones de producción de energía eléctrica en régimen ordinario o en régimen especial, en las que se produzca la combustión de combustibles fósiles, residuos o biomasa, y también las instalaciones de cogeneración, calderas, hornos, generadores de vapor o cualquier otro equipamiento o instalación de combustión existente en una industria, tanto si esta es su actividad principal como si no lo es.
 1.2 Refinerías de petróleo y de gas.
 1.3 Coquerías.
 1.4 Instalaciones para la gasificación y la licuefacción del carbón.
@@ -129,6 +129,7 @@ I.3 Actividades sometidas al régimen de declaración de impacto ambiental con u
 2.1 Actividades extractivas e instalaciones de los recursos explotados.
 2.4 Explotaciones mineras subterráneas, operaciones conexas y perforaciones geotérmicas.
 2.5 Explotaciones ubicadas en terreno de dominio público hidráulico para extracciones superiores a 20.000 m3/año o en zona de policía de lecho cuya superficie supere las 3 hectáreas.
+Se modifica el epígrafe 1.1 del apartado I.1 por el art. 143.5 de la Ley 5/2020, de 29 de abril. Ref. BOE-A-2020-5569
 Se suprime el apartado I.3.1 por la disposición adicional 2.3 del Decreto-ley 16/2019, de 26 de noviembre. Ref. BOE-A-2020-445#da-2
 Se modifica el apartado I.2.a) por el art. 80.20 de la Ley 3/2015, de 11 de marzo. Ref. BOE-A-2015-3637.
 Se modifica por el art. 49 de la Ley 9/2011, de 29 de diciembre. Ref. BOE-A-2012-546.
@@ -136,7 +137,7 @@ Téngase en cuenta la disposición transitoria 1.1.
 ANEXO II
 Actividades sometidas al régimen de licencia ambiental
 1. Energía.
-1.1 Instalaciones para la combustión con una potencia térmica de combustión superior a 2 MW y hasta 50 MW. Se incluyen las instalaciones de producción de energía eléctrica en régimen ordinario o en régimen especial, en las que se produzca la combustión de combustibles fósiles, residuos o biomasa, y también las instalaciones de cogeneración, calderas, hornos, generadores de vapor o cualquier otro equipamiento o instalación de combustión existente en una industria, tanto si ésta es su actividad principal como si no lo es.
+1.1 Instalaciones para la combustión con una potencia térmica de combustión igual o superior a 5 MW e inferior a 50 MW. Se incluyen las instalaciones de producción de energía eléctrica en régimen ordinario o en régimen especial, en las que se produzca la combustión de combustibles fósiles, residuos o biomasa, y también las instalaciones de cogeneración, calderas, hornos, generadores de vapor o cualquier otro equipamiento o instalación de combustión existente en una industria, tanto si esta es su actividad principal como si no lo es.
 1.6 Generadores de vapor de capacidad superior a 4 toneladas de vapor por hora.
 1.7 Generadores de calor de potencia calorífica superior a 2.000 termias por hora.
 1.10 Carbonización de la madera (carbón vegetal), cuando se trate de una actividad fija extensiva.
@@ -150,7 +151,7 @@ Actividades sometidas al régimen de licencia ambiental
 3.3.a) Laminado en caliente, con una capacidad de hasta 20 toneladas por hora de acero en bruto.
 3.3.b) Forja con martillos, con una energía de impacto de hasta 50 kJ, o cuando la fuente térmica utilizada sea de hasta 20 MW.
 3.3.c) Aplicación de capas de protección de metal fundido, con una capacidad de tratamiento de hasta 2 toneladas por hora de metal base.
-3.4 Fundiciones de metales ferrosos, con una capacidad de producción superior a 2 toneladas por día y de hasta 20 toneladas por día.
+3.4 Fundiciones de metales ferrosos, con una capacidad de producción de hasta 20 toneladas por día.
 3.6 Tratamiento de escoria siderúrgica y de fundición.
 3.8 Preparación, almacenaje a la intemperie, carga, descarga, manutención y transporte de minerales dentro de las plantas metalúrgicas.
 3.9.b) Instalaciones para la fusión de metales no ferrosos, incluida la aleación y los productos de recuperación (refinado, moldeo en fundición), con una capacidad de fusión de hasta 4 toneladas por día, para el plomo y el cadmio, y de hasta 20 toneladas por día para otros metales.
@@ -176,7 +177,7 @@ Actividades sometidas al régimen de licencia ambiental
 4.3 Fabricación de productos de fibrocemento, salvo los que contengan amianto.
 4.5 Instalaciones de fabricación de vidrio, incluida la fibra de vidrio, con una capacidad de fusión de hasta 20 toneladas por día.
 4.6 Instalaciones para la fundición de materiales minerales, incluida la fabricación de fibras minerales, con una capacidad de fundición de hasta 20 toneladas por día y superior a 1 tonelada por día.
-4.7 Fabricación de productos cerámicos para construcción, refractarios, porcelana, gres, arcilla plástica y similares en hornos con una capacidad de hasta 75 toneladas por día.
+4.7 Instalaciones para la fabricación de productos cerámicos mediante horneado, en particular de tejas, ladrillos, ladrillos refractarios, azulejos, gres cerámico o porcelanas con una capacidad de producción de hasta 75 toneladas/día y superior a 10 toneladas/día.
 4.9 Instalaciones de calcinación y de sinterización de minerales metálicos, con una capacidad de hasta 5.000 toneladas por año de mineral procesado.
 4.12 Plantas de aglomerado asfáltico, con una capacidad de producción de hasta 250 toneladas por hora.
 4.13 Plantas de preparación y ensacado de cementos especiales y/o morteros.
@@ -204,14 +205,17 @@ Actividades sometidas al régimen de licencia ambiental
 6. Industria textil, de la piel y cueros.
 6.1 Instalaciones para el tratamiento previo (operaciones de lavado, blanqueo, mercerización) o para el tinte de fibras o productos textiles, cuando la capacidad de tratamiento sea de hasta 10 toneladas por día.
 6.2 Instalaciones para el abono (operaciones previas, ribera, abono, post abono), con una capacidad de tratamiento del producto acabado de hasta 12 toneladas por día.
+6.11 Producción de nylon, caprolactama u otros productos intermedios en la fabricación textil.
 7. Industria alimenticia y del tabaco.
 7.1 Mataderos que tengan una capacidad de producción de canales de hasta 50 toneladas por día y superior a 2 toneladas por día.
 7.2 (Suprimido)
+7.2.b) Materia prima vegetal, con una capacidad de elaboración de productos acabados inferior o igual a 300 toneladas por día (valor medio trimestral) y con instalaciones para el secado con potencia térmica de combustión superior a 2 MW e inferior a 50 MW.
 7.4 Producción de almidón.
 7.8 Tratamiento, manipulación y procesamiento de productos del tabaco.
 7.9 Instalaciones industriales para elaborar grasas y aceites vegetales y animales, instalaciones industriales para elaborar cerveza y malta, instalaciones industriales para fabricar féculas, instalaciones industriales para elaborar confituras y almíbares, instalaciones industriales para fabricar harina de pez y aceite de pez, siempre y cuando en la instalación se den, de forma simultánea, las circunstancias siguientes: a) que esté situada fuera de polígonos industriales, b) que esté situada a menos de 500 metros de una zona residencial, c) que ocupe una superficie de al menos 1 hectárea. Las actividades incluidas en este epígrafe deben someterse previamente a la solicitud de la licencia a la decisión del órgano ambiental competente del Departamento de Medio Ambiente y Vivienda respecto de la necesidad de someterse o no a la evaluación de impacto ambiental.
 8. Industria de la madera, del corcho y de muebles.
 8.2 Impregnación o tratamiento de la madera con aceite de creosota o alquitrán.
+8.5 Tratamiento del corcho y producción de aglomerados de corcho y linóleos.
 9. Industria del papel.
 9.2 Instalaciones industriales para la fabricación de papel y cartón, con una capacidad de producción de hasta 20 toneladas por día y superior a 5 toneladas por día.
 9.4 Instalaciones de producción y tratamiento de celulosa, con una capacidad de producción de hasta 20 toneladas por día.
@@ -240,7 +244,8 @@ Actividades sometidas al régimen de licencia ambiental
 11.1.n) Plazas de pollo de engorde, con una capacidad de entre 55.000 y 85.000 reses.
 11.2 Instalaciones para la acuicultura intensiva, con una capacidad de producción superior a 500 toneladas por año.
 Las actividades que constan en estos apartados 11.1 y 11.2 de este anexo están sometidas a declaración de impacto ambiental.
-11.9 Almacenaje colectivo de deyecciones ganaderas.
+11.9 Almacenamiento en destino de deyecciones ganaderas líquidas o de la fracción líquida resultante del tratamiento en origen de las deyecciones ganaderas.
+11.10. Almacenamiento y/o maduración en destino de deyecciones ganaderas sólidas, o de la fracción sólida resultante del tratamiento en origen de las deyecciones ganaderas, con una superficie de la instalación superior a 1.000 m2.
 12. Otras actividades.
 12.2 Instalaciones para el tratamiento de superficie de materiales, objetos o productos, con la utilización de disolventes orgánicos, en particular para aprestarlos, estamparlos, revestirlos y desengrasarlos, impermeabilizarlos, encolarlos, laquearlos, pigmentarlos, limpiarlos o impregnarlos, con una capacidad de consumo de hasta 150 kg de disolvente por hora y de hasta 200 toneladas por año, con una superficie superior a 500 m2.
 12.3 Aplicación de barnices no grasos, pinturas, lacas y tintes de impresión sobre cualquier soporte, y la cocción y el secado correspondientes, cuando la cantidad almacenada de estas sustancias en los talleres es superior a 1.000 kg y/o la superficie sea superior a 500 m2.
@@ -272,6 +277,7 @@ Las actividades que constan en estos apartados 11.1 y 11.2 de este anexo están 
 12.52 Pistas permanentes de carreras y de pruebas para vehículos motorizados, con una superficie de hasta 5 hectáreas.
 12.54 Parques temáticos con una superficie de hasta 20 hectáreas.
 12.59. Almacenaje o manipulación de biomasa de origen vegetal (aprovechamientos forestales, tratamientos silvícolas, restos de jardinería, cultivos energéticos, serrín...) o de productos de esta (leña, pella, astilla, briqueta...) con una capacidad superior a 10.000 m3.
+Se modifican los epígrafes 1.1, 3.4. 4.7. 11.9 y se añaden los epígrafes 6.11, 7.2.b), 8.5 y 11.10 por el art. 143.6 a 13 de la Ley 5/2020, de 29 de abril. Ref. BOE-A-2020-5569
 Se añade el epígrafe 1.14 al apartado 1 por el art. 196.1 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#a1-107
 Se añade el epígrafe 12.59 por el art. 20.1 de la Ley 16/2015, de 24 de julio. Ref. BOE-A-2015-9208.
 Se suprimen los epígrafes 12.36 y 12.44.a) por el art. 80.21 de la Ley 3/2015, de 11 de marzo. Ref. BOE-A-2015-3637.
@@ -280,14 +286,14 @@ Ténganse en cuenta las disposiciones transitorias 1.2 y 2.1, modificada esta ú
 ANEXO III
 Actividades sometidas al régimen de comunicación
 1. Energía.
-1.1 Instalaciones de combustión con una potencia térmica de combustión de hasta 2 MW. Se incluyen las instalaciones para la producción de energía eléctrica en régimen ordinario o en régimen especial en las que se produzca la combustión de combustibles fósiles, y también las instalaciones de cogeneración, calderas, hornos, generadores de vapor o cualquier otro equipamiento o instalación de combustión existente en una industria, tanto si ésta es su actividad principal como si no lo es.
+1.1 Instalaciones de combustión con una potencia térmica de combustión igual o superior a 250 kW e inferior a 5 MW. Se incluyen las instalaciones para la producción de energía eléctrica en régimen ordinario o en régimen especial en las que se produzca la combustión de combustibles fósiles, y también las instalaciones de cogeneración, calderas, hornos, generadores de vapor o cualquier otro equipamiento o instalación de combustión existente en una industria, tanto si esta es su actividad principal como si no lo es.
 1.6 Generadores de vapor con una capacidad de hasta 4 toneladas de vapor por hora.
 1.7 Generadores de calor con una potencia calorífica de hasta 2.000 termias por hora.
 1.12 Instalaciones industriales, y de otros tipos, para la fabricación de energía eléctrica, vapor y agua caliente, con una potencia térmica de hasta 0.2 MW.
 1.13 (Suprimido).
 1.14 Centrales hidroeléctricas con una potencia igual o inferior a 10 MW.
 3. Producción y transformación de metales.
-3.4 Fundiciones de metales ferrosos con una capacidad de producción de hasta 2 toneladas por día.
+3.4 (Derogado).
 3.5 Fabricación de tubos y perfiles.
 3.7 Industria para la transformación de metales ferrosos.
 3.10 Producción y primera transformación de metales preciosos.
@@ -302,6 +308,7 @@ Actividades sometidas al régimen de comunicación
 3.32 Fabricación de artículos de joyería, orfebrería, argentería, bisutería y similares.
 4. Industrias minerales y de la construcción.
 4.6 Instalaciones para la fundición de materiales minerales, incluida la fabricación de fibras minerales, con una capacidad de fundición de hasta 1 tonelada por día.
+4.7. Instalaciones para la fabricación de productos cerámicos mediante horneado, en particular de tejas, ladrillos, ladrillos refractarios, azulejos, gres cerámico o porcelanas con una capacidad de producción de hasta 10 toneladas/día.
 4.14 Instalaciones para el almacenaje de productos pulverulentos o granulados, con una capacidad de hasta 1.000 toneladas.
 4.16 Instalaciones para el corte, el aserrado y el pulido, por medios mecánicos, de rocas y piedras naturales, con una capacidad de producción de hasta 50 toneladas por día.
 4.18 Instalaciones para el arenado con arena, grava menuda u otros abrasivos.
@@ -320,7 +327,7 @@ Actividades sometidas al régimen de comunicación
 7. Industria alimenticia y del tabaco.
 7.1 Mataderos con una capacidad de producción de canales de hasta 2 toneladas por día.
 7.2.a) Materia prima animal (que no sea la leche), con una capacidad de elaboración de productos acabados de hasta 75 toneladas por día.
-7.2.b) Materia prima vegetal, con una capacidad de producción de productos acabados de hasta 300 toneladas por día (media trimestral).
+7.2.b) 7.2.b) Materia prima vegetal, con una capacidad de elaboración de productos acabados inferior o igual a 300 toneladas por día (valor medio trimestral) y con instalaciones para el secado con potencia térmica de combustión inferior o igual a 2 MW.
 7.3 Tratamiento y transformación de la leche, con una cantidad de 200 toneladas por día (valor medio anual) de leche recibida.
 7.5 Instalaciones para el almacenaje de grano y harina.
 7.6 Carnicerías con obrador.
@@ -328,7 +335,7 @@ Actividades sometidas al régimen de comunicación
 8. Industria de la madera, del corcho y de los muebles.
 8.3 Fabricación de muebles.
 8.4 Fabricación de chapas, tablones contrachapados y enlistonados con partículas aglomeradas o con fibras, y fabricación de otros tablones y plafones.
-8.5 Tratamiento del corcho y producción de aglomerados de corcho y linóleos.
+8.5 (Derogado).
 8.6 Instalaciones de transformación del corcho en panas de corcho. Hervidores de corcho.
 8.7 Aserrado y despiece de la madera y del corcho.
 8.8 Tratamiento de corcho bruto y fabricación de productos en corcho.
@@ -337,7 +344,7 @@ Actividades sometidas al régimen de comunicación
 9.2 Instalaciones industriales para la fabricación de papel y cartón, con una capacidad de producción de hasta 5 toneladas por día.
 9.5 Instalaciones industriales para la manipulación de papel y cartón, con una capacidad de producción de hasta 20 toneladas por día.
 11.1 Instalaciones ganaderas para la cría intensiva que dispongan de:
-11.1.a) Emplazamientos para aves de corral, entendiendo que se trata de gallinas ponedoras o del número equivalente para otras especies de aves, con una capacidad de hasta 40.000 reses.
+11.1.a) Emplazamientos para aves de corral, entendiendo que se trata de gallinas ponedoras, o del número equivalente para otras especies de aves, con una capacidad de hasta 40.000 y superior a 30 reses.
 11.1.b.i) Plazas para cerdos de engorde (de más de 30 kg), con una capacidad de hasta 2.000 y superior a 10 reses.
 11.1.b.ii) Plazas para cerdos de engorde (de más de 20 kg), con una capacidad de hasta 2.000 y superior a 10 reses.
 11.1.c.i) Plazas para cerdas reproductoras, con una capacidad de hasta 750 y superior a 5 reses.
@@ -347,7 +354,7 @@ Actividades sometidas al régimen de comunicación
 11.1.f) Plazas de ovino y cabrío, con una capacidad de hasta 2.000 y superior a 10 reses.
 11.1.g) Plazas de equino, con una capacidad de hasta 500 y superior a 5 reses.
 11.1.h) Plazas de cualquiera otra especie animal no especificadas en los anexos de la presente ley, equivalentes a 5 unidades ganaderas o más, tomando como base de referencia el vacuno de leche (1 UR = 1 plaza de vacuno de leche).
-11.1.j) Plazas de ganado porcino y/u ovino, de diferentes aptitudes, tanto si tienen plazas para otras especies animales como si no las tienen, excepto si disponen de plazas de aves de corral, cuya suma esté por encima de 3 UGP y hasta 500 UGP, definidas a partir de las equivalencias de procedimiento entre instalaciones que establece la Directiva 2008/1/CE, y tomando como base de referencia el vacuno de leche (1 UGP= 1 plaza de vacuno de leche).
+11.1.j) Plazas de ganado porcino y/u bovino, de diferentes aptitudes, tanto si tienen plazas para otras especies animales como si no las tienen, excepto si disponen de plazas de aves de corral, cuya suma sea de más de 3 UGP y de hasta 500 UGP, definidas a partir de las equivalencias de procedimiento entre instalaciones que establece la Directiva 2008/1/CE, y tomando como base de referencia el vacuno de leche (1 UGP = 1 plaza de vacuno de leche).
 11.1.k) Plazas de aves de corral y de otras especies animales, incluidos el ganado porcino y/o el vacuno, cuya suma sea superior a 1 y hasta 500 UGP, definidas a partir de las equivalencias de procedimiento entre instalaciones que establece la Directiva 2008/1/CE, y tomando como base de referencia el vacuno de leche (1 UGP = 1 plaza de vacuno de leche).
 11.1.l) Instalaciones ganaderas para la cría semiintensiva, entendiendo como tal el sistema en que la alimentación se basa fundamentalmente en el pasto, pero los animales están estabulados durante un cierto periodo del año, normalmente el invierno, o durante la noche. La capacidad de estas explotaciones, para clasificarlas en cada uno de los anexos, se calcula proporcionalmente a los periodos en que los animales permanecen en las instalaciones, y de una manera genérica equivale al 33% de la capacidad de las instalaciones de cría intensiva.
 11.1.m) Plazas de conejo, con una capacidad de hasta 20.000 y superior a 1.000 reses.
@@ -355,11 +362,12 @@ Actividades sometidas al régimen de comunicación
 11.2.a) Instalaciones de acuicultura intensiva, con una capacidad de producción de hasta 500 toneladas al año.
 11.2.b) Instalaciones de acuicultura extensiva.
 11.3 Instalaciones para la eliminación y el aprovechamiento de canales o restos de animales, con una capacidad de tratamiento de hasta 10 toneladas por día.
-11.4 Deshidratación artificial de forrajes.
+11.4 (Derogado).
 11.5 Secado del poso del vino.
 11.6 Secado del lúpulo con azufre.
-11.7 Secado de grano y otras materias vegetales por procedimientos artificiales.
+11.7 (Derogado).
 11.8 (Suprimido).
+11.10 Almacenamiento y/o maduración en destino de deyecciones ganaderas sólidas, o de la fracción sólida resultante del tratamiento en origen de las deyecciones ganaderas, con una superficie de la instalación inferior o igual a 1.000 m2.
 12. Otras actividades.
 12.2 Instalaciones para el tratamiento de superficie de materiales, objetos o productos con la utilización de disolventes orgánicos, en particular para aprestarlos, estamparlos, revestirlos y desengrasarlos, impermeabilizarlos, encolarlos, laquearlos, limpiarlos o impregnarlos, con una capacidad de consumo de disolvente de hasta 150 kg por hora y de 20 toneladas por año y una superficie de hasta 500 m2.
 12.3 Aplicación de barnices no grasos, pinturas, lacas y tintes de impresión sobre cualquier soporte, y la cocción y el secado correspondientes, cuando la cantidad almacenada de estas sustancias en los talleres sea de hasta 1.000 kg como máximo y la superficie de hasta 500 m2.
@@ -395,6 +403,7 @@ Actividades sometidas al régimen de comunicación
 12.57 (Suprimido).
 12.58 (Suprimido).
 12.59. Almacenaje o manipulación de biomasa de origen vegetal (aprovechamientos forestales, tratamientos silvícolas, restos de jardinería, cultivos energéticos, serrín...) o de productos de esta biomasa (leña, pella, astilla, briquetas...) con una capacidad inferior a 10.000 m3.
+Se derogan los epígrafes 3.4, 8.5, 11.4 y 7, se modifican los epígrafes 1.1, 7.2,b), 11.1a) y j) y se añaden los epígrafes 11.10 y 4.7 por el art. 143.14 a 22 de la Ley 5/2020, de 29 de abril. Ref. BOE-A-2020-5569
 Se suprime el epígrafe 1.13 del apartado 1 por la disposición adicional 2.4 del Decreto-ley 16/2019, de 26 de noviembre. Ref. BOE-A-2020-445#da-2
 Se añade el epígrafe 1.14 al apartado 1 por el art. 196.2 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#a1-107
 Se suprimen varios epígrafes y se añade el epígrafe 12.59 por los arts. 20.2 y 20.3 de la Ley 16/2015, de 24 de julio. Ref. BOE-A-2015-9208.
@@ -446,8 +455,9 @@ d) Vertidos no domésticos a sistemas de saneamiento que vayan a cargo de la adm
 a) Depósitos controlados de residuos de la construcción para garantizar la adecuación de la actividad al Programa de gestión de residuos de la construcción de Cataluña.
 b) Instalaciones para la gestión de los residuos municipales, que no consistan en centros de recogida, para garantizar su adecuación al Programa de gestión de residuos municipales de Cataluña y al Plan territorial sectorial de infraestructuras de gestión de residuos municipales de Cataluña.
 c) Las actividades comprendidas en el anexo II, en los apartados 10.9, 10.10 y 10.11, que tengan una capacidad igual o superior a 2.000 toneladas.
-d) Las actividades comprendidas en el anexo II en los apartados 10.1, 10.2 (excepto centros de recogida), 10.5, 10.7 (excepto plantas de valorización de residuos de la construcción) y 10.8.
-3. Se someten a un informe del órgano ambiental del departamento competente en materia de protección del ambiente atmosférico las actividades comprendidas en el anexo II en los apartados 1.1, 1.12, 3.2, 3.4, 3.6, 3.9.b, 3.12, 3.19, 3.21, 3.30, 3.31, 3.33, 4.1.a, 4.1.b, 4.1.c, 4.1.d, 4.2, 4.5, 4.6, 4.7, 4.9, 4.12, 4.13, 4.14, 4.17, 5.6, 5.8, 5.9, 5.10, 5.11, 5.14, 5.15, 5.16, 6.1, 6.2, 7.9, 8.2, 9.2, 9.4, 10.1, 10.4, 10.5, 10.9, 10.10, 10.11, 12.2, 12.3, 12.4, 12.6, 12.16, 12.22, 12.31, 12.39 y 12.41.
+d) Las actividades comprendidas en el anexo II, en los apartados 10.1, 10.2 (excepto centros de recogida), 10.5, 10.7 y 10.8.
+3. Se someten a un informe del órgano ambiental del departamento competente en materia de protección del ambiente atmosférico las actividades incluidas en el anexo II que estén clasificadas en el grupo A o B del Catálogo de actividades potencialmente contaminantes de la atmósfera (CAPCA) establecido por la Ley del Estado 34/2007, de 15 de noviembre, de calidad del aire y protección de la atmósfera, así como las actividades incluidas en el anexo II, epígrafes 3.30, 5.6, 5.10, 5.11, 5.16, 6.1, 6.2, 7.9, 8.2, 12.2, 12.3, 12.6, 12.16, 12.22 y 12.41, que estén clasificadas en el grupo C del CAPCA y utilicen disolventes en el proceso productivo.
+Se modifican los apartados 2.d) y 3 por el art. 143.23 y 24 de la Ley 5/2020, de 29 de abril. Ref. BOE-A-2020-5569
 Se modifica el apartado 3 por el art. 88.5 de la Ley 5/2012, de 20 de marzo. Ref. BOE-A-2012-4730.
 Se modifica por el art. 53 de la Ley 9/2011, de 29 de diciembre. Ref. BOE-A-2012-546.
 Por tanto, ordeno que todos los ciudadanos a los que sea de aplicación esta Ley cooperen en su cumplimiento y que los tribunales y autoridades a los que corresponda la hagan cumplir.

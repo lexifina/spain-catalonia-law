@@ -1,0 +1,1 @@
+Téngase en cuenta que se modifica la denominación del «Instituto Catalán de las Industrias Culturales» que pasa a denominarse «Instituto Catalán de las Empresas Culturales», por el art. 131.1 de la Ley 5/2020, de 29 de abril. Ref. BOE-A-2020-5569

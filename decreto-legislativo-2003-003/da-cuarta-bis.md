@@ -1,0 +1,3 @@
+Disposición adicional cuarta bis. Importe de la atribución de fondos para financiar el coste directo de explotación de los sistemas públicos de saneamiento durante el ejercicio 2020 en el supuesto de que este no resulte de un proceso de pública concurrencia.
+El importe de la atribución de recursos en concepto de coste directo de explotación de los sistemas públicos de saneamiento en el supuesto regulado por el artículo 55.1.a).2 para el ejercicio 2020 es el resultante de incrementar en un 8,5 % el importe certificado y validado por la Agencia Catalana del Agua como gasto directo de explotación para el ejercicio 2019.
+Se añade por el art. 148.14 de la Ley 5/2020, de 29 de abril. Ref. BOE-A-2020-5569

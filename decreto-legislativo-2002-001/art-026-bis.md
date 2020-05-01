@@ -1,0 +1,6 @@
+Artículo 26 bis.
+1. La adscripción o asignación de los bienes conlleva la obligación de conservación ordinaria a cargo del departamento o entidad al que esté asignado o adscrito.
+2. Los inmuebles propiedad de la Generalidad o de cuya posesión se disfruta en virtud de un título jurídico que conlleve obligaciones de mantenimiento, asignados a los departamentos o adscritos a las entidades en las que la Generalidad tiene participación mayoritaria, deben contar con planes plurianuales de mantenimiento elaborados por los departamentos o entidades según el caso.
+3. Los planes de mantenimiento, con el contenido y alcance que se establezca reglamentariamente mediante orden de la persona titular del departamento competente en materia de patrimonio, deben concretar anualmente el cumplimiento de sus prescripciones.
+4. Los planes de mantenimiento deben ser aprobados por el secretario general del departamento que tenga asignado el bien inmueble, o por el órgano de administración ordinario de la entidad que lo tenga adscrito, previo informe vinculante de la Dirección general del Patrimonio, a quien debe entregarse copia del plan aprobado por el ejercicio de sus funciones dominicales.
+Se añade por el art. 101.8 de la Ley 5/2020, de 29 de abril. Ref. BOE-A-2020-5569

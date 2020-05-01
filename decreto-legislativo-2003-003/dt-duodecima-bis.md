@@ -1,0 +1,3 @@
+Disposición transitoria duodécima bis. No exigibilidad del canon del agua a usos industriales efectuados por las entidades suministradoras que facturen menos de 20.000 metros cúbicos anuales.
+Durante las anualidades 2019, 2020 y 2021, el canon del agua correspondiente a los usos de abastecimiento realizados a través de las redes básicas, y, en general, el abastecimiento en alta de otros servicios públicos de distribución de agua potable no se exigirá a las entidades suministradoras que facturen menos de 20.000 metros cúbicos anuales.
+Se añade por el 2.14 de la Ley 5/2020, de 29 de abril. Ref. BOE-A-2020-5569

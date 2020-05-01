@@ -1,0 +1,3 @@
+Artículo 3 bis.3-1. Hecho imponible.
+Constituye el hecho imponible de la tasa la realización de sesiones fotográficas, filmaciones y similares en los espacios y equipamientos adscritos al departamento competente en materia de justicia directamente o mediante sus entes instrumentales.
+Se añade por el art. 27 de la Ley 5/2020, de 29 de abril. Ref. BOE-A-2020-5569

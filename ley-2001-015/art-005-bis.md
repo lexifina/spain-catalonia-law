@@ -1,5 +1,4 @@
 Artículo 5 bis. Actuación como medio propio.
-1. El Servicio Meteorológico de Cataluña, en su actuación como medio propio instrumental y de servicio técnico, articula las relaciones con los departamentos de la Administración de la Generalidad y los entes, organismos y entidades que dependen de la misma o están vinculados a ella mediante encargos que no tienen naturaleza contractual. Los encargos deben especificar, como mínimo, el alcance del encargo, la previsión de los costes y el sistema de financiación.
-2. El Servicio Meteorológico de Cataluña no puede participar en las licitaciones públicas convocadas por los entes respecto a los cuales tiene la consideración de medio propio instrumental y de servicio técnico. No obstante, cuando no concurra ningún licitador, puede encargarse al Servicio Meteorológico de Cataluña la ejecución de la actividad objeto de la licitación pública.
-3. El Gobierno debe aprobar anualmente las directrices para la fijación individualizada de las tarifas de referencia que deben aplicarse para las distintas actividades del Servicio Meteorológico de Cataluña y las condiciones básicas de ejecución de dichas actividades.
+(Derogado).
+Se deroga por el art. 118 de la Ley 5/2020, de 29 de abril. Ref. BOE-A-2020-5569
 Se añade por el art. 155.3 de la Ley 2/2014, de 27 de enero. Ref. BOE-A-2014-2999.

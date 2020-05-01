@@ -1,0 +1,1 @@
+Se modifica la denominación del "Centro de Telecomunicaciones de la Generalidad de Cataluña" por "Centro de Telecomunicaciones y Tecnologías de la Información de la Generalidad de Cataluña", por el art. 128.1a) de la Ley 5/2020, de 29 de abril. Ref. BOE-A-2020-5569

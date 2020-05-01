@@ -9,5 +9,6 @@ c) Si una visita de inspección in situ hace patente un incumplimiento grave de 
 a) El impacto potencial y real de la actividad sobre la salud humana y el medio ambiente, teniendo en cuenta los niveles y tipos de emisión, la sensibilidad del medio ambiente local y el riesgo de accidente.
 b) El historial de cumplimiento de las condiciones de la autorización ambiental.
 c) La participación del titular en el sistema de ecogestión y ecoauditoría de la Unión Europea (EMAS).
-5. Las visitas de inspección in situ a las que se refiere el apartado 3 deben realizarlas las entidades colaboradoras de la Administración ambiental.
+5. Las visitas de inspección in situ a que se refiere el apartado 3 las debe hacer el personal de la Administración encargado de las funciones de inspección ambiental integrada, sin perjuicio de que también puedan ser realizadas por personal adscrito a entidades colaboradoras de la Administración ambiental específicamente designadas al efecto.
+Se modifica el apartado 5 por el art. 143.3 de la Ley 5/2020, de 29 de abril. Ref. BOE-A-2020-5569
 Se modifica por el art. 80.8 de la Ley 3/2015, de 11 de marzo. Ref. BOE-A-2015-3637.
