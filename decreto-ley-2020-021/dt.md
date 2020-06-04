@@ -1,0 +1,2 @@
+Disposición transitoria.
+Las solicitudes de la prestación previstas en este Decreto-ley que hayan sido presentadas antes de finalizar el estado de alarma decretado por el Real Decreto 463/2020, de 14 de marzo, y sus prórrogas o, posteriormente, antes que se agote la dotación presupuestaria, y se encuentren pendientes de resolución en aquella fecha, se tramitarán de acuerdo con lo establecido en este Decreto-ley.
