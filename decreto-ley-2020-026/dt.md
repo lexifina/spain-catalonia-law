@@ -1,0 +1,5 @@
+Disposición transitoria.
+1. Las disposiciones contenidas en el capítulo 1 y en el apartado 1 de la disposición adicional primera de este Decreto ley, mantendrán su vigencia hasta que se mantenga activado el plan de actuación PROCICAT para emergencias asociadas en enfermedades transmisibles emergentes con potencial alto riesgo.
+2. La adopción de medidas de carácter urgente dirigidas a la protección de personas derivadas del Plan de actuación PROCICAT y mientras esté vigente para los órganos del Departamento de Salud y de las entidades adscritas para hacer frente a la COVID-19, podrá justificar el uso del procedimiento de emergencia previsto en el artículo 120 de la Ley 9/2017, de 8 de noviembre, de contratos del sector público.
+De acuerdo con la previsión establecida en el párrafo anterior, en los contratos que celebre el Departamento de Salud y sus entidades adscritas haciendo uso del procedimiento de emergencia, habrá que justificar en el expediente que no se puede alcanzar la finalidad perseguida haciendo uso de otro procedimiento contractual.
+3. El resto de disposiciones contenidas en este Decreto ley serán vigentes hasta el 30 de septiembre de 2020.
