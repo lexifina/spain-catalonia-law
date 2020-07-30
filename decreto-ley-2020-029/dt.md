@@ -1,0 +1,2 @@
+Disposición transitoria.
+Aquello previsto en el capítulo II referido a la modificación del Decreto-ley 21/2020, de 2 de junio, de medidas urgentes de carácter económico, cultural y social, bajo el título de medidas de carácter social, es aplicable a las solicitudes presentadas y no resueltas en el momento de entrada en vigor de este Decreto-ley, y sin necesidad de que se tenga que presentar nueva solicitud para aquellas que ya se hayan presentado.
