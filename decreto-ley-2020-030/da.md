@@ -1,0 +1,2 @@
+Disposición adicional. Órganos sancionadores de la Agencia de Salud Pública de Cataluña.
+Una vez entre en vigor el decreto de aprobación de los estatutos de la Agencia de Salud Pública de Cataluña, las referencias que este Decreto ley hace al secretario o secretaria de Salud Pública y a las personas titulares de las sub-direcciones regionales de la Secretaría de Salud Pública se tienen que entender que se hacen al director o directora de la Agencia de Salud Pública de Cataluña y a las personas titulares de las direcciones de los servicios regionales.
