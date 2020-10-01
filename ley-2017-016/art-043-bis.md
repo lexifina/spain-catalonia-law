@@ -25,4 +25,17 @@ T = (M - P) / 365,25
 donde:
 – M es la fecha correspondiente a 31 de diciembre del primer ejercicio de devengo del impuesto.
 – P es la fecha de la primera matriculación del vehículo.
+4. En el caso de los vehículos de las categorías L3e, L4e, L5e y L7e, para los cuales no se pueda determinar la base imponible del impuesto de acuerdo con lo que establece el apartado 2 de este artículo, porque no se disponga de las emisiones oficiales de dióxido de carbono, la base imponible se calcula mediante la siguiente fórmula, con el límite mínimo de 25 g CO2/km y el límite máximo de 249 g CO2/km:
+BI = 3,311 x PF + 0,262 x PN + 0,1611 x MOM + 1,026 x T + 28,98
+Donde:
+– BI son emisiones de CO2 expresadas en unidades de gramos por kilómetro.
+– PF es la potencia fiscal del vehículo expresada en unidades de caballos fiscales.
+– PN es la potencia neta máxima del vehículo expresada en unidades de kilovatios.
+– MOM es la masa de orden en marcha expresada en kilogramos.
+– T es la antigüedad del vehículo, que se calcula según la siguiente fórmula:
+T = (M - P) / 365,25
+Donde:
+– M es la fecha correspondiente al 31 de diciembre del 2020.
+– P es la fecha de la primera matriculación del vehículo.
+Se añade el apartado 4 por el art. 2.1 del Decreto-ley 33/2020, de 30 de septiembre. Ref. BOE-A-2020-13914#a2
 Se añade por el art. 4 de la Ley 9/2019, de 23 de diciembre. Ref. BOE-A-2020-442
