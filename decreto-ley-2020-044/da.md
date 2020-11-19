@@ -1,0 +1,2 @@
+Disposición adicional. Promoción de la salud y el bienestar a través de la cultura.
+El departamento competente en materia de cultura y el departamento competente en materia de salud deben colaborar para promover y desarrollar actuaciones de mejora de la salud y el bienestar de la ciudadanía a través de las artes y las actividades culturales, mediante la difusión de buenas prácticas, la promoción de acciones formativas y competenciales o el impulso de acciones que incluyan propuestas transversales y multidisciplinares de los ámbitos culturales y de la salud, entre otros.
