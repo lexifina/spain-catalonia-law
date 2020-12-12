@@ -1,0 +1,6 @@
+Artículo 18 bis.
+Los alojamientos con espacios comunes complementarios:
+1. Los alojamientos con espacios comunes complementarios, definidos en el artículo 3.p, pueden construirse en suelo destinado por el planeamiento urbanístico a usos de vivienda.
+2. La normativa de habitabilidad tiene que determinar la superficie mínima que debe tener tanto el espacio privativo como los espacios comunes complementarios que deben tener los alojamientos a que hace referencia el apartado 1. La suma del espacio privativo y la parte proporcional que le corresponde de los espacios comunes complementarios no puede ser inferior a la superficie mínima establecida en la normativa de habitabilidad para las viviendas completas.
+3. Cuando los alojamientos con espacios comunes complementarios ocupan la totalidad de un edificio, este edificio no se puede dividir en propiedad horizontal. En caso de que ocupen una parte de un edificio en propiedad horizontal, esta parte tiene que configurarse como un solo elemento privativo diferenciado de los otros elementos que se integran en el mismo régimen de propiedad horizontal, como viviendas, locales o aparcamientos.
+Se añade por el art. 2.3 del Decreto-ley 50/2020, de 9 de diciembre. Ref. BOE-A-2021-1478
