@@ -1,0 +1,2 @@
+Disposición adicional. Efectos de los preceptos que conllevan gastos con cargo a los presupuestos de la Generalidad.
+Los preceptos de la presente ley que conlleven gastos con cargo a los presupuestos de la Generalidad producen efectos a partir de la entrada en vigor de la ley de presupuestos correspondiente al ejercicio presupuestario inmediatamente posterior a la entrada en vigor de la presente ley.

@@ -1,0 +1,2 @@
+Disposición final. Proyecto de ley de atención a los hijos e hijas de las mujeres víctimas de violencia machista.
+El Gobierno debe presentar, en el plazo de nueve meses, un proyecto de ley para adaptar el ordenamiento jurídico a la necesaria garantía de atención a los hijos e hijas de mujeres víctimas de violencia machista sin necesidad de procedimientos judiciales abiertos, así como, en el caso de las menores de entre catorce y dieciséis años, con respecto al consentimiento de los progenitores o tutores legales. Durante este plazo el Gobierno debe garantizar dicha atención.
