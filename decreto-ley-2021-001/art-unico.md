@@ -1,0 +1,4 @@
+Artículo único. Adición de una nueva disposición transitoria a la Ley 10/1994, de 11 de julio, de la Policía de la Generalidad-Mossos d'Esquadra.
+Se añade una nueva disposición transitoria, séptima, a la Ley 10/1994, de 11 de julio, de la Policía de la Generalidad-Mossos d'Esquadra, con el siguiente texto:
+«Disposición transitoria séptima.
+Mientras no se apruebe el correspondiente plan de igualdad, y con el fin de alcanzar el equilibrio en el número de mujeres y hombres en la plantilla del cuerpo de Mossos d'Esquadra, las convocatorias para acceder a las diferentes categorías del cuerpo de Mossos d'Esquadra tienen que establecer que los empates de puntuación en el orden de clasificación de los aspirantes deben dirimirse, como primer criterio, dando preferencia a las personas candidatas del sexo menos representado cuando este no llegue al 40% de aquella categoría.»
