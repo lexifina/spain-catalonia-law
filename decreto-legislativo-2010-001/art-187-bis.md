@@ -8,5 +8,7 @@ e) La colocación de carteles y vallas de propaganda visibles desde la vía púb
 f) La formalización de operaciones jurídicas que, sin constituir o modificar un régimen de propiedad horizontal, simple o compleja, significan un incremento del número de viviendas, establecimientos u otros elementos susceptibles de aprovechamiento privativo independiente respecto a los autorizados en una licencia urbanística anterior.
 g) Los actos sujetos a intervención que se realicen en suelo no urbanizable y urbanizable no delimitado y que estén amparados en un proyecto de actuación específica o en un plan urbanístico que ordene con el mismo detalle los terrenos afectados, siempre que no requieran la elaboración de un proyecto técnico de acuerdo con la legislación sobre ordenación de la edificación.
 h) Las instalaciones de producción de energía eléctrica mediante paneles solares fotovoltaicos en los términos que establece el artículo 9 bis.
+i) Las obras de conexión, sustitución, sondeos de comprobación y reparación de averías de las de infraestructuras de servicios técnicos a que se refiere la letra a del artículo 34.5 bis, excepto las que estén sujetos al régimen de declaración responsable que establece la legislación de telecomunicaciones.
+Se añade la letra i) por la disposición final 2.2 de la Ley 18/2020, de 28 de diciembre. Ref. BOE-A-2021-1662#df-2
 Se añade la letra h) por el art. 5.11 del Decreto-ley 16/2019, de 26 de noviembre. Ref. BOE-A-2020-445
 Se añade por el art. 22.3 de la Ley 16/2015, de 21 de julio. Ref. BOE-A-2015-9208.
