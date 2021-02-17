@@ -1,0 +1,2 @@
+Disposición transitoria. Aplicación retroactiva de preceptos determinados.
+La aplicación de los nuevos importes establecidos en el capítulo I y en los anexos de este Decreto ley tiene efectos retroactivos a partir del 1 de enero de 2021, excepto los importes relativos al coste del copago de los servicios indicados en el anexo 1, que tienen efectos a partir del primer día del mes siguiente a la entrada en vigor de este Decreto ley.
