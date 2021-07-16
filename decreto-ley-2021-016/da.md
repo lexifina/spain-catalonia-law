@@ -1,0 +1,3 @@
+Disposición adicional. Referencias normativas a la Entidad Autónoma de Juegos y Apuestas de la Generalitat y a sus órganos de gobierno.
+1. Todas las referencias que las disposiciones y resoluciones vigentes efectúen a la Entidad Autónoma de Juegos y Apuestas de la Generalitat se tienen que entender hechas a Loteries de Catalunya, SAU.
+2. Todas las referencias que las disposiciones y resoluciones vigentes que se efectúen al Consejo de Administración o a otros órganos de gobierno de la Entidad Autónoma de Juegos y Apuestas de la Generalitat se tienen que entender hechas al Consejo de Administración de Loteries de Catalunya, SAU.
