@@ -1,0 +1,4 @@
+Disposición transitoria. Aplicación temporal de las medidas.
+Las medidas de limitación a la densidad ganadera previstas en este Decreto ley se aplican:
+A las actividades ganaderas incluidas en los anexos I y II de la Ley 20/2009, de 4 de diciembre, de prevención y control ambiental de las actividades, que, en el momento de la entrada en vigor del Decreto 153/2019, de 5 de julio, no hubieran iniciado el procedimiento de autorización o licencia ambiental correspondiente.
+A las actividades ganaderas incluidas en el anexo III de la Ley 20/2009, de 4 de diciembre, de prevención y control ambiental de las actividades, que, en el momento de la entrada en vigor del Decreto 153/2019, de 5 de julio, no hubieran iniciado el procedimiento de licencia urbanística correspondiente, o, en su caso, no hubieran presentado la comunicación previa de obras no sujetas a licencia.
