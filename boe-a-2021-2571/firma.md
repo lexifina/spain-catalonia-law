@@ -82,7 +82,7 @@ En la C-28, entre el PK 23 en Vielha e Mijaran y el PK 34 en Salardú, los vehí
 1.1.2.3 N-II, N-240 y N-340.
 Los vehículos o conjuntos de vehículos de transporte de mercancías de 4 o más ejes no podrán circular:
 a) Por la carretera N-II desde el PK 773,5 en La Jonquera hasta el PK 709 en Fornells de la Selva, en ambos sentidos, por lo que los vehículos afectados por esta restricción podrán utilizar como itinerario preferente el delimitado por la AP-7/E-15, entre las salidas número 8, Riudellots de la Selva, y número 2, La Jonquera (sur).
-b) Por la carretera N-240 desde el PK 69 en Les Borges Blanques hasta al PK 36,5 en Montblanc, en ambos sentidos, por lo que los vehículos afectados por esta restricción podrán utilizar como itinerario preferente el delimitado por la AP-2/E-90, entre las salidas número 6, en Lleida, y número 9, en Montblanc.
+b) Por la carretera N-240 desde el PK 87,4, en Lleida, al PK 36,5, en Montblanc, en ambos sentidos, por lo que los vehículos afectados por esta restricción podrán utilizar como itinerario preferente el delimitado por la AP-2/E-90, entre las salidas número 5, en Soses, y número 9, en Montblanc".
 c) Por la carretera N-340 desde Alcanar (límite Castellón) hasta el PK 1.122 en L'Hospitalet de l'Infant, en ambos sentidos, por lo que los vehículos afectados por esta restricción podrán utilizar como itinerario preferente el delimitado por la AP-7/E-15, entre los recorridos provenientes de Castellón y la salida número 38, en L'Hospitalet de l'Infant.
 d) Por la carretera N-340 desde el PK 1176,4 en Altafulla hasta el PK 1209,5 en Vilafranca del Penedès, en ambos sentidos, por lo que los vehículos afectados por esta restricción podrán utilizar como itinerario preferente el delimitado por la AP-7/E-15, entre las salidas número 32, Altafulla, y número 30, en Vilafranca del Penedès (sur).
 1.1.2.4 Carreteras con dificultades de gestión. Tramos de vías donde la circulación para los vehículos incluidos en los puntos 1.1.1.1, 1.1.1.2 y 1.1.1.3 está restringida, en tránsito o de paso, para no realizar ninguna operación de transporte, del tipo que sea:
@@ -134,6 +134,7 @@ La Policía de la Generalidad-Mossos d'Esquadra puede permitir la circulación d
 2.5 Supuesto excepcional de levantamiento de las restricciones.
 En los días, horas y vías afectados por estas restricciones, previa valoración técnica favorable de la Subdirección General de Gestión del Tráfico, la Dirección del Servicio Catalán de Tráfico podrá dejarlas sin efecto en determinados días, horas y vías.
 Esta decisión se publicará en la web del Servicio Catalán de Tráfico y se pondrá en conocimiento de las principales asociaciones de transportistas o equivalentes y de los titulares de vías y deberá ser comunicada a la Policía de la Generalidad-Mossos d'Esquadra.
+Se modifica el apartado 1.1.2.3.b) por el apartado 1 de la Resolución INT/2663/2021 de 25 de agosto de 2021. Ref. BOE-A-2021-14915
 ANEXO A
 Calendario de restricciones para la celebración de pruebas y actividades deportivas y recreativas o de cualquier tipo que supongan afectaciones al tráfico ordinario
 ANEXO A.1
