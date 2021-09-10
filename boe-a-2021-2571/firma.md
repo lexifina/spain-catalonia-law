@@ -198,7 +198,7 @@ ANEXO B
 Calendario de días, horas y vías con restricciones a la circulación de determinados grupos de vehículos para 2021
 Vía | PK inicial | Localización | PK final | Localización | Sentido | Demarcación | Semana Santa
 Viernes Santo 02/04 | Domingo de Pascua 04/04 | Lunes de Pascua 05/04
-AP-7. | 84,5 | Maçanet de la Selva. | 281,0 | L'Hospitalet de l'Infant. | Ambos. | BCN, GIR, TGN | 10-14 h | 17-22 h | 10-22 h
+AP-7(*). | 84,5 | Maçanet de la Selva. | 281,0 | L'Hospitalet de l'Infant. | Ambos. | BCN, GIR, TGN | 10-14 h | 17-22 h | 10-22 h
 A-2. | 520,0 | Cervera. | 609,0 | Cornellà de Llobregat. | Ambos. | BCN, LLE |  |  | 10-22 h
 Lleida. | 10-14 h |  | 
 Barcelona. |  | 17-22 h | 
@@ -230,6 +230,7 @@ C-16. | 0,0 | Barcelona. | 13,0 | Enlace AP-7. | St Cugat V. | BCN |  |  |
 N-II. | 630,0 | Montgat. | 682,2 | Rotonda Can Bartolí/Enlace GI-600 y GI-512. | Ambos. | BCN |  |  | 
 N-340. | 1.212,0 | Vilafranca del Penedès. | 1.238,0 | Cervelló. | Ambos. | BCN |  |  | 
 N-340a. | 1.238,0 | Cervelló. | 1.244,0 | Quatre Camins. | Ambos. | BCN |  |  | 
+(*) Se restringe la circulación a los vehículos o conjuntos de vehículos que superen los 7.500 kg de MMA o MMC en el tramo de la autopista AP-7 comprendido entre los puntos kilométricos 84,5, en Maçanet de la Selva, y 281,0, en L'Hospitalet de l'Infant, entre las 17 y las 22 horas, todos los domingos del mes de septiembre de 2021.
 ANEXO B (continuación)
 Festivos, puentes (salidas/regresos) | Verano sábados, domingos y festivos | Invierno sábados, domingos y festivos | Todo el año sábados, domingos y festivos
 Martes 12/10 | Miércoles 08/12 | Sábados julio | Sábados del 10/07 al 04/09 | Domingos julio | Domingos y festivos del 13/06 al 12/09 | Sábados del 02/01 al 03/04 y del 04/12 al 18/12 | Domingos y festivos del 01/01 al 05/04 y del 05/12 al 26/12 | Sábados de todo el año | Domingos y festivos de todo el año
@@ -262,6 +263,7 @@ Martes 12/10 | Miércoles 08/12 | Sábados julio | Sábados del 10/07 al 04/09 |
  |  |  |  |  |  |  |  | 10-14 h | 17-22 h
  |  |  |  |  |  |  |  |  | 17-22 h
  |  |  |  |  |  |  |  |  | 17-22 h
+Se restringe la circulación a los vehículos o conjuntos de vehículos que superen los 7.500 kg de MMA o MMC en el tramo de la autopista AP-7 comprendido entre los puntos kilométricos 84,5, en Maçanet de la Selva, y 281,0, en L'Hospitalet de l'Infant, entre las 17 y las 22 horas, todos los domingos del mes de septiembre de 2021 por Resolución INT/2750/2021 de 9 de septiembre de 2021. Ref. BOE-A-2021-15245
 ANEXO C
 Itinerarios de circulación de vehículos o conjuntos de vehículos con carga de mercancías peligrosas en régimen ADR que llevan los paneles naranja de peligro reglamentarios
 1. Rutas básicas obligatorias generales (véase plano RIMP de Cataluña y de El Camp de Tarragona):
