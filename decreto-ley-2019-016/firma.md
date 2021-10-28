@@ -28,6 +28,8 @@ o. Estudio de seguridad y salud.
 7. Separata para cada una de las administraciones públicas afectadas, organismos y, si procede, empresas de servicios públicos o de servicios de interés general.
 8. Relación de bienes y derechos afectados, si el solicitante pide el reconocimiento de utilidad pública a los efectos de expropiación forzosa e imposición de servidumbres.
 9. Cualquier otra documentación que conforme a la legislación vigente sea exigible.
+10. Documentación que acredite el cumplimiento del requisito de la oferta de participación local, si procede.
+11. Documentación que acredite la disponibilidad o el compromiso de disponibilidad de más del 50 % de los terrenos agrícolas privados sobre los que se proyecte la cimentación de los aerogeneradores, si procede.
 b) Plantas solares fotovoltaicas:
 1. Documentación acreditativa de la capacidad legal, técnica y económica de la persona solicitante.
 2. Proyecto técnico correspondiente a la planta solar fotovoltaica y a las instalaciones de interconexión con la red eléctrica firmado por técnico competente y que tendrá que incluir, como mínimo, la documentación e información suficiente sobre:
@@ -52,6 +54,9 @@ n. Estudio de seguridad y salud.
 7. Separata para cada una de las administraciones públicas afectadas, organismos y, si procede, empresas de servicios públicos o de servicios de interés general.
 8. Relación de bienes y derechos afectados, si el solicitante pide el reconocimiento de utilidad pública a los efectos de expropiación forzosa e imposición de servidumbres.
 9. Cualquier otra documentación que conforme a la legislación vigente sea exigible.
+10. Documentación que acredite el cumplimiento del requisito de la oferta de participación local, si procede.
+11. Documentación que acredite la disponibilidad o el compromiso de disponibilidad de más del 50 % de los terrenos agrícolas privados sobre los que se proyecte la instalación fotovoltaica, si procede.
+Se añaden los apartados 10 y 11 a las letras a) y b) por el art. 2.12 y 13 del Decreto-ley 24/2021, de 26 de octubre de 2021. Ref. BOE-A-2021-21113#a2
 ANEXO 2
 Documentación exigida por la normativa urbanística
 Téngase en cuenta que, según se establece en la disposición final 2, el presente anexo podrá ser modificado por el consejero competente en la materia mediante orden publicada únicamente en el "Diario Oficial de la Generalidad de Cataluña".
@@ -64,6 +69,8 @@ Téngase en cuenta que, según se establece en la disposición final 2, el prese
 – 2. Exposición de las principales alternativas estudiadas, incluida la alternativa cero o de no realización del proyecto, y una justificación de las principales razones de la solución adoptada, teniendo en cuenta los efectos ambientales.
 – 3. Evaluación y, si procede, cuantificación de los efectos previsibles directos o indirectos, acumulativos y sinérgicos del proyecto sobre la población, la salud humana, la flora, la fauna, la biodiversidad, la geodiversidad, el suelo, el subsuelo, el aire, el agua, los factores climáticos, el cambio climático, el paisaje, los bienes materiales –incluido el patrimonio cultural– y la interacción entre todos los factores mencionados durante las fases de ejecución, explotación y, en su caso, durante la demolición o el abandono del proyecto.
 Cuando el proyecto pueda afectar directa o indirectamente a los espacios Red Naturaleza 2000, se tiene que incluir un apartado específico para la evaluación de sus repercusiones en el lugar, teniendo en cuenta los objetivos de conservación del espacio.
+En el caso de proyectos de plantas solares fotovoltaicas que afecten a suelos de valor agrológico alto y de interés agrario elevado, el promotor presentará imagen del mapa de suelos 1/25.000 del Instituto Cartográfico y Geológico de Cataluña con la delimitación superpuesta de la instalación y de la línea de evacuación por medio de una capa en formato digital "shape" utilizando la herramienta QGIS. En defecto de mapa, el promotor debe presentar un Estudio edafológico y el Mapa de clasificación de capacidad agrológica del suelo de la superficie afectada por la instalación y por la línea de evacuación, de acuerdo con el sistema de evaluación de suelos de clases de capacidades agrológicas. En ese caso, la imagen del mapa con la delimitación superpuesta de la instalación y de la línea de evacuación también se efectuará por medio de una capa en formato digital "shape" utilizando la herramienta QGIS.
 – 4. Medidas que permitan prevenir, corregir y, en su caso, compensar los efectos adversos sobre el medio ambiente.
 – 5. Programa de vigilancia ambiental.
 – 6. Resumen del estudio y conclusiones en términos fácilmente comprensibles.
+Se modifica el apartado 3 por el art. 2.14 del Decreto-ley 24/2021, de 26 de octubre de 2021. Ref. BOE-A-2021-21113#a2
