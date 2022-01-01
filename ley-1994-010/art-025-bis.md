@@ -1,4 +1,4 @@
 Artículo 25 bis.
-1. En las convocatorias de acceso a las categorías de sargento, subinspector, inspector, intendente, comisario y mayor también pueden participar, en el turno de promoción interna, los miembros del Cuerpo que, sin estar en posesión de la titulación exigida para el ingreso en dichas categorías, dispongan de la titulación del grupo inmediatamente inferior y cumplan, respectivamente, los requisitos de acceso establecidos en los artículos 23, 24 y 25 en cuanto a antigüedad, el curso específico impartido por la Escuela de Policía de Cataluña y, en su caso, el período de prácticas de carácter selectivo.
-2. Los funcionarios del Cuerpo de Mozos de Escuadra que hagan uso de la dispensa de titulación establecida en el apartado 1 y superen la convocatoria correspondiente sólo pueden cambiar de escala, al amparo de dicha dispensa, una vez a lo largo de su carrera profesional.
+(Derogado).
+Se deroga por la disposición derogatoria 1.b) de la Ley 2/2021, de 29 de diciembre. Ref. BOE-A-2022-953
 Se añade por el art. 20 de la Ley 4/2000, de 26 de mayo. Ref. BOE-A-2000-11470.

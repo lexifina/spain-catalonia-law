@@ -1,0 +1,4 @@
+Artículo 34 ter. Museos de apoyo territorial.
+1. Los museos de apoyo territorial tienen la función de prestar servicios en los equipamientos patrimoniales y colecciones abiertas al público que no cumplen las condiciones para ser museo de acuerdo con la legislación museística.
+2. Se determina mediante convenio u otros acuerdos entre la Administración de la Generalidad y las entidades titulares del museo correspondiente la atribución de la condición de museo de apoyo territorial, las funciones que debe ejercer, la carta de servicios, el ámbito territorial de actuación, los equipamientos patrimoniales o colecciones beneficiarios y por qué período de tiempo. También pueden ser parte del convenio o acuerdo otras instituciones del correspondiente ámbito territorial que estén interesadas.
+Se añade por el art. 65.2 de la Ley 2/2021, de 29 de diciembre. Ref. BOE-A-2022-953

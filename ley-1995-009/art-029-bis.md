@@ -1,0 +1,7 @@
+Artículo 29 bis. Responsabilidad.
+La responsabilidad por la comisión de las infracciones establecidas por la presente ley recae directamente en el autor del hecho en que consista la infracción. No obstante:
+a) Cuando la autoría de los hechos cometidos corresponda a una persona menor de dieciocho años, deben responder solidariamente de la multa impuesta los progenitores, tutores o acogedores y guardadores legales o de hecho, por este orden, en relación con el incumplimiento de la obligación impuesta a estos que comporta un deber de prevenir la infracción administrativa que se impute a los menores.
+b) En los casos en que no tenga lugar la detención del vehículo y este tenga designado un conductor habitual, la responsabilidad recae en este, salvo en el caso de que acredite que el conductor era otro o que el vehículo había sido sustraído.
+c) En los casos en que no tenga lugar la detención del vehículo y este no tenga designado un conductor habitual, es responsable el conductor identificado por el titular o el arrendatario a largo plazo.
+d) En las empresas de arrendamiento de vehículos a corto plazo es el responsable el arrendatario del vehículo. En caso de que este manifieste que no es el conductor o sea una persona jurídica, es necesario que este facilite la identificación de la persona que conducía en el momento de cometerse la infracción.
+Se añade por el art. 75.4 de la Ley 2/2021, de 29 de diciembre. Ref. BOE-A-2022-953

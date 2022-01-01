@@ -3,6 +3,7 @@ Contratación pública
 Se añade por el art. 39 de la Ley 2/2014, de 27 de enero. Ref. BOE-A-2014-2999.
 CAPÍTULO I
 Tasa por la realización de actividades que son competencia del Tribunal Catalán de Contratos del Sector Público
+Se deroga por la disposición derogatoria 1.e) de la Ley 2/2021, de 29 de diciembre. Ref. BOE-A-2022-953
 Se añade por el art. 39 de la Ley 2/2014, de 27 de enero. Ref. BOE-A-2014-2999.
 Artículo 7 ter.1-1. Hecho imponible.
 Constituye el hecho imponible de la tasa la tramitación y resolución de los recursos, las reclamaciones y las cuestiones de nulidad, que sean competencia del Tribunal Catalán de Contratos del Sector Público, siguientes:

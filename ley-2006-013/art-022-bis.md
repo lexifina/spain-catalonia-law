@@ -8,5 +8,7 @@ Artículo 22 bis. Prestación para menores de edad en situación de riesgo.
 a) La finalización del compromiso socioeducativo o su pérdida de efectos.
 b) El incumplimiento del compromiso socioeducativo.
 c) Llegar a la mayoría de edad o ver reconocida la emancipación.
+7. Es causa de suspensión automática de la prestación, además de las establecidas con carácter general, el hecho de que la persona menor de edad deje de convivir con la persona o personas que tienen la guarda de forma temporal, por un período mínimo de un mes, cuando el compromiso socioeducativo sigue vigente.
+Se añade el apartado 7 por el art. 70.7 de la Ley 2/2021, de 29 de diciembre. Ref. BOE-A-2022-953
 Se modifica el apartado 3 por el art. 164.5 de la Ley 5/2020, de 29 de abril. Ref. BOE-A-2020-5569
 Se añade por la disposición adicional 2 de la Ley 14/2010, de 27 de mayo. Ref. BOE-A-2010-10213dfsegunda.

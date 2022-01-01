@@ -1,0 +1,4 @@
+Disposición transitoria cuarta bis. Tramitación del planeamiento director urbanístico de la Generalidad en el ámbito metropolitano de Barcelona.
+Los instrumentos de planeamiento director urbanístico cuya formulación haya sido iniciada por el órgano competente de la Generalidad antes de la entrada en vigor de esta disposición transitoria ajustan su tramitación a lo establecido por la disposición adicional vigésima tercera a partir de los trámites posteriores al estado de tramitación en que se encuentren, sin que sea exigible retrotraer su formulación y tramitación al momento inicial.
+Se añade por el art. 83.30 de la Ley 2/2021, de 29 de diciembre. Ref. BOE-A-2022-953
+Redactada conforme a las correcciones de erratas publicadas en los DOGC núm. 8626, de 15 de marzo de 2022. Ref. BOE-A-2022-4851 y núm. 8648, de 14 de abril. Ref. BOE-A-2022-6905

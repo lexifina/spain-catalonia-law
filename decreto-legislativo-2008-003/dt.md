@@ -1,2 +1,3 @@
 Disposición transitoria.
 Resta vigente aquello previsto en la disposición adicional cuarta de la Ley 15/2000, de 29 de diciembre, en tanto no prescriba el derecho de los contribuyentes a solicitar la devolución de las cantidades ingresadas correspondientes a las tasas a que se hace referencia.
+Téngase en cuenta que mientras no haya culminado el despliegue de las redes de telecomunicaciones en todo el territorio de Cataluña y, en cualquier caso, por un período mínimo de cuatro años, queda en suspenso la entrada en vigor de la presente disposición transitoria en lo que se refiere a las redes de telecomunicaciones, según se establece en la disposición final 1 de la Ley 2/2021, de 29 de diciembre. Ref. BOE-A-2022-953

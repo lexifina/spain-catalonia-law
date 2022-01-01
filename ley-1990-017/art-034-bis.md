@@ -1,0 +1,5 @@
+Artículo 34 bis. Redes territoriales de museos.
+1. Con el objeto de facilitar que el conjunto de los museos puedan cumplir sus funciones, el Departamento de Cultura debe impulsar la creación de redes territoriales de museos y darles apoyo financiero, sin perjuicio de la financiación de otras administraciones supralocales.
+2. Cada red territorial extiende su actuación sobre un ámbito territorial determinado. La red debe contar con unos órganos de gobierno y con un órgano técnico de apoyo y prestación de servicios que esté vinculado a una entidad pública o privada sin ánimo de lucro integrada en la red y que esté relacionada con la gestión patrimonial o museística.
+3. Las redes territoriales se crean mediante convenios u otros acuerdos entre la Administración de la Generalidad, las entidades titulares de los museos, la entidad de la que dependa el órgano técnico de apoyo y prestación de servicios de la red y las demás instituciones del ámbito territorial que quieran formar parte de la misma.
+Se añade por el art. 65.1 de la Ley 2/2021, de 29 de diciembre. Ref. BOE-A-2022-953

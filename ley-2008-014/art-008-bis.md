@@ -1,0 +1,6 @@
+Artículo 8 bis. Potestad reglamentaria de la dirección de la Oficina Antifraude de Cataluña en materia de autoorganización y de régimen interior.
+1. En el marco de las disponibilidades presupuestarias, corresponde al director o directora de la Oficina Antifraude de Cataluña dictar sus normas organizativas y de régimen interior con el fin de adaptar la estructura de la Oficina a los requerimientos de la normativa de nueva aplicación.
+2. El director o directora de la Oficina Antifraude de Cataluña debe poner estas normas en conocimiento de la Comisión de Asuntos Institucionales del Parlamento de Cataluña y debe ordenar su publicación en el "Diari Oficial de la Generalitat de Catalunya".
+3. El procedimiento de elaboración de estas normas debe tramitarse en el marco de los principios que inspiran la actuación administrativa de acuerdo con las normas reguladoras del procedimiento administrativo.
+4. Mientras no se dicten las normas a que se refiere el presente artículo, son de aplicación las Normas de actuación y de régimen interior de la Oficina Antifraude de Cataluña relativas a la organización y el régimen interior.
+Se añade por el art. 64.1 de la Ley 2/2021, de 29 de diciembre. Ref. BOE-A-2022-953
