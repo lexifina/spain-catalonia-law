@@ -1,0 +1,4 @@
+Disposición adicional decimoséptima. Indicador de renta de suficiencia.
+1. Para el ejercicio 2022, el indicador de renta de suficiencia de Cataluña, establecido por el artículo 15.2 de la Ley 13/2006, de 27 de julio, de prestaciones sociales de carácter económico, se fija en 569,12 euros mensuales y 7.967,73 euros anuales.
+2. La Generalidad debe utilizar como índice o referencia de renta el indicador de renta de suficiencia fijado por el apartado 1, de acuerdo con el artículo 2.4 del Real Decreto-ley 3/2004, de 25 de junio, para la racionalización de la regulación del salario mínimo interprofesional y para el incremento de su cuantía.
+3. Se autoriza al Gobierno a aplicar, en el mismo porcentaje, el incremento adicional del indicador de renta de suficiencia de Cataluña, en caso de que la Administración general del Estado modifique el indicador público de renta de efectos múltiples acordado para 2022.
