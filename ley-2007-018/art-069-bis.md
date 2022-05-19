@@ -1,0 +1,3 @@
+Artículo 69 bis. Cesión de viviendas a la Administración.
+El departamento competente en materia de vivienda debe establecer un sistema voluntario de obtención de viviendas del mercado privado, en especial los desocupados, mediante el cual se efectúe la cesión de la gestión del uso o la cesión del uso de las viviendas a la Administración pública, para destinarlos a la Red de Viviendas de Inserción social (XHIS), a incrementar la dotación de vivienda social para poner a disposición de la Mesa de valoración de situaciones de emergencia económicas y sociales de Cataluña o mesas de ámbito local, y al Registro de Solicitantes de Viviendas de Protección Oficial de Cataluña.
+Se añade por el art. 10.3 del Decreto-ley 5/2022, de 17 de mayo. Ref. BOE-A-2022-10453
