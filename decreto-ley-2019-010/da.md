@@ -1,0 +1,3 @@
+Disposición adicional.
+Excepcionalmente, en entornos desfavorecidos con población escolar de condición socioeconómica desfavorable, cuando las necesidades de escolarización no se puedan satisfacer de otra forma y el alumnado no se pueda redistribuir adecuadamente, se puede llevar a cabo el procedimiento de integración con exención del requisito establecido en el punto e) del apartado 1 del artículo 3 y ubicar el nuevo centro creado por integración en espacios provisionales. En este caso, no será de aplicación lo previsto en los artículos 3.3.d), 3.4.a) y 3.4.c).
+Se añade por el art. 2 del Decreto-ley 7/2022, de 14 de junio. Ref. BOE-A-2022-12511
