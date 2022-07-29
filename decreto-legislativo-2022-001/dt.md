@@ -1,0 +1,2 @@
+Disposición transitoria.
+Se confieren al Instituto Catalán de Finanzas, directamente o bien mediante cualquiera de sus filiales, las tareas de ejecución de los instrumentos financieros del Programa operativo de Cataluña FEDER 2014-2020 (Decisión CE 2015-894) en los términos del artículo 38.4.c) del reglamento (UE) número 1303/2013, del Parlamento Europeo y del Consejo, y se le habilita para que adopte las medidas oportunas para asegurar la buena gestión de los instrumentos financieros de dicho programa.
