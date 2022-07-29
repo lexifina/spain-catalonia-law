@@ -5,7 +5,7 @@ b) El artículo 36 y los párrafos segundo y tercero del artículo 39 del texto 
 c) La letra b del artículo 53 bis y la letra i del artículo 92.2 del texto refundido de la Ley de finanzas públicas de Cataluña, aprobado por el Decreto legislativo 3/2002, de 24 de diciembre.
 d) La disposición adicional quinta y el apartado 5 de la disposición transitoria tercera del texto refundido de la Ley de urbanismo, aprobado por el Decreto legislativo 1/2010, de 3 de agosto.
 e) Los artículos 7.1.d, 7.3.d, 8.c, 9.2, 9.3 in fine, 11.2.c, el último inciso del artículo 11.4, y los artículos 45 y 46 del Decreto 13/2010, de 2 de febrero, del Plan para el derecho a la vivienda del 2009-2012; y la disposición final 1.2 del Decreto 13/2010, de 2 de febrero, modificada por la disposición adicional segunda del Decreto 68/2010, de 25 de mayo, sobre tramitación y aprobación de los documentos reconocidos del Código técnico de la edificación y del Registro general del Código técnico de la edificación.
-f) Los artículos 5, 6, 7, 8, 9, 10, 14 y 15; las letras a, c y h del artículo 18; los artículos 23, 24, 28, 29 y 30, y el capítulo 5 del texto refundido de la Ley del Instituto Catalán de Finanzas, aprobado por el Decreto legislativo 4/2002, de 24 de diciembre.
+f) (Derogado).
 g) La disposición adicional tercera de la Ley 17/2007, de 21 de diciembre, de medidas fiscales y financieras.
 h) Los artículos 31 y 47 del Decreto legislativo 3/2010, de 5 de octubre, para la adecuación de normas con rango de ley a la Directiva 2006/123/CE del Parlamento y del Consejo, de 12 de diciembre de 2006, relativa a los servicios en el mercado interior.
 i) El apartado 7 del artículo 71 del texto refundido de la legislación en materia de aguas de Cataluña, aprobado por el Decreto legislativo 3/2003, de 4 de noviembre.
@@ -18,3 +18,4 @@ e) El Decreto 187/2002, de 25 de junio, sobre los órganos de dirección de la E
 f) El Decreto 294/2003, de 2 de diciembre, por el que se aprueban los Estatutos de la Entidad Autónoma Museos de Arqueología.
 g) Las letras f y g del apartado 2 del artículo 27; la letra d del apartado 2 del artículo 35, y los artículos 41, 46, 47, 48 y 49 del Decreto 304/2011, de 29 de marzo, de reestructuración del Departamento de Cultura.
 3. Se deroga la Ley 4/1984, de 24 de febrero, del Instituto Catalán del Crédito Agrario, y el resto de disposiciones reguladoras del Instituto Catalán del Crédito Agrario.
+Se deroga el apartado 1.f) por la disposición derogatoria.d) del Decreto Legislativo 1/2022, de 26 de julio. Ref. BOE-A-2022-13535#dd
