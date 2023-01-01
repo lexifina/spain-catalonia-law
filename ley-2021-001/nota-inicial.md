@@ -1,1 +1,1 @@
-Incluye las correcciones de errores publicadas en el DOGC núm. 8626, de 15 de marzo de 2022. Ref. BOE-A-2022-4850 y núm. 8727, de 9 de agosto de 2022. Ref. BOE-A-2022-14339
+Téngase en cuenta que los presentes presupuestos quedan prorrogados, con efectos desde el 1 de enero de 2023 y se establecen los criterios de aplicación de la prórroga de los mismos en el ejercicio 2023, por Decreto 365/2022, de 20 de diciembre. Ref. DOGC-f-2022-90403
