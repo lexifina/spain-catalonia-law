@@ -1,0 +1,2 @@
+Disposición adicional decimoséptima. Constitución del Consejo para la Investigación y la Innovación de Cataluña y del Consejo de Mecenazgo en Investigación, Desarrollo e Innovación de Cataluña.
+El Consejo para la Investigación y la Innovación de Cataluña y el Consejo de Mecenazgo en Investigación, Desarrollo e Innovación de Cataluña deben constituirse en el plazo de seis meses a contar desde la entrada en vigor de la presente ley.

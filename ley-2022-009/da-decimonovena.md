@@ -1,0 +1,2 @@
+Disposición adicional decimonovena. Financiación general.
+El Gobierno, a fin de alcanzar los objetivos de la presente ley, debe incrementar progresivamente los recursos económicos destinados al sistema de investigación, tomando como referencia los países europeos que sobresalen en el ámbito del conocimiento, y debe situar progresivamente, de 2023 a 2031, la inversión pública en el 1 % del producto interior bruto como mínimo.

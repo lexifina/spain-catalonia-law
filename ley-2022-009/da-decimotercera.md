@@ -1,0 +1,4 @@
+Disposición adicional decimotercera. Referencias.
+1. A efectos de la presente ley, la denominación genérica universidad se refiere a las universidades públicas y privadas sin ánimo de lucro integradas en el sistema universitario de Cataluña, de acuerdo con el artículo 2 de la Ley de universidades de Cataluña.
+2. Las referencias de la presente ley a las universidades y al departamento competente en materia de investigación y universidades se entienden hechas en el marco de las respectivas competencias y sin perjuicio de la autonomía universitaria.
+3. Las referencias de la presente ley al departamento competente en materia de investigación y universidades se entienden hechas en el marco de la organización departamental de la Generalitat. Si existen dos departamentos afectados, se prioriza el departamento competente en materia de investigación, con la excepción de los artículos y disposiciones relativos a las universidades.

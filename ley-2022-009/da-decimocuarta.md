@@ -1,0 +1,2 @@
+Disposición adicional decimocuarta. Ayudas públicas para facilitar el intercambio de personal entre los agentes del sistema de investigación, desarrollo e innovación.
+El Gobierno, por medio del departamento competente, debe definir políticas e impulsar convocatorias de ayudas públicas que tengan como objetivo el intercambio de personal entre los agentes del sistema de investigación, desarrollo e innovación, con el objetivo de facilitar la colaboración entre los agentes y el intercambio de recursos.
