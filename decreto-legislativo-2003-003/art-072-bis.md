@@ -16,6 +16,7 @@ Sales solubles (SOL): 7,9013 euros/Sm3/cm.
 Nitrógeno (N): 0,7498 euros/kg.
 Fósforo (P): 1,4997 euros/kg.
 Para adecuar las unidades de los precios a las unidades de medida de los valores de los parámetros de contaminación deben aplicarse los factores de conversión que se determinen por reglamento.
+La cantidad de contaminación correspondiente a las materias oxidables (MO) se mide por su concentración en el agua y de acuerdo con la expresión: MO = DQO/2, siendo DQO la demanda química de oxígeno de la muestra sin decantar.
 5. En este régimen la cuantía del tributo debe responder siempre al principio de que quién más contamina debe satisfacer un gravamen específico más alto.
 6. La determinación del grado de contaminación se realiza por medición directa de la carga contaminante, a partir de la declaración tributaria de uso y contaminación del agua que el sujeto pasivo del tributo está obligado a presentar.
 Si la falta de presentación de dicha declaración, o el hecho de presentarla de forma incompleta o acreditadamente fraudulenta, no permiten a la Agencia Catalana del Agua disponer de todos los datos necesarios para determinar el tipo específico, este se fija de forma indirecta, y puede utilizarse cualquier dato o antecedente relevante para su determinación, o bien datos de otros establecimientos del sector al que pertenezca el establecimiento.
@@ -44,6 +45,7 @@ Fn: es el coeficiente de fertirrigación de cada tipo de vertido; el consumo con
 Kr: es el coeficiente corrector de volumen que expresa la relación entre el volumen de agua vertido y el volumen de agua de suministro de todo el establecimiento; para poder aplicar este coeficiente, el establecimiento debe disponer de las instalaciones y de los aparatos descritos en el anexo 3; también puede determinarse este coeficiente por estimación indirecta, aceptando la declaración del coeficiente corrector de volumen basada en datos y justificaciones técnicas aportadas por el sujeto pasivo, que deben ser valoradas adecuadamente por la Administración.
 Kn: es el coeficiente de nutrientes. Todos los vertidos realizados en las zonas que, de acuerdo con la normativa vigente, hayan sido declaradas sensibles quedan afectados por un coeficiente de nutrientes para los parámetros de nitrógeno y de fósforo equivalente a 1,25. Dentro de las zonas sensibles están afectados por este coeficiente tanto los vertidos realizados directamente al dominio público hidráulico y marítimo y terrestre, como los realizados a sistemas públicos de saneamiento.
 8. Para obtener el tipo de gravamen final deben ponderarse en función del caudal los distintos precios de cada conducto de evacuación o tipo de vertido considerando el coeficiente corrector de volumen.
+Se modifica el apartado 4 por el art. 15.6 de la Ley 3/2023, de 16 de marzo. Ref. BOE-A-2023-10344
 Se modifican los apartados 2.b) y 7 por el art. 2.8 y 9 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#a2
-Se añade por el art. 6 de la Ley 3/2015, de 11 de marzo. Ref. BOE-A-2015-3637.
+Se añade por el art. 6 de la Ley 3/2015, de 11 de marzo. Ref. BOE-A-2015-3637
 Redactado conforme a la corrección de errores publicada en DOGC núm. 6872, de 15 de mayo de 2015.

@@ -1,0 +1,13 @@
+Artículo 71 bis.
+1. Las entidades a las que se refiere el apartado 1 del artículo 71 deben recibir cada año una auditoría financiera de sus cuentas anuales. En los ejercicios en que esta auditoría no sea incluida en el plan anual de actuaciones de control aprobado por la Intervención, debe realizarse con medios propios, y la entidad debe contratar a sociedades de auditoría o auditores de cuentas privados para que la lleven a cabo, sin perjuicio de que la Intervención General pueda realizar otros controles o dirigir la auditoría de cuentas anuales según el plan anual de actuaciones mencionado.
+2. Las auditorías de las sociedades de auditoría de cuentas o auditores de cuentas privados a las entidades del sector público de la Generalidad, incluidas las fundaciones de su sector público obligadas a ser auditadas en virtud de su normativa específica, deben llevarse a cabo de acuerdo con las normas de auditoría del sector público y las instrucciones que dicta la Intervención General.
+Esta disposición no es de aplicación a las sociedades de capital del sector público de la Generalidad obligadas por la normativa mercantil a someter sus cuentas anuales a auditoría.
+3. Las sociedades de auditoría o los auditores de cuentas individuales concurrentes, en relación con cada trabajo a adjudicar, no pueden ser contratados cuando el mismo año o el año anterior al que deben llevar a cabo el trabajo hayan realizado o realicen otros para la entidad sobre áreas o materias respecto de las cuales debe pronunciarse el auditor en su informe.
+4. Los auditores no pueden ser contratados con contratos sucesivos para realizar trabajos sobre una misma entidad por más de diez años. Posteriormente, no podrán ser contratados nuevamente hasta transcurridos dos años desde la finalización del período anterior. La duración de los contratos para las auditorías de las sociedades de capital del sector público de la Generalidad obligadas por la normativa mercantil a ser auditadas queda sometida a la normativa específica.
+Se añade por el art. 33.8 de la Ley 3/2023, de 16 de marzo. Ref. BOE-A-2023-10344
+Se modifica por el art. 97.10 Ley 5/2020, de 29 de abril. Ref. BOE-A-2020-5569
+Se modifica por el art. 155.2 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#a1-66
+Se modifica por el art. 137.3 de la Ley 2/2014, de 27 de enero. Ref. BOE-A-2014-2999
+Se modifican los apartados 1 a 3 por el art. 55.4 de la Ley 7/2011, de 27 de julio. Ref. BOE-A-2011-13896
+Se modifica el apartado 5 por el art. 18.2 de la Ley 17/2007, de 21 de diciembre. Ref. BOE-A-2008-3656
+Se añaden los apartados 4 a 8 por el art. 18.7 de la Ley 7/2004, de 16 de julio. Ref. BOE-A-2004-16713

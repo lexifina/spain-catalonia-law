@@ -1,0 +1,4 @@
+Disposición adicional decimoquinta. Perreras deportivas o de caza.
+1. Las perreras deportivas o de caza que alojen menos de quince ejemplares deben presentar a los servicios territoriales del departamento competente en materia de protección de los animales una declaración responsable en la que se describan las instalaciones donde se alojan y se justifique que cumplen los requisitos de bienestar de los animales y las medidas sanitarias y de higiene publicadas en la sede corporativa electrónica de la Generalidad.
+2. Las perreras a que se refiere el apartado 1 deben llevar el libro de registro a que se refiere el artículo 21.b, en el que deben constar los datos de entrada, salida y destino de animales y de la persona que es su propietaria o poseedora. Este libro debe estar a disposición de las administraciones competentes.
+Se añade por el art. 66.3 de la Ley 3/2023, de 16 de marzo. Ref. BOE-A-2023-10344

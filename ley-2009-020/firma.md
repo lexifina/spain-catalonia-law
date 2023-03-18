@@ -77,7 +77,7 @@ I.1 Actividades sometidas al régimen de evaluación de impacto ambiental y de a
 11.1.b.i) 2.000 plazas para cerdos de engorde (de más de 30 kg).
 11.1.b.ii) 2.500 plazas para cerdos de engorde (de más de 20 kg).
 11.1.c.i) 750 plazas para cerdas reproductoras.
-11.1.c.ii) 530 plazas para cerdas reproductoras en ciclo cerrado.
+11.1.c.ii) (Derogado)
 11.1.c.iii) En el caso de explotaciones mixtas, en las que coexistan animales de los apartados 11.1.b y 11.1.c, el número de animales para incluir el establecimiento en este anexo se determinará de acuerdo con las equivalencias en unidad de ganado mayor (UGM) de los diferentes tipos de ganado de cerda, recogidas en la legislación vigente sobre ordenación de las explotaciones porcinas.
 11.1.n) Por encima de 85.000 plazas de pollos de engorde.
 11.3 Instalaciones para la eliminación o el aprovechamiento de canales o restos de animales, con una capacidad de tratamiento superior a 10 toneladas por día.
@@ -129,6 +129,7 @@ I.3 Actividades sometidas al régimen de declaración de impacto ambiental con u
 2.1 Actividades extractivas e instalaciones de los recursos explotados.
 2.4 Explotaciones mineras subterráneas, operaciones conexas y perforaciones geotérmicas.
 2.5 Explotaciones ubicadas en terreno de dominio público hidráulico para extracciones superiores a 20.000 m3/año o en zona de policía de lecho cuya superficie supere las 3 hectáreas.
+Se deroga el epígrafe 11.1.c.ii del apartado I.1 por la disposición derogatoria.2.k) de la Ley 3/2023, de 16 de marzo. Ref. BOE-A-2023-10344
 Se modifica el epígrafe 1.1 del apartado I.1 por el art. 143.5 de la Ley 5/2020, de 29 de abril. Ref. BOE-A-2020-5569
 Se suprime el apartado I.3.1 por la disposición adicional 2.3 del Decreto-ley 16/2019, de 26 de noviembre. Ref. BOE-A-2020-445#da-2
 Se modifica el apartado I.2.a) por el art. 80.20 de la Ley 3/2015, de 11 de marzo. Ref. BOE-A-2015-3637.
@@ -348,7 +349,7 @@ Actividades sometidas al régimen de comunicación
 11.1.b.i) Plazas para cerdos de engorde (de más de 30 kg), con una capacidad de hasta 2.000 y superior a 10 reses.
 11.1.b.ii) Plazas para cerdos de engorde (de más de 20 kg), con una capacidad de hasta 2.000 y superior a 10 reses.
 11.1.c.i) Plazas para cerdas reproductoras, con una capacidad de hasta 750 y superior a 5 reses.
-11.1.c.ii) Plazas para cerdas reproductoras en ciclo cerrado, con una capacidad de hasta 530 y superior a 5 reses.
+11.1.c.ii) (Derogado)
 11.1.d) Plazas de vacuno de engorde, con una capacidad de hasta 600 y superior a 5 reses.
 11.1.e) Plazas de vacuno de leche, con una capacidad de hasta 300 y superior a 5 reses.
 11.1.f) Plazas de ovino y cabrío, con una capacidad de hasta 2.000 y superior a 10 reses.
@@ -403,6 +404,7 @@ Actividades sometidas al régimen de comunicación
 12.57 (Suprimido).
 12.58 (Suprimido).
 12.59. Almacenaje o manipulación de biomasa de origen vegetal (aprovechamientos forestales, tratamientos silvícolas, restos de jardinería, cultivos energéticos, serrín...) o de productos de esta biomasa (leña, pella, astilla, briquetas...) con una capacidad inferior a 10.000 m3.
+Se deroga el epígrafe 11.1.c.ii por la disposición derogatoria.2.k) de la Ley 3/2023, de 16 de marzo. Ref. BOE-A-2023-10344
 Se derogan los epígrafes 3.4, 8.5, 11.4 y 7, se modifican los epígrafes 1.1, 7.2,b), 11.1a) y j) y se añaden los epígrafes 11.10 y 4.7 por el art. 143.14 a 22 de la Ley 5/2020, de 29 de abril. Ref. BOE-A-2020-5569
 Se suprime el epígrafe 1.13 del apartado 1 por la disposición adicional 2.4 del Decreto-ley 16/2019, de 26 de noviembre. Ref. BOE-A-2020-445#da-2
 Se añade el epígrafe 1.14 al apartado 1 por el art. 196.2 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#a1-107
