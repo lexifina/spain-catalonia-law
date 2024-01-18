@@ -1,0 +1,1 @@
+Esta norma pasa a denominarse "Ley 25/2015, de 30 de julio, del voluntariado y el asociacionismo", según establece la disposición final 4.1 de la Ley 11/2023, de 27 de diciembre. Ref. BOE-A-2024-446#df-4
