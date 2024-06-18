@@ -40,14 +40,14 @@ En caso de nieve o hielo sobre la calzada y cuando el plan NEUCAT esté activado
 En ningún supuesto está permitida la circulación de vehículos o conjuntos de vehículos destinados al transporte de mercancías de más de 7.500 kg.
 6.2 Los vehículos o conjuntos de vehículos policiales, de extinción de incendios, de protección civil, de asistencia sanitaria, de conservación y mantenimiento tanto de la infraestructura vial como de gestión del tráfico y los destinados al auxilio en carretera pueden circular por el carril bus-VAO.
 7. Restricciones y exenciones de circulación en los accesos a Era Val d'Aran: N-230 y C-28.
-7.1 Los vehículos o conjuntos de vehículos de mercancías que superen los 7.500 kg de MMA o MMC no pueden circular en la N-230 del PK 116 y todo el tramo catalán hasta Bausen, frontera francesa, y tampoco en la C-28 del PK 23 Vielha e Mijaran al PK 34 Salardú:
+7.1 Los vehículos o conjuntos de vehículos de mercancías que superen los 7.500 kg de MMA o MMC no pueden circular en la N-230 del PK 116 y todo el tramo catalán hasta el PK 187 en Bausen, frontera francesa, y tampoco en la C-28 del PK 23 Vielha e Mijaran al PK 34 Salardú:
 – Domingos tarde de 13 a 20 horas de enero a marzo y diciembre sentido Lleida.
-– Domingos tarde de 17 a 22 horas de julio y agosto sentido Lleida, solo desde la boca sur del túnel de Vielha.
+– Domingos tarde de 17 a 22 horas de julio y agosto sentido Lleida, solo desde el PK 151 en la boca sur del túnel de Vielha.
 – Viernes de enero a marzo y diciembre, tarde de 17 a 24 horas sentido Francia.
-– Jueves Santo 28 de marzo, tarde de 17 a 24 horas sentido Francia.
-– Viernes Santo 29 de marzo, mañana de 8 a 13 horas sentido Francia.
-– Lunes de Pascua 1 de abril, tarde de 13 a 20 horas sentido Lleida.
-– Jueves 5 de diciembre, tarde de 17 a 24 horas sentido Francia.
+– Jueves Santo 28/03, tarde de 17 a 24 horas sentido Francia.
+– Viernes Santo 29/03, mañana de 8 a 13 horas sentido Francia.
+– Lunes de Pascua 01/04, tarde de 13 a 20 horas sentido Lleida.
+– Jueves 05/12, tarde de 17 a 24 horas sentido Francia.
 7.2 Están exentos de estas restricciones los siguientes supuestos:
 a) Los previstos en el anexo E.
 b) Los viernes de invierno de 17 a 24 horas, en la N-230 en sentido Francia, también están exentos los desplazamientos con destino a la residencia habitual del conductor, el lugar de domiciliación de los vehículos o la base de la empresa transportista.
@@ -91,16 +91,17 @@ Los accesos a Barcelona son las vías de dentro del perímetro formado por la C-
 12. Situaciones excepcionales de gestión del tráfico.
 La Policía de la Generalitat-Mossos d'Esquadra, junto con la Subdirección General de Gestión del Tráfico, puede permitir la circulación de los vehículos sometidos a las restricciones expuestas por razones excepcionales, de emergencia o de servicio público.
 13. Limitaciones.
-13.1 Todos los viernes y domingos en horario de tarde (de 17 a 22 horas) y sábados en horario de mañana (de 10 a 14 horas), los vehículos pesados con MMA igual o superior a 7.500 kg deberán circular por la derecha –sin posibilidad de efectuar adelantamientos– en la AP-7 entre Sant Celoni (PK 111) y Vilafranca del Penedès (PK 200), en ambos sentidos de la marcha.
+13.1 Todos los viernes y domingos en horario de tarde (de 17 a 22 horas) y sábados en horario de mañana (de 10 a 14 horas), los vehículos pesados de transporte de mercancías con MMA igual o superior a 7.500 kg deberán circular por la derecha –sin posibilidad de efectuar adelantamientos– en la AP-7 entre Sant Celoni (PK 111) y Vilafranca del Penedès (PK 200), en ambos sentidos de la marcha.
 Estas limitaciones se aplican en los siguientes casos, de forma análoga, con los horarios indicados en el párrafo anterior:
-a) Semana Santa: Jueves Santo 28 de marzo de tarde, Viernes Santo 29 de marzo de mañana, Lunes de Pascua 1 de abril de tarde.
-b) Segunda Pascua: viernes 31 de mayo de tarde, sábado 1 de junio de mañana y lunes 3 de junio de tarde.
-c) San Juan: viernes 21 de junio de tarde, sábado 22 de junio de mañana y lunes 24 de junio de tarde.
-d) La Mercè: viernes 20 de septiembre de tarde, sábado 21 de septiembre de mañana y martes 24 de septiembre de tarde.
-e) Todos los Santos: jueves 31 de octubre de tarde, viernes 1 de noviembre de mañana y domingo 3 de noviembre de tarde.
-f) La Purísima: jueves 5 de diciembre de tarde, viernes 6 de noviembre de mañana y domingo 8 de noviembre de tarde.
+a) Semana Santa: Jueves Santo 28/03 tarde, Viernes Santo 29/03 mañana, Lunes de Pascua 1/04 tarde.
+b) Segunda Pascua: viernes 31/05 tarde, sábado 01/06 mañana y lunes 03/06 tarde.
+c) San Juan: viernes 21/06 tarde, sábado 22/06 mañana y lunes 24/06 tarde.
+d) La Mercè: viernes 20/09 tarde, sábado 21/09 mañana y martes 24/09 tarde.
+e) Todos los Santos: jueves 31/10 tarde, viernes 01/11 mañana y domingo 03/11 tarde.
+f) La Purísima: jueves 05/12 tarde, viernes 06/12 mañana y domingo 08/12 tarde.
 13.2 Todos los domingos del 3 de enero al 24 de marzo, y del 8 de diciembre al 29 de diciembre en horario de tarde (de 17 a 22 horas) los vehículos pesados con MMA igual o superior a 7.500 kg tendrán que circular por la derecha –sin posibilidad de realizar adelantamientos– en la A-2 entre Igualada (PK 550) y Martorell (PK 586), sentido Barcelona.
 En todos los casos en que exista un carril adicional en sentido contrario, estos vehículos deberán circular a menos de 80 km/h y no podrán realizar adelantamientos, en ambos sentidos.
+Se modifican los apartado 7.1 y 13.1 por los apartados 3 y 4 de la Resolución INT/2064/2024, de 7 de junio. Ref. BOE-A-2024-12643
 ANEXO A
 Restricciones para la celebración de pruebas deportivas, marchas ciclistas, eventos de vehículos históricos y otros usos excepcionales de la vía
 Además de las autopistas, autovías, vías desdobladas y vías preferentes que tienen una restricción anual en los términos establecidos en el apartado 10, se añaden por demarcaciones las vías que se especifican a continuación en los horarios comprendidos en el siguiente cuadro:
@@ -184,25 +185,32 @@ N-II | 630 | Montgat. | 682,2 | Rotonda Can Bartolí. | BCN.
 Res de accesos Costa Brava. | C-63 | 0 | Lloret de Mar. | 13 | Vidreres. | GIR.
 GI-681 | 0 | Llagostera. | 16 | Tossa de Mar. | GIR.
 GI-682 | 3 | Límite Barcelona. | 13 | Lloret de Mar. | GIR.
+C-253 | 39 | Sant Feliu de Guíxols. | 50 | Palamós. | GIR.
+C-35 | 73,4 | Enlace Gi-512. | 83,1 | Maçanet de la Selva/enlace AP-7. | GIR.
 Res de accesos Pirineos. | N-145 | 0 | La Seu d'Urgell. | 10 | Límite Andorra. | LLE.
 C-14 | 116 | Ponts. | 178 | Adrall. | LLE.
 N-260 | 193 | Bellver de Cerdanya. | 234 | Adrall. | LLE.
- | Red | Red internacional | Red de accesos a Barcelona | Red Costa Brava | Red Pirineos
- | Vía | AP-7 | A-2 | AP-2 | A-7 | C-31 | C-32 | B-23 | A-2 | C-58 | B-24 | C-33 | C-16 | N-II | C-253 | C-31 | C-35 | C-63 | GI-681 | GI-682 | N-145 | C-14 | N-260
-SEMANA SANTA. | Jueves Santo 28 de marzo. | T | T (L) | T | T | T | T | T | T | T | T | T | T | T | T | T | T | T | T | T | T | T | T
-Viernes Santo 29 de marzo. | M | M (L) | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M
-Domingo de Pascua 31 de marzo. | T | T (B) | T | T | T | T | T | T | T | T | T | T | T | T | T | T | T | T | T | T | T | T
-Lunes de Pascua 1 de abril. | D | D | D | D | D | D | D | D | D | D | D | D | D | D | D | D | D | D | D | T | T | T
-SEGUNDA PASCUA. | Lunes 20 de mayo. | T |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
-VERANO. | Domingos y festivos del 16 de junio al 11 de septiembre. |  |  |  |  |  |  |  |  |  |  |  |  |  | D | D | D | D | D | D |  |  | 
-LA MERCÈ. | Martes 24 de septiembre. | T |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
-TODOS LOS SANTOS. | Domingo 3 de noviembre. | T | T (B) |  |  | T | T | T | T |  |  |  |  |  |  |  |  |  |  |  |  |  | 
-LA PURÍSIMA. | Domingo 8 de diciembre. | T | T (B) |  |  | T | T | T | T |  |  |  |  |  |  |  |  |  |  |  |  |  | 
-INVIERNO. | Sábados desde el 6 de enero al 30 de marzo y del 30 de noviembre al 28 de diciembre. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | M | M | M
-Domingos y festivos desde el 7 de enero al 24 de marzo y del 1 de diciembre al 29 de diciembre. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | T | T | T
+ | Red | Red internacional | Red de accesos a Barcelona | Red Costa Brava | Red Pirineus | 
+Vía | AP-7 | A-2 | AP-2 | A-7 | C-31 | C-32 | B-23 | A-2 | C-58 | B-24 | C-33 | C-16 | N-II | C-253 | C-35 | C-63 | GI-681 | GI-682 | N-145 | C-14 | N-260 | C-35 *
+SEMANA SANTA. | Jueves Santo 28/03. | T | T (L) | T | T | T | T | T | T | T | T | T | T | T | T | T | T | T | T | T | T | T | 
+Viernes Santo 29/03. | M | M (L) | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | 
+Domingo de Pascua 31/03. | T | T (B) | T | T | T | T | T | T | T | T | T | T | T | T | T | T | T | T | T | T | T | 
+Lunes de Pascua 01/04. | D | D | D | D | D | D | D | D | D | D | D | D | D | D | D | D | D | D | T | T | T | 
+SEGUNDA PASCUA. | Lunes 20/05. | T |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+SAN JUAN. | Viernes 21/06. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 6 a 20 h.
+Sábado 22/06. | M |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 6 a 20 h.
+Domingo 23/06. | ** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 6 a 20 h.
+Lunes 24/06. | D |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+VERANO. | Domingos y festivos del 16/06 al 11/09. |  |  |  |  |  |  |  |  |  |  |  |  |  | D | D | D | D | D |  |  |  | 
+LA MERCÈ. | Martes 24/09. | T |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+TODOS LOS SANTOS. | Domingo 3/11. | T | T (B) |  |  | T | T | T | T |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+LA PURÍSIMA. | Domingo 8/12. | T | T (B) |  |  | T | T | T | T |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+INVIERNO. | Sábados desde el 06/01 al 30/03 y del 30/11 al 28/12. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | M | M | M | 
+Domingos y festivos desde el 07/01 al 24/03 y del 01/12 al 29/12. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | T | T | T | 
 ANUAL. | Sábados. |  |  |  |  |  |  |  |  |  |  |  |  | M |  |  |  |  |  |  |  |  | 
 Domingos. |  |  |  |  |  |  |  |  |  |  |  |  | T |  |  |  |  |  |  |  |  | 
-Restricciones: M de 10 a 14 horas, T de 17 a 22 horas y D de 10 a 22 horas. Sentidos: B, hacia a Barcelona; L hacia Lleida.
+Restricciones: M de 10 a 14 horas, T de 17 a 22 horas y D de 10 a 22 horas. Sentidos: B, hacia Barcelona; L hacia Lleida; *C-35 del PK 28 al PK 32 dos sentidos; **AP-7 del PK 84 al PK 149 dos sentidos de 9 a 17 h.
+Se modifica por los apartados 1 y 2 de la Resolución INT/2064/2024, de 7 de junio. Ref. BOE-A-2024-12643
 ANEXO C
 Itinerarios de circulación de vehículos o conjuntos de vehículos con carga de mercancías peligrosas en régimen ADR que llevan los paneles naranja de peligro reglamentarios
 1. Red de itinerarios de mercancías peligrosas, rutas obligatorias:
