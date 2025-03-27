@@ -1,0 +1,10 @@
+Artículo 34 ter. Recargo para el resto de los municipios de Cataluña.
+1. Los municipios pueden establecer, por ordenanza municipal, un recargo sobre las tarifas establecidas en el apartado 1 del artículo 34. La aprobación de este recargo se debe ajustar a los requisitos, los límites y las condiciones siguientes:
+a) El importe máximo del recargo para cada categoría de establecimiento se fija en 4 euros.
+Este límite no aplica a las estancias en embarcaciones de crucero de 12 horas o menos. Los municipios podrán destinar a las finalidades que consideren adecuadas los recursos obtenidos del recargo del impuesto y, prioritariamente, en un porcentaje no menor al 25 % a las políticas de vivienda.
+b) La aprobación del recargo debe ser único para todas las categorías incluidas en cada tipo de establecimiento en que se divide la tarifa del apartado 1. Esta limitación no se aplica a la categoría de las embarcaciones de crucero.
+c) Con el límite del importe máximo establecido por la letra a y respetando el tipo de establecimiento al que hace referencia la letra b, se pueden aprobar importes diferentes según el código postal de emplazamiento de los establecimientos y según los periodos de liquidación establecidos en el reglamento del impuesto.
+d) La aprobación tiene efectos a partir del primer día del periodo de liquidación inmediatamente posterior a la publicación de la ordenanza municipal correspondiente en el Boletín Oficial de la Provincia que corresponda.
+2. En los términos, los plazos y las condiciones que se acuerden por convenio con cada uno de los ayuntamientos, la Generalitat de Catalunya les tiene que transferir las cantidades recaudadas en concepto del recargo a las que hace referencia este artículo minoradas en el importe que resulte del cálculo de los costes soportados por la Agencia Tributaria derivados de la gestión y la recaudación del recargo.
+Se añade por el art. único.5 del Decreto-ley 6/2025, de 25 de marzo. Ref. BOE-A-2025-10271
+El recargo al que hace referecia este artículo será aplicable en la forma establecida por la disposición final.2 del citado Decreto-ley.
