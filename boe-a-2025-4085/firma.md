@@ -174,7 +174,8 @@ Invierno. | Sábados del 04/01 al 29/03 y del 29/11 al 27/12. |  |  |  |  |  |  
 Domingos y festivos del 05/01 al 23/03 y del 07/12 al 28/12. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | T | T | T | 
 Anual. | Sábados. |  |  |  |  |  |  |  |  |  |  |  |  | M |  |  |  |  |  |  |  |  | 
 Domingos. |  |  |  |  |  |  |  |  |  |  |  |  | T |  |  |  |  |  |  |  |  | 
-Restricciones: M de 10 a 14 horas, T de 17 a 22 horas y D de 10 a 22 horas. Sentidos: B, hacia Barcelona; L hacia Lleida; * C-35 del PK 28 al PK 32 dos sentidos; ** del PK 84,5 al PK 210; *** AP-7 del PK 84 al PK 149 dos sentidos de 9 a 17 horas; **** Restricciones D, para conjuntos euromodulares y duotráilers.
+Restricciones: M de 10 a 14 horas, T de 17 a 22 horas y D de 10 a 22 horas. Sentidos: B, hacia Barcelona; L hacia Lleida; * C-35 del PK 28 al PK 32 dos sentidos; ** del PK 84,5 al PK 210; *** AP-7 del PK 84 al PK 149 dos sentidos de 9 a 17 horas; **** Restricciones D, para conjuntos euromodulares de hasta 60 toneladas.
+Se modifica el párrafo final de la segunda tabla por el apartado 1 de la Resolución ISP/1218/2025, de 1 de abril. Ref. BOE-A-2025-7591
 ANEXO B
 Exenciones a las restricciones a la circulación de vehículos o conjuntos de vehículos dedicados al transporte de mercancías en general
 1. Están exentos de restricción, por razón de las materias o mercancías transportadas, con carácter permanente y para cualquier itinerario, incluyendo la vuelta de vacío, los vehículos que transporten las siguientes mercancías:
