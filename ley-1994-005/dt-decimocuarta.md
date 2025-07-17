@@ -1,0 +1,3 @@
+Disposición transitoria decimocuarta. Régimen transitorio de la cobertura de accidentes personales.
+Hasta que no se modifiquen las coberturas de la póliza de seguros de accidentes personales de la Generalitat de acuerdo con lo que establece la disposición adicional undécima, el departamento competente en materia de prevención, extinción de incendios y salvamentos debe complementar las coberturas vigentes con la cuantía necesaria para garantizar a los titulares o beneficiarios respectivos el nivel de protección establecido con efectos de fecha 1 de junio de 2025.
+Se añade por el art. 10 del Decreto-ley 14/2025, de 15 de julio de 2025. Ref. BOE-A-2025-16907
