@@ -6,4 +6,6 @@ c) Los actos y obras que deben realizarse en cumplimiento de una orden de ejecuc
 d) En suelo no urbanizable y urbanizable no delimitado:
 Primero.–Los movimientos de tierra, la explanación de terrenos, la apertura, la pavimentación y la modificación de caminos rurales y la tala de masas arbóreas o de vegetación arbustiva que se ejecuten al amparo de un instrumento de ordenación forestal o bajo la intervención de la administración forestal y de la administración competente en materia de medio ambiente.
 Segundo.–La tala de masas arbóreas o de vegetación arbustiva que se ejecute bajo la intervención de una administración competente en materia de protección del dominio público y de la administración competente en materia de medio ambiente.
+Tercero.–Los puntos de agua de prevención de incendios forestales que se ejecuten al amparo de un instrumento de ordenación forestal o con la intervención de la administración forestal y de la administración competente en materia de medio ambiente.
+Se añade el apartado tercero por el art. 15 del Decreto-ley 21/2025, de 14 de octubre. Ref. BOE-A-2026-561
 Se añade por el art. 22.4 de la Ley 16/2015, de 21 de julio. Ref. BOE-A-2015-9208.
