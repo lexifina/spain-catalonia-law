@@ -73,4 +73,6 @@ En el caso de proyectos de plantas solares fotovoltaicas que afecten a suelos de
 – 4. Medidas que permitan prevenir, corregir y, en su caso, compensar los efectos adversos sobre el medio ambiente.
 – 5. Programa de vigilancia ambiental.
 – 6. Resumen del estudio y conclusiones en términos fácilmente comprensibles.
+– 7. En caso de parques solares o eólicos en que sea necesario hacer estudios cumplidos de ciclo anual de fauna y no sea posible avanzar en la tramitación bajo la asunción del riesgo por parte del promotor con resultados parciales, los resultados de los estudios no se requieren hasta el momento previo al trámite de información pública del proyecto.
+Se añade el apartado 7 por el art. 1.23 del Decreto-ley 22/2025, de 28 de octubre. Ref. BOE-A-2026-562
 Se modifica el apartado 3 por el art. 2.14 del Decreto-ley 24/2021, de 26 de octubre de 2021. Ref. BOE-A-2021-21113#a2
