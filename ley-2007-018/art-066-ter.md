@@ -1,0 +1,5 @@
+Artículo 66 ter. Arrendamiento de habitaciones.
+1. El arrendamiento de habitación es el contrato por el que la parte arrendadora se obliga a atribuir a la arrendataria el uso exclusivo de una habitación y el derecho a utilizar otras estancias o espacios de uso común de la vivienda, a cambio de un precio.
+2. El arrendamiento de habitaciones debe respetar los estándares de superficie por persona y el umbral máximo de ocupación de la vivienda fijados por la normativa sectorial en materia de vivienda y especificados en la cédula de habitabilidad.
+3. El arrendamiento de vivienda por habitaciones o cualquier otra clase de fragmentación física o contractual no desnaturaliza el carácter de arrendamiento de vivienda ni evita la aplicación de las reglas que le son propias. En esta clase de contratos, la suma de las rentas pactadas en varios contratos de arrendamiento de vigencia simultánea de una vivienda situada en una zona de mercado residencial tensionado no puede exceder de la renta máxima aplicable al arrendamiento unitario de la vivienda.
+Se añade por el art. 5.6 de la Ley 11/2025, de 29 de diciembre. Ref. BOE-A-2026-5547
