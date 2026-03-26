@@ -1,5 +1,7 @@
-Disposición adicional decimoquinta. Comunicación de datos entre los servicios sanitarios y los servicios sociales del sistema público.
-(Derogada)
+Disposición adicional decimoquinta. Comunicación de datos entre los servicios de salud y los servicios sociales del sistema público para el establecimiento del servicio proactivo de ofrecimiento del reconocimiento de discapacidad y de reconocimiento de la situación de dependencia.
+Se habilita la comunicación de datos entre la Red de Servicios Sociales de Atención Pública y los servicios sanitarios del sistema público, sin el consentimiento de las personas interesadas, para ofrecer proactivamente el servicios de reconocimiento de la discapacidad y de reconocimiento de la situación de dependencia a partir de la consecución de una edad determinada, o bien a partir de los datos de la historia clínica de las personas vistas por el sistema de salud, de las que resulte la existencia de una patología que pueda afectar a la autonomía personal.
+La habilitación comprende la comunicación desde los servicios de salud a los servicios sociales de los datos relacionados con las personas atendidas por los servicios sanitarios del sistema público, de carácter identificativo, de contacto, y también los datos de su historia clínica que puedan tener afectación en la autonomía personal, ya sea por situación de dependencia o de discapacidad.
+Se añade por el art. 8 del Decreto-ley 3/2026, de 24 de marzo. Ref. BOE-A-2026-10430
 Se deroga por la disposición derogatoria de la Ley 10/2025, de 26 de noviembre. Ref. BOE-A-2026-3382
 Se modifica la letra b) del apartado 1 por el art. 54 de la Ley 3/2023, de 16 de marzo. Ref. BOE-A-2023-10344
 Se añade por el art. 71 de la Ley 2/2021, de 29 de diciembre. Ref. BOE-A-2022-953
