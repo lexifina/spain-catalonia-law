@@ -1,0 +1,9 @@
+Artículo 47 bis. Vecindarios rurales tradicionales.
+1. Los vecindarios rurales tradicionales son aquellos núcleos de población ubicados en suelo no urbanizable de municipios rurales, con antigüedad acreditada de más de 100 años, donde se sitúen construcciones destinadas a vivienda habitual sin disponer de los servicios urbanísticos básicos propios de los asentamientos urbanos.
+2. Los municipios rurales, mediante su instrumento de planeamiento general o mediante un plan especial, pueden delimitar los vecindarios rurales y establecer las normas para el mantenimiento de su carácter.
+3. El uso principal de los vecindarios rurales tradicionales es el de vivienda. El planeamiento que los ordene puede admitir usos compatibles con el uso de vivienda, siempre y cuando estos no desvirtúen el carácter de vecindario rural tradicional.
+4. Las edificaciones existentes en los vecindarios rurales tradicionales se pueden rehabilitar y ampliar y se puede admitir su división horizontal, de conformidad con las condiciones establecidas por el planeamiento que las delimite y ordene.
+También se pueden admitir edificaciones de nueva planta para sustituir las edificaciones existentes y para ocupar los espacios vacíos accesibles desde la vía pública que completen el vecindario rural tradicional delimitado.
+5. En el procedimiento de evaluación ambiental del instrumento de planeamiento que delimite u ordene los vecindarios rurales tradicionales se debe tener en cuenta la integración paisajística y prever las medidas que sean necesarias para corregir su impacto negativo.
+6. La autorización de usos y obras en los vecindarios rurales tradicionales está únicamente sometida a la tramitación de una licencia municipal. En el informe de otorgamiento de las licencias de obras correspondientes se tiene que hacer referencia específicamente a la adecuada integración paisajística.
+Se añade por el art. 3 del Decreto-ley 6/2026, de 5 de mayo. Ref. BOE-A-2026-14658
