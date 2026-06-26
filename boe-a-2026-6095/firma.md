@@ -205,7 +205,8 @@ Invierno. | Sábados del 3/01 al 28/03 y del 28/11 al 26/12. |  |  |  |  |  |  |
 Domingos y festivos del 4/01 al 29/03 y del 6/12 al 27/12. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | T | T | T | 
 Anual. | Sábados. |  |  |  |  |  |  |  |  |  |  |  |  | M |  |  |  |  |  |  |  | 
 Domingos. |  |  |  |  |  |  |  |  |  |  |  |  | T |  |  |  |  |  |  |  | 
-Restricciones: M de 10 a 14 horas. T de 17 a 22 horas y D de 10 a 22 horas. Sentidos: B, hacia Barcelona; L hacia Lleida. * C-35 del PK 28 al PK 32 dos sentidos. ** Del PK 84,5 al PK 210. *** AP-7 del PK 84 al PK 149 dos sentidos de 9 a 17 horas. **** Restricciones T, para conjuntos euromodulares. ***** Del PK 265 al PK 344.
+Restricciones: M de 10 a 14 horas, T de 17 a 22 horas y D de 10 a 22 horas. Sentidos: B, hacia Barcelona; L, hacia Lérida; * C-35 del PK 28 al PK 32 dos sentidos; ** del PK 84,5 al PK 210; *** AP-7 del PK 84 al PK 149 dos sentidos de 9 a 17 horas; **** Restricciones D, para conjuntos euromodulares; ***** Del PK 265 al PK 344.
+Se modifica el párrafo final de la segunda tabla por el apartado 1 de la Resolución de 15 de junio de 2026. Ref. BOE-A-2026-16758
 ANEXO B
 Exenciones a las restricciones a la circulación de vehículos o conjuntos de vehículos dedicados al transporte de mercancías en general
 1. Están exentos de restricción, por razón de las materias o mercancías transportadas, con carácter permanente y para cualquier itinerario, incluyendo la vuelta de vacío, los vehículos que transporten las siguientes mercancías:
@@ -280,22 +281,22 @@ Itinerarios de circulación de vehículos o conjuntos de vehículos con carga de
 – Entre El Segrià y Arán: Por la A-14 y la N-230, admitiendo en Arán una zona alrededor de 50 km por carretera.
 – Entre El Gironès, El Pla de l'Estany y La Garrotxa: Por la C-66.
 3. Rutas concretas obligatorias, en función del origen y el destino del vehículo en régimen ADR, en el Camp de Tarragona, siempre en ambos sentidos:
-Grupo I
-A. Empresas con accesos por el vial de Els Prats: Todos los movimientos de entrada o salida de la empresa BASF deben hacerse exclusivamente por la carretera TV-3145 hasta el cruce con la N-340 (La Canonja):
-A.1 Desde la autopista AP-7/E-15 hasta estas empresas: Enlaces 35, Reus-Salou-Vila-seca dirección Port Aventura > acceso a la calzada principal A-7 sentido Barcelona > vial de Els Prats.
-A.2 Desde estas empresas hacia la zona de la refinería de La Pobla de Mafumet: Vial de Els Prats > A-7 > AP-7/E-15 entrada 35 > AP-7/E-15 salida 33 > A-27 > T-750.
-A.3 Desde estas empresas hasta el puerto marítimo: Vial de Els Prats > A-7 sentido Valencia > AP-7/E-15 entrada 35> AP-7/E-15 salida 33 > A-27 > puerto.
-A.4 Desde estas empresas hasta las empresas con accesos a la carretera N-340 (entre Vila-seca y Bonavista): Vial de Els Prats > A-7 sentido Barcelona > N-340, hacia cada empresa.
-A.5 Desde estas empresas hasta las empresas con accesos por la carretera C-31B: Vial de Els Prats sentido C-31B > C-31B sentido Tarragona hasta cada empresa.
+GRUPO I
+A. Empresas con accesos por el vial de Els Prats: todos los movimientos de entrada o salida de la empresa BASF deben realizarse exclusivamente por la carretera TV-3145 hasta el cruce con la N-340 (La Canonja):
+A.1 Desde la autopista AP-7/E-15 hasta estas empresas: enlaces 35, Reus-Salou-Vila-seca dirección Port Aventura > acceso a la calzada principal A-7 sentido Barcelona > vial de Els Prats, para enlazar con la TV-3146 > C-31B. Provisionalmente, y mientras duren las obras en TV-3146, la ruta a seguir es: A-7>TV-3148>C-31B.
+A.2 Desde estas empresas hacia la zona de la refinería de La Pobla de Mafumet: vial de Els Prats > A-7 > AP-7/E-15 entrada 35 > AP-7/E-15 salida 33 > A-27 > T-750.
+A.3 Desde estas empresas hasta el puerto marítimo: vial de Els Prats > A-7 sentido Valencia > AP-7/E-15 entrada 35> AP-7/E-15 salida 33 > A-27 > puerto.
+A.4 Desde estas empresas hasta las empresas con accesos a la carretera N-340 (entre Vila-seca y Bonavista): vial de Els Prats > A-7 sentido Barcelona > N-340, hacia cada empresa.
+A.5 Desde estas empresas hasta las empresas con accesos por la carretera C-31B: vial de Els Prats sentido C-31B, para enlazar con la TV-3146 > C-31B sentido Tarragona hasta cada empresa. Provisionalmente, y mientras duren las obras en TV-3146, la ruta a seguir es: A-7>TV-3148>C-31B.
 B. Empresas con accesos por la carretera N-340, tramo Vila-seca a Bonavista:
-B.1 Desde la autopista AP-7/E-15 hasta estas empresas: Salida 35 > dirección Port Aventura > acceso a A-7 > N-340.
+B.1 Desde la autopista AP-7/E-15 hasta estas empresas: salida 35 > dirección Port Aventura > acceso a A-7 > N-340.
 B.2 Desde estas empresas hasta la zona de la refinería: N-340 > N-340 sentido Vila-seca > A-7 > entrada 35 de la autopista AP-7/E-15 > salida 33 > A-27 > T-750.
-B.3 Desde estas empresas hacia el puerto marítimo: N-340 > A-7 sentido Valencia > AP-7/E-15 entrada 35 > AP-7/E-15 salida 33 > A-27 > puerto.
-B.4 Desde estas empresas hasta las empresas con accesos por el vial de Els Prats: N-340 sentido Vila-seca > A-7 > vial de Els Prats.
-B.5 Desde estas empresas hasta las empresas con accesos a la C-31B: N-340 sentido Vila-seca > A-7 > vial de Els Prats > C-31B.
+B.3 Desde estas empresas hacia el puerto marítimo: N-340 > A-7 sentido Valencia > AP-7/E-15 entrada 35 > AP-7/E-15 salida 33 >A-27 > puerto.
+B.4 Desde estas empresas hasta las empresas con accesos por el vial de Els Prats: N-340 sentido Vila-seca > A-7> vial de Els Prats.
+B.5 Desde estas empresas hasta las empresas con accesos a la C-31B: N-340 sentido Vila-seca > A-7 >vial de Els Prats, para enlazar con la TV-3146 > C-31B sentido Tarragona hasta cada empresa. Provisionalmente, y mientras duren las obras en la TV-3146, la ruta a seguir es: A-7>TV-3148>C-31B.
 C. Empresas con accesos por la carretera C-31B:
-C.1 Desde la autopista AP-7/E-15 hasta estas empresas: Salida 35 sentido Port Aventura > calzada lateral A-7 > A-7 > vial de Els Prats > C-31B.
-C.2 Desde estas empresas hacia la zona de la refinería: C-31B > vial de Els Prats > A-7 > entrada 35 de la autopista AP-7/E-15 > salida 33 > A-27 > T-750.
+C.1 Desde la autopista AP-7/E-15 hasta estas empresas: salida 35 sentido Port Aventura > calzada lateral A-7 > A-7 > vial de Els Prats, para enlazar con la TV-3146 > C-31B sentido Tarragona hasta cada empresa. Provisionalmente, y mientras duren las obras en TV-3146, la ruta a seguir es: A-7>TV-3148>C-31B.
+C.2 Desde estas empresas hacia la zona de la refinería: C-31B > vial de Els Prats > A-7 >entrada 35 de la autopista AP-7/E-15 > salida 33 > A-27 > T-750.
 C.3 Desde estas empresas hasta el puerto marítimo: C-31B > vial de Els Prats > A-7 sentido Valencia > AP-7/E-15 entrada 35 > AP-7/E-15 salida 33 > A-27 > puerto.
 C.4 Desde estas empresas hasta las empresas con accesos por el vial de Els Prats: C-31B > vial de Els Prats.
 C.5 Desde estas empresas hasta las empresas con accesos por la carretera N-340: C-31B > vial de Els Prats > A-7 > N-340.
@@ -326,6 +327,7 @@ a) Martorell, pueden circular por la A-2, extremando las medidas de seguridad a 
 b) Flix y Ascó, pueden circular en sentido sur por la C-44 y C-12 hacia la AP-7 y en sentido norte por la C-12, hacia la AP-2.
 c) Maella, Mazaleón, Valdeltormo, Calaceite, Valjunquera, Torre del Compte, La Fresneda, Cretas, Arens de Lledó, Lledó y Valderrobres por la N-420, pasando por Caseres hasta Móra la Nova.
 5. Plano de rutas básicas obligatorias de Catalunya (RIMP, Red de itinerarios de mercancías peligrosas):
+Se modifica el Grupo I del apartado 3 por el apartado 2 de la Resolución de 15 de junio de 2026. Ref. BOE-A-2026-16758
 ANEXO E
 Restricciones por la celebración de pruebas deportivas, marchas ciclistas, eventos de vehículos históricos y otros usos excepcionales de la vía
 Además de las autopistas, autovías, vías desdobladas y vías preferentes que tienen una restricción anual en los términos establecidos en el apartado 10, se añaden por demarcaciones las vías que se especifican a continuación en los horarios comprendidos en el siguiente cuadro:
