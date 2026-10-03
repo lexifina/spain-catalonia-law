@@ -1,0 +1,2 @@
+Disposición adicional decimotercera. Plan territorial sectorial de puntos de almacenamiento y depósito controlado de residuos con materiales que contienen amianto.
+El Gobierno, en uso de las atribuciones que le confiere la Ley 23/1983, de 21 de noviembre, de política territorial, debe aprobar un plan territorial sectorial en que se determine la existencia y la previsión de ubicación de los puntos de almacenamiento y depósito controlado de residuos con materiales que contienen amianto.

@@ -1,0 +1,2 @@
+Disposición adicional decimosexta. Impulso y uso de los medios adecuados de solución de conflictos.
+Las administraciones públicas de Cataluña y los entes que integran su sector público deben impulsar y usar la negociación, la conciliación, la mediación y los demás medios adecuados de solución de conflictos y de justicia restaurativa para la gestión y resolución de los conflictos relacionados con la retirada de los materiales que contienen amianto.

@@ -1,0 +1,2 @@
+Disposición adicional vigesimosegunda. Memorial y reconocimiento de las víctimas del amianto.
+El Gobierno, en colaboración con las entidades representativas de los intereses de las víctimas, debe impulsar la creación de un memorial a las víctimas del amianto y de programas de reconocimiento, divulgación y sensibilización, con el objetivo de preservar la memoria colectiva y contribuir a la reparación moral de las personas y comunidades afectadas.

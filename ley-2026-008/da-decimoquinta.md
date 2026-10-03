@@ -1,0 +1,2 @@
+Disposición adicional decimoquinta. Contratación pública al servicio de la retirada del amianto.
+Las administraciones públicas de Cataluña y los entes que integran su sector público deben poner su política contractual al servicio de la retirada del amianto, mediante cláusulas que tengan en cuenta la presencia o ausencia de materiales que contienen amianto o el inicio de los trabajos de retirada de estos materiales en los inmuebles que sean de titularidad de las personas físicas o jurídicas que opten a las licitaciones o bien que sean usados por estas personas.
