@@ -10,7 +10,7 @@ Basado en datos de la Agencia Estatal Boletín Oficial del Estado (<https://www.
 
 ## What this repository holds
 
-377 norms with 1975 versions so far: the Estatuto de Autonomía first, then the laws, decree-laws and legislative decrees in force that the BOE consolidates, oldest first, added in parts of about 50. 46 of them are repealed norms the BOE consolidates: their whole history is kept, and their last commit removes the text on the day the repeal took effect, credited to the repealing norm. Regulations are not included (the BOE consolidates no autonomic decrees or orders).
+378 norms with 1977 versions so far: the Estatuto de Autonomía first, then the laws, decree-laws and legislative decrees in force that the BOE consolidates, oldest first, added in parts of about 50. 47 of them are repealed norms the BOE consolidates: their whole history is kept, and their last commit removes the text on the day the repeal took effect, credited to the repealing norm. Regulations are not included (the BOE consolidates no autonomic decrees or orders).
 
 | Folder | Norm | Versions | History | BOE last updated |
 | --- | --- | ---: | --- | --- |
@@ -391,6 +391,7 @@ Basado en datos de la Agencia Estatal Boletín Oficial del Estado (<https://www.
 | `boe-a-2023-5030/` | Resolución INT/183/2023, de 24 de enero, por la que se establecen las restricciones a la circulación durante el año 2023. | 2 | as first published, then each change: 7 February 2023 to 22 February 2024; **repealed** 22 February 2024 by Resolución INT/360/2024, de 8 de febrero (BOE-A-2024-3943) | 2026-09-30 |
 | `boe-a-2024-3943/` | Resolución INT/360/2024, de 8 de febrero, por la que se establecen las restricciones a la circulación durante el año 2024. | 3 | as first published, then each change: 22 February 2024 to 25 February 2025; **repealed** 25 February 2025 by Resolución ISP/430/2025, de 11 de febrero (BOE-A-2025-4085) | 2026-09-30 |
 | `boe-a-2025-4085/` | Resolución ISP/430/2025, de 11 de febrero, por la que se establecen las restricciones a la circulación durante el año 2025. | 4 | as first published, then each change: 25 February 2025 to 19 February 2026; **repealed** 19 February 2026 by Resolución ISP/300/2026, de 6 de febrero (BOE-A-2026-6095) | 2026-03-16 |
+| `boe-a-2017-524/` | Resolución INT/2989/2016, de 27 de diciembre, por la que se establecen las restricciones a la circulación durante el año 2017. | 2 | as first published, then each change: 3 January 2017 to 18 January 2018; **repealed** 18 January 2018 by Resolución INT/3014/2017, de 29 de diciembre (BOE-A-2018-557) | 2026-10-13 |
 
 ## Source
 

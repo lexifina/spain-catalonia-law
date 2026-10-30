@@ -14866,6 +14866,26 @@
      "sha256": "82c8416186a0b53f3669980baaf8e76cff4023fd1f787104234610bae85d974d"
     }
    ]
+  },
+  {
+   "slug": "boe-a-2017-524",
+   "short": "Resolución INT/2989/2016, de 27 de diciembre",
+   "title": "Resolución INT/2989/2016, de 27 de diciembre, por la que se establecen las restricciones a la circulación durante el año 2017.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2017-524",
+   "versions": [
+    {
+     "from": "2017-01-03",
+     "units": 4,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2017-524",
+     "sha256": "f2ff39fe9ec782aab8303fad91b1b13baedee32f74a462984f13de3fd02edd2b"
+    },
+    {
+     "from": "2018-01-18",
+     "units": 0,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2017-524",
+     "sha256": "f2ff39fe9ec782aab8303fad91b1b13baedee32f74a462984f13de3fd02edd2b"
+    }
+   ]
   }
  ]
 }

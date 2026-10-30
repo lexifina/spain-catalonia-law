@@ -421,6 +421,12 @@
     "ley-2014-011"
    ],
    "sha256": "1883d657662ec5375bb904c6842c68d4ff90835f1f20872ff915405335d99858"
+  },
+  "97-derogadas-20261105-01.json": {
+   "acts": [
+    "boe-a-2017-524"
+   ],
+   "sha256": "2b31cafaf5ef16671ad6c1e5eb8f48b5a4b167efbfac4e9c162393bc546526f9"
   }
  },
  "schema": 1
