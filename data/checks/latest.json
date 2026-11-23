@@ -1,52 +1,55 @@
 {
- "generated": "2026-11-23T01:09:22Z",
+ "generated": "2026-11-23T14:05:48Z",
  "latest": {
   "boe-autonomico|spain/catalonia/acts": {
-   "attempt": 1,
+   "attempt": 2,
    "audit": null,
    "census": {
     "awaiting_text": 4,
-    "current": 267,
+    "current": 266,
     "gone": 0,
     "held": 378,
     "listed_without_text": 0,
     "newest_at_source": "BOE-A-2026-17836",
     "newest_in_repo": "BOE-A-2026-17836",
     "out_of_scope": 3,
-    "pending": 111,
+    "pending": 112,
     "repo": 378,
     "source_in_scope": 381
    },
-   "check_id": "es-boe-autonomico-20261123T010815Z",
+   "check_id": "es-boe-autonomico-20261123T135441Z",
    "commits": null,
    "corpus": "spain/catalonia/acts",
    "error": null,
-   "finished": "2026-11-23T01:08:16Z",
+   "finished": "2026-11-23T13:54:43Z",
    "flags": [
     {
      "detail": "9 norms new or updated at the BOE over 7 days ago are not here in that form",
      "flag": "publish-lag"
     }
    ],
-   "gap": 118,
-   "note": "the BOE's list of 12477 consolidated norms (8854 Estatal, 3623 Autonómico) was read once at 01:06 UTC for the 20 Spanish corpora (check es-boe-estatal-20261123T010631Z); this repository's data run to 2026-10-30; 3 norms whose force ran out at the BOE are not held: outside this repository's scope; first check: the BOE's entries were recorded as the baseline for the next check",
-   "outcome": "no-change",
+   "gap": 119,
+   "note": "the BOE's list of 12481 consolidated norms (8857 Estatal, 3624 Autonómico) was read once at 13:46 UTC for the 20 Spanish corpora (check es-boe-autonomico-20261123T134629Z); this repository's data run to 2026-10-30; 3 norms whose force ran out at the BOE are not held: outside this repository's scope",
+   "outcome": "changed",
    "published": {
     "added": [],
     "changed": [],
     "removed": []
    },
-   "requests": 10,
-   "runner": "lawwatch spain (f95b387938)",
+   "requests": 132,
+   "runner": "lawwatch spain (f13b561b4f)",
    "schema": "lexifina-check/1",
    "seen": {
     "added": [],
-    "changed": [],
+    "changed": [
+     "BOE-A-2002-1373",
+     "BOE-A-2006-13087"
+    ],
     "removed": []
    },
-   "snapshot": "2026-11-20T13:08:24Z",
+   "snapshot": "2026-11-23T13:21:37Z",
    "source": "boe-autonomico",
-   "started": "2026-11-23T01:08:15Z",
+   "started": "2026-11-23T13:54:41Z",
    "unexplained": 0,
    "verify": null
   }

@@ -6,8 +6,8 @@
  "totals": {
   "acts": 378,
   "by_status": {
-   "current": 267,
-   "pending-change": 111,
+   "current": 266,
+   "pending-change": 112,
    "stale": 0,
    "unverified": 0,
    "source-unavailable": 0
