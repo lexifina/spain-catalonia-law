@@ -6,7 +6,7 @@
 
 How global-law monitors every country: [global-law monitoring/](https://github.com/lexifina/global-law/tree/main/monitoring). This page is the same for Catalonia only: every time an official source is read, when, and what came of it (acts added, changed and removed). The machine-readable form is [data/checks/](../data/checks/) (JSON Lines, schema `lexifina-check/1`), in `git log` as `Kind: check` commits, and month by month in [checks/](checks/).
 
-**Last check:** 2026-11-27 15:16 UTC, BOE consolidated legislation, autonomous communities (open data): 132 addresses read; 0 added, 0 changed, 0 removed; the check failed; 119 not published, 0 of them with no reason. Flags: `publish-lag`.
+**Last check:** 2026-11-28 15:15 UTC, BOE consolidated legislation, autonomous communities (open data): 132 addresses read; 0 added, 0 changed, 0 removed; the check failed; 120 not published, 0 of them with no reason. Flags: `publish-lag`.
 
 ## Sources
 
@@ -18,6 +18,13 @@ How global-law monitors every country: [global-law monitoring/](https://github.c
 
 | Started (UTC) | Source | Read | Added | Changed | Removed | Not published (no reason) | Result | Commits |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- | ---: |
+| [2026-11-28 15:10](checks/2026-11.md#es-boe-autonomico-20261128t151029z) | boe-autonomico | 132 | 0 | 0 | 0 | 120 (0) | the check failed `publish-lag` | — |
+| [2026-11-28 14:10](checks/2026-11.md#es-boe-autonomico-20261128t141005z) | boe-autonomico | 132 | 0 | 0 | 0 | 120 (0) | the check failed `publish-lag` | — |
+| [2026-11-28 10:09](checks/2026-11.md#es-boe-autonomico-20261128t100929z) | boe-autonomico | 132 | 0 | 2 | 0 | 120 (0) | the check failed `publish-lag` | — |
+| [2026-11-28 09:10](checks/2026-11.md#es-boe-autonomico-20261128t091057z) | boe-autonomico | 0 | 0 | 0 | 0 | 0 (0) | the source did not answer | — |
+| [2026-11-28 08:10](checks/2026-11.md#es-boe-autonomico-20261128t081058z) | boe-autonomico | 0 | 0 | 0 | 0 | 0 (0) | the source did not answer | — |
+| [2026-11-28 07:06](checks/2026-11.md#es-boe-autonomico-20261128t070638z) | boe-autonomico | 0 | 0 | 0 | 0 | 0 (0) | the check failed | — |
+| [2026-11-28 06:25](checks/2026-11.md#es-boe-autonomico-20261128t062549z) | boe-autonomico | 133 | 0 | 0 | 0 | 119 (0) | the check failed `publish-lag` | — |
 | [2026-11-27 15:11](checks/2026-11.md#es-boe-autonomico-20261127t151112z) | boe-autonomico | 132 | 0 | 0 | 0 | 119 (0) | the check failed `publish-lag` | — |
 | [2026-11-27 14:09](checks/2026-11.md#es-boe-autonomico-20261127t140958z) | boe-autonomico | 132 | 0 | 0 | 0 | 119 (0) | the check failed `publish-lag` | — |
 | [2026-11-27 13:09](checks/2026-11.md#es-boe-autonomico-20261127t130945z) | boe-autonomico | 132 | 0 | 0 | 0 | 119 (0) | the check failed `publish-lag` | — |

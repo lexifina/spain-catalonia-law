@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-27T15:18:13Z",
+ "generated": "2026-11-28T15:17:11Z",
  "latest": {
   "boe-autonomico|spain/catalonia/acts": {
-   "attempt": 9,
+   "attempt": 7,
    "audit": null,
    "census": {
-    "awaiting_text": 4,
+    "awaiting_text": 5,
     "current": 266,
     "gone": 0,
     "held": 378,
@@ -17,19 +17,19 @@
     "repo": 378,
     "source_in_scope": 381
    },
-   "check_id": "es-boe-autonomico-20261127T151112Z",
+   "check_id": "es-boe-autonomico-20261128T151029Z",
    "commits": null,
    "corpus": "spain/catalonia/acts",
    "error": "KeyError: 'backfill'",
-   "finished": "2026-11-27T15:16:21Z",
+   "finished": "2026-11-28T15:15:38Z",
    "flags": [
     {
-     "detail": "107 norms new or updated at the BOE over 7 days ago are not here in that form",
+     "detail": "106 norms new or updated at the BOE over 7 days ago are not here in that form",
      "flag": "publish-lag"
     }
    ],
-   "gap": 119,
-   "note": "the BOE's list of 12498 consolidated norms (8873 Estatal, 3625 Autonómico) was read once at 15:05 UTC for the 20 Spanish corpora (check es-boe-autonomico-20261127T150550Z); this repository's data run to 2026-10-30; 3 norms whose force ran out at the BOE are not held: outside this repository's scope",
+   "gap": 120,
+   "note": "the BOE's list of 12498 consolidated norms (8873 Estatal, 3625 Autonómico) was read once at 15:06 UTC for the 20 Spanish corpora (check es-boe-autonomico-20261128T150621Z); this repository's data run to 2026-10-30; 3 norms whose force ran out at the BOE are not held: outside this repository's scope",
    "outcome": "failed",
    "published": {
     "added": [],
@@ -44,9 +44,9 @@
     "changed": [],
     "removed": []
    },
-   "snapshot": "2026-11-27T13:59:39Z",
+   "snapshot": "2026-11-28T06:15:37Z",
    "source": "boe-autonomico",
-   "started": "2026-11-27T15:11:12Z",
+   "started": "2026-11-28T15:10:29Z",
    "unexplained": 0,
    "verify": null
   }
